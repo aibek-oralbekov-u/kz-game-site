@@ -1,5 +1,5 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}6bed54a8612e`;
+const CACHE = `${PREFIX}2fd9eb6b4e23`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';
@@ -28,9 +28,9 @@ self.addEventListener('install', event => {
       }
       for (const imported of entry.imports || []) collect(imported);
     };
-    // Dynamic imports and images are downloaded only when requested.
+    // The hub is required to boot the new shell offline; other packs stay lazy.
     for (const [key, entry] of Object.entries(manifest)) {
-      if (entry.isEntry) collect(key);
+      if (entry.isEntry || entry.isHub) collect(key);
     }
     await cache.addAll([...assets].map(localRequest));
     await self.skipWaiting();
