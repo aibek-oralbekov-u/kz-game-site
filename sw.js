@@ -1,13 +1,14 @@
 // Bump this version whenever publishing a new build (including content changes).
-const CACHE = 'kz-game-v2';
+const CACHE = 'kz-game-v3';
 const PREFIX = 'kz-game-';
 const sameOrigin = value => new URL(value, self.location.origin).origin === self.location.origin;
-const localRequest = path => new Request(path, { cache: 'reload', credentials: 'same-origin', mode: 'same-origin', redirect: 'error' });
+const PRECACHE = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg', '/asset-manifest.json'];
+const localRequest = path => new Request(path, { cache: 'reload', credentials: 'omit', mode: 'same-origin', redirect: 'error' });
 
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
     const cache = await caches.open(CACHE);
-    await cache.addAll(['/', '/index.html', '/manifest.webmanifest', '/icon.svg', '/asset-manifest.json'].map(localRequest));
+    await cache.addAll(PRECACHE.map(localRequest));
     const response = await cache.match('/asset-manifest.json');
     const manifest = await response.json();
     const assets = new Set();
@@ -41,16 +42,24 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const request = event.request;
   if (request.method !== 'GET' || !sameOrigin(request.url)) return;
+  const url = new URL(request.url);
+  const navigation = request.mode === 'navigate';
+  if (!navigation && !PRECACHE.includes(url.pathname) && !url.pathname.startsWith('/assets/')) return;
+  if (!navigation && (request.credentials === 'include' || request.headers.has('Authorization'))) return;
   event.respondWith((async () => {
     const cache = await caches.open(CACHE);
-    const cached = await cache.match(request);
+    const cached = await cache.match(navigation ? '/' : request);
     if (cached) return cached;
     try {
-      // Cache API performs the same-origin download without recording or application networking.
-      await cache.add(new Request(request, { mode: 'same-origin', redirect: 'error' }));
-      return (await cache.match(request)) || Response.error();
+      if (navigation) return await fetch(request);
+      // Static assets are downloaded without credentials and cached only after inspection.
+      const response = await fetch(new Request(request, { credentials: 'omit', mode: 'same-origin', redirect: 'error' }));
+      if (response.status === 200 && (response.type === 'basic' || response.type === 'default')) {
+        try { await cache.put(request, response.clone()); } catch { /* Return the network response even if caching fails. */ }
+      }
+      return response;
     } catch {
-      return request.mode === 'navigate' ? (await cache.match('/')) || Response.error() : Response.error();
+      return Response.error();
     }
   })());
 });
