@@ -156,12 +156,12 @@
     "src": "content/locations/taksi/assets/04-tusu.webp"
   },
   "index.html": {
-    "file": "assets/index-BDWM8Oy5.js",
+    "file": "assets/index-D9NA4mMh.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/index-CHq2yHzg.css"
+      "assets/index-vMy3B2Hw.css"
     ],
     "assets": [
       "assets/01-ayaldama-BtV3H-n1.webp",
@@ -203,6 +203,12 @@
       "assets/02-otyru-B4mUzvV3.webp",
       "assets/03-salon-CQjuw5B9.webp",
       "assets/04-tusu-szgkttah.webp",
+      "assets/fx-birds-JlgSp30Z.webp",
+      "assets/fx-clouds-BgpblFBy.webp",
+      "assets/fx-leaves-Dga4Iiii.webp",
+      "assets/fx-ripple-PxbAPY49.webp",
+      "assets/fx-sparkles-C485MUjf.webp",
+      "assets/fx-steam-DuHOHI0H.webp",
       "assets/hero-lobby-BQ7MH0Ph.webp",
       "assets/icon-back-BU_LHUxn.webp",
       "assets/icon-check-BHLR9Ke3.webp",
@@ -227,6 +233,30 @@
   "ui-assets/fonts/Rubik.woff2": {
     "file": "assets/Rubik-B4FcBJj4.woff2",
     "src": "ui-assets/fonts/Rubik.woff2"
+  },
+  "ui-assets/fx-birds.webp": {
+    "file": "assets/fx-birds-JlgSp30Z.webp",
+    "src": "ui-assets/fx-birds.webp"
+  },
+  "ui-assets/fx-clouds.webp": {
+    "file": "assets/fx-clouds-BgpblFBy.webp",
+    "src": "ui-assets/fx-clouds.webp"
+  },
+  "ui-assets/fx-leaves.webp": {
+    "file": "assets/fx-leaves-Dga4Iiii.webp",
+    "src": "ui-assets/fx-leaves.webp"
+  },
+  "ui-assets/fx-ripple.webp": {
+    "file": "assets/fx-ripple-PxbAPY49.webp",
+    "src": "ui-assets/fx-ripple.webp"
+  },
+  "ui-assets/fx-sparkles.webp": {
+    "file": "assets/fx-sparkles-C485MUjf.webp",
+    "src": "ui-assets/fx-sparkles.webp"
+  },
+  "ui-assets/fx-steam.webp": {
+    "file": "assets/fx-steam-DuHOHI0H.webp",
+    "src": "ui-assets/fx-steam.webp"
   },
   "ui-assets/hero-lobby.webp": {
     "file": "assets/hero-lobby-BQ7MH0Ph.webp",
