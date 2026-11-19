@@ -1,5 +1,5 @@
 // Bump this version whenever publishing a new build (including content changes).
-const CACHE = 'kz-game-v1';
+const CACHE = 'kz-game-v2';
 const PREFIX = 'kz-game-';
 const sameOrigin = value => new URL(value, self.location.origin).origin === self.location.origin;
 const localRequest = path => new Request(path, { cache: 'reload', credentials: 'same-origin', mode: 'same-origin', redirect: 'error' });
@@ -11,12 +11,22 @@ self.addEventListener('install', event => {
     const response = await cache.match('/asset-manifest.json');
     const manifest = await response.json();
     const assets = new Set();
-    for (const entry of Object.values(manifest)) {
-      for (const path of [entry.file, ...(entry.css || []), ...(entry.assets || [])]) {
+    const visited = new Set();
+    const collect = key => {
+      if (visited.has(key)) return;
+      visited.add(key);
+      const entry = manifest[key];
+      if (!entry) throw new Error('Missing build import');
+      for (const path of [entry.file, ...(entry.css || [])].filter(Boolean)) {
         const url = new URL(path, self.location.origin);
         if (!sameOrigin(url) || !url.pathname.startsWith('/assets/')) throw new Error('Nonlocal build asset');
         assets.add(url.href);
       }
+      for (const imported of entry.imports || []) collect(imported);
+    };
+    // Image entries are listed by Vite too; begin only with JS/CSS chunks.
+    for (const [key, entry] of Object.entries(manifest)) {
+      if (/\.(m?js|css)$/i.test(entry.file || '')) collect(key);
     }
     await cache.addAll([...assets].map(localRequest));
     await self.skipWaiting();

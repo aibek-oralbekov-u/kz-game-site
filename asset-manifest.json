@@ -1,11 +1,208 @@
 {
+  "content/locations/avtobus/assets/01-ayaldama.webp": {
+    "file": "assets/01-ayaldama-BtV3H-n1.webp",
+    "src": "content/locations/avtobus/assets/01-ayaldama.webp"
+  },
+  "content/locations/avtobus/assets/02-kiru.webp": {
+    "file": "assets/02-kiru-kcsNB3ZP.webp",
+    "src": "content/locations/avtobus/assets/02-kiru.webp"
+  },
+  "content/locations/avtobus/assets/03-salon.webp": {
+    "file": "assets/03-salon-DetnARpA.webp",
+    "src": "content/locations/avtobus/assets/03-salon.webp"
+  },
+  "content/locations/avtobus/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-C-fVnS2z.webp",
+    "src": "content/locations/avtobus/assets/04-shygu.webp"
+  },
+  "content/locations/darihana/assets/01-vhod.webp": {
+    "file": "assets/01-vhod-Bl0UXItq.webp",
+    "src": "content/locations/darihana/assets/01-vhod.webp"
+  },
+  "content/locations/darihana/assets/02-vitrina.webp": {
+    "file": "assets/02-vitrina-Ca932_jJ.webp",
+    "src": "content/locations/darihana/assets/02-vitrina.webp"
+  },
+  "content/locations/darihana/assets/03-farmacevt.webp": {
+    "file": "assets/03-farmacevt-DRkUt_0L.webp",
+    "src": "content/locations/darihana/assets/03-farmacevt.webp"
+  },
+  "content/locations/darihana/assets/04-vyhod.webp": {
+    "file": "assets/04-vyhod-D6KlmcjU.webp",
+    "src": "content/locations/darihana/assets/04-vyhod.webp"
+  },
+  "content/locations/dvor/assets/01-podyezd.webp": {
+    "file": "assets/01-podyezd-CBkw4KOY.webp",
+    "src": "content/locations/dvor/assets/01-podyezd.webp"
+  },
+  "content/locations/dvor/assets/02-ploshchadka.webp": {
+    "file": "assets/02-ploshchadka-BRDl_sHn.webp",
+    "src": "content/locations/dvor/assets/02-ploshchadka.webp"
+  },
+  "content/locations/dvor/assets/03-futbol.webp": {
+    "file": "assets/03-futbol-D0fbd82p.webp",
+    "src": "content/locations/dvor/assets/03-futbol.webp"
+  },
+  "content/locations/emhana/assets/01-registratura.webp": {
+    "file": "assets/01-registratura-vav9E6h3.webp",
+    "src": "content/locations/emhana/assets/01-registratura.webp"
+  },
+  "content/locations/emhana/assets/02-kutu.webp": {
+    "file": "assets/02-kutu-59MEyqKY.webp",
+    "src": "content/locations/emhana/assets/02-kutu.webp"
+  },
+  "content/locations/emhana/assets/03-dariger.webp": {
+    "file": "assets/03-dariger-DriBz2mP.webp",
+    "src": "content/locations/emhana/assets/03-dariger.webp"
+  },
+  "content/locations/emhana/assets/04-vyhod.webp": {
+    "file": "assets/04-vyhod-Bv-4Z2GS.webp",
+    "src": "content/locations/emhana/assets/04-vyhod.webp"
+  },
+  "content/locations/futbol-match/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-BSIQc5o2.webp",
+    "src": "content/locations/futbol-match/assets/01-kiru.webp"
+  },
+  "content/locations/futbol-match/assets/02-tribuna.webp": {
+    "file": "assets/02-tribuna-D69075Fv.webp",
+    "src": "content/locations/futbol-match/assets/02-tribuna.webp"
+  },
+  "content/locations/futbol-match/assets/03-gol.webp": {
+    "file": "assets/03-gol-Cg1hqWO0.webp",
+    "src": "content/locations/futbol-match/assets/03-gol.webp"
+  },
+  "content/locations/futbol-match/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-BC_JP8Xy.webp",
+    "src": "content/locations/futbol-match/assets/04-shygu.webp"
+  },
+  "content/locations/kvartira/assets/01-zal.webp": {
+    "file": "assets/01-zal-DujZvjUp.webp",
+    "src": "content/locations/kvartira/assets/01-zal.webp"
+  },
+  "content/locations/kvartira/assets/02-kuhnya.webp": {
+    "file": "assets/02-kuhnya-BNgT0iJ-.webp",
+    "src": "content/locations/kvartira/assets/02-kuhnya.webp"
+  },
+  "content/locations/kvartira/assets/03-spalnya.webp": {
+    "file": "assets/03-spalnya-CaE95HCZ.webp",
+    "src": "content/locations/kvartira/assets/03-spalnya.webp"
+  },
+  "content/locations/kvartira/assets/04-prihozhaya-vyhod.webp": {
+    "file": "assets/04-prihozhaya-vyhod-Dsmzpo7J.webp",
+    "src": "content/locations/kvartira/assets/04-prihozhaya-vyhod.webp"
+  },
+  "content/locations/magazin/assets/01-vhod.webp": {
+    "file": "assets/01-vhod-DHc8utPC.webp",
+    "src": "content/locations/magazin/assets/01-vhod.webp"
+  },
+  "content/locations/magazin/assets/02-ryady.webp": {
+    "file": "assets/02-ryady-D-T1mFL_.webp",
+    "src": "content/locations/magazin/assets/02-ryady.webp"
+  },
+  "content/locations/magazin/assets/03-kassa.webp": {
+    "file": "assets/03-kassa-BGJPdHym.webp",
+    "src": "content/locations/magazin/assets/03-kassa.webp"
+  },
+  "content/locations/magazin/assets/04-vyhod.webp": {
+    "file": "assets/04-vyhod-DH4ElnJT.webp",
+    "src": "content/locations/magazin/assets/04-vyhod.webp"
+  },
+  "content/locations/mektep/assets/01-vhod.webp": {
+    "file": "assets/01-vhod-BFuyMq0g.webp",
+    "src": "content/locations/mektep/assets/01-vhod.webp"
+  },
+  "content/locations/mektep/assets/02-daliz.webp": {
+    "file": "assets/02-daliz-DCsaqYFa.webp",
+    "src": "content/locations/mektep/assets/02-daliz.webp"
+  },
+  "content/locations/mektep/assets/03-synyp.webp": {
+    "file": "assets/03-synyp-8tGrMva9.webp",
+    "src": "content/locations/mektep/assets/03-synyp.webp"
+  },
+  "content/locations/mektep/assets/04-vyhod.webp": {
+    "file": "assets/04-vyhod-jElMZ6-9.webp",
+    "src": "content/locations/mektep/assets/04-vyhod.webp"
+  },
+  "content/locations/saiabaq/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-BjCo05vk.webp",
+    "src": "content/locations/saiabaq/assets/01-kiru.webp"
+  },
+  "content/locations/saiabaq/assets/02-alleya.webp": {
+    "file": "assets/02-alleya-BHozOPIj.webp",
+    "src": "content/locations/saiabaq/assets/02-alleya.webp"
+  },
+  "content/locations/saiabaq/assets/03-fontan.webp": {
+    "file": "assets/03-fontan-C-o_4d_L.webp",
+    "src": "content/locations/saiabaq/assets/03-fontan.webp"
+  },
+  "content/locations/saiabaq/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-3RWirugL.webp",
+    "src": "content/locations/saiabaq/assets/04-shygu.webp"
+  },
+  "content/locations/taksi/assets/01-shaqyru.webp": {
+    "file": "assets/01-shaqyru-DHopChzA.webp",
+    "src": "content/locations/taksi/assets/01-shaqyru.webp"
+  },
+  "content/locations/taksi/assets/02-otyru.webp": {
+    "file": "assets/02-otyru-B4mUzvV3.webp",
+    "src": "content/locations/taksi/assets/02-otyru.webp"
+  },
+  "content/locations/taksi/assets/03-salon.webp": {
+    "file": "assets/03-salon-CQjuw5B9.webp",
+    "src": "content/locations/taksi/assets/03-salon.webp"
+  },
+  "content/locations/taksi/assets/04-tusu.webp": {
+    "file": "assets/04-tusu-szgkttah.webp",
+    "src": "content/locations/taksi/assets/04-tusu.webp"
+  },
   "index.html": {
-    "file": "assets/index-CQhKq-xu.js",
+    "file": "assets/index-CG9hvaVT.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/index-BgN1tzJN.css"
+      "assets/index-Id6jVnZd.css"
+    ],
+    "assets": [
+      "assets/01-ayaldama-BtV3H-n1.webp",
+      "assets/02-kiru-kcsNB3ZP.webp",
+      "assets/03-salon-DetnARpA.webp",
+      "assets/04-shygu-C-fVnS2z.webp",
+      "assets/01-vhod-Bl0UXItq.webp",
+      "assets/02-vitrina-Ca932_jJ.webp",
+      "assets/03-farmacevt-DRkUt_0L.webp",
+      "assets/04-vyhod-D6KlmcjU.webp",
+      "assets/01-podyezd-CBkw4KOY.webp",
+      "assets/02-ploshchadka-BRDl_sHn.webp",
+      "assets/03-futbol-D0fbd82p.webp",
+      "assets/01-registratura-vav9E6h3.webp",
+      "assets/02-kutu-59MEyqKY.webp",
+      "assets/03-dariger-DriBz2mP.webp",
+      "assets/04-vyhod-Bv-4Z2GS.webp",
+      "assets/01-kiru-BSIQc5o2.webp",
+      "assets/02-tribuna-D69075Fv.webp",
+      "assets/03-gol-Cg1hqWO0.webp",
+      "assets/04-shygu-BC_JP8Xy.webp",
+      "assets/01-zal-DujZvjUp.webp",
+      "assets/02-kuhnya-BNgT0iJ-.webp",
+      "assets/03-spalnya-CaE95HCZ.webp",
+      "assets/04-prihozhaya-vyhod-Dsmzpo7J.webp",
+      "assets/01-vhod-DHc8utPC.webp",
+      "assets/02-ryady-D-T1mFL_.webp",
+      "assets/03-kassa-BGJPdHym.webp",
+      "assets/04-vyhod-DH4ElnJT.webp",
+      "assets/01-vhod-BFuyMq0g.webp",
+      "assets/02-daliz-DCsaqYFa.webp",
+      "assets/03-synyp-8tGrMva9.webp",
+      "assets/04-vyhod-jElMZ6-9.webp",
+      "assets/01-kiru-BjCo05vk.webp",
+      "assets/02-alleya-BHozOPIj.webp",
+      "assets/03-fontan-C-o_4d_L.webp",
+      "assets/04-shygu-3RWirugL.webp",
+      "assets/01-shaqyru-DHopChzA.webp",
+      "assets/02-otyru-B4mUzvV3.webp",
+      "assets/03-salon-CQjuw5B9.webp",
+      "assets/04-tusu-szgkttah.webp"
     ]
   }
 }
