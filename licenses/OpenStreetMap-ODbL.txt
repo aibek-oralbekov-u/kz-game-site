@@ -1,0 +1,18 @@
+© участники OpenStreetMap
+Лицензия: ODbL-1.0 (ODbL 1.0)
+https://opendatacommons.org/licenses/odbl/1-0/
+https://www.openstreetmap.org/copyright
+Получено через Overpass API: 2026-11-19.
+
+Файлы данных карты игры city/district.json, city/center.json, city/district.svg
+и city/center.svg — производная база данных OpenStreetMap под ODbL 1.0.
+Share-alike относится к этим данным, отдельно от кода игры и изображений сцен.
+
+Способ получения: сохранённые ответы Overpass и дословные запросы, даты,
+sha256 и атрибуция описаны в sources/osm/README.md. Для воспроизведения:
+node scripts/city/convert.ts (npm run city:build), вход city/places.json.
+Конвертер фильтрует теги и типы дорог, оставляет крупнейшую компоненту,
+проецирует координаты в локальные метры, сворачивает узлы степени 2,
+упрощает линии алгоритмом Дугласа–Пекера, склеивает кольца мультиполигонов
+и привязывает точки к графу. Названия, бренды, адреса, контакты и id OSM
+в геометрические ассеты не переносятся.
