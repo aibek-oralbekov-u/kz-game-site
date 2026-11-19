@@ -3,8 +3,8 @@
   "short_name": "KZ черновик",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#fffdf7",
-  "theme_color": "#176b63",
+  "background_color": "#201346",
+  "theme_color": "#201346",
   "icons": [
     { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
   ]

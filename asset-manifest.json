@@ -156,12 +156,12 @@
     "src": "content/locations/taksi/assets/04-tusu.webp"
   },
   "index.html": {
-    "file": "assets/index-BniNI718.js",
+    "file": "assets/index-CttVkkMP.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "css": [
-      "assets/index-CQdmm6MT.css"
+      "assets/index-D__TxOMo.css"
     ],
     "assets": [
       "assets/01-ayaldama-BtV3H-n1.webp",
@@ -202,7 +202,102 @@
       "assets/01-shaqyru-DHopChzA.webp",
       "assets/02-otyru-B4mUzvV3.webp",
       "assets/03-salon-CQjuw5B9.webp",
-      "assets/04-tusu-szgkttah.webp"
+      "assets/04-tusu-szgkttah.webp",
+      "assets/hero-lobby-BQ7MH0Ph.webp",
+      "assets/icon-back-BU_LHUxn.webp",
+      "assets/icon-check-BHLR9Ke3.webp",
+      "assets/icon-chest-BiEbjQer.webp",
+      "assets/icon-coin-jDIUTWtD.webp",
+      "assets/icon-family-B5r5o1Un.webp",
+      "assets/icon-gift-Upr1RCkV.webp",
+      "assets/icon-home-FmS3iBvF.webp",
+      "assets/icon-level-ksOVdWd5.webp",
+      "assets/icon-lock-DDiSzMvp.webp",
+      "assets/icon-map-h1ONDfaP.webp",
+      "assets/icon-mic-ZHCLKUGu.webp",
+      "assets/icon-quest-zqv3WLZB.webp",
+      "assets/icon-sources-DIrRgvBM.webp",
+      "assets/icon-xp-B8o7Ofhz.webp",
+      "assets/lobby-bg-portrait-D9EosA7F.webp",
+      "assets/splash-landscape-Bpd1ORjq.webp",
+      "assets/splash-portrait-D9DT3XqI.webp",
+      "assets/Rubik-B4FcBJj4.woff2"
     ]
+  },
+  "ui-assets/fonts/Rubik.woff2": {
+    "file": "assets/Rubik-B4FcBJj4.woff2",
+    "src": "ui-assets/fonts/Rubik.woff2"
+  },
+  "ui-assets/hero-lobby.webp": {
+    "file": "assets/hero-lobby-BQ7MH0Ph.webp",
+    "src": "ui-assets/hero-lobby.webp"
+  },
+  "ui-assets/icon-back.webp": {
+    "file": "assets/icon-back-BU_LHUxn.webp",
+    "src": "ui-assets/icon-back.webp"
+  },
+  "ui-assets/icon-check.webp": {
+    "file": "assets/icon-check-BHLR9Ke3.webp",
+    "src": "ui-assets/icon-check.webp"
+  },
+  "ui-assets/icon-chest.webp": {
+    "file": "assets/icon-chest-BiEbjQer.webp",
+    "src": "ui-assets/icon-chest.webp"
+  },
+  "ui-assets/icon-coin.webp": {
+    "file": "assets/icon-coin-jDIUTWtD.webp",
+    "src": "ui-assets/icon-coin.webp"
+  },
+  "ui-assets/icon-family.webp": {
+    "file": "assets/icon-family-B5r5o1Un.webp",
+    "src": "ui-assets/icon-family.webp"
+  },
+  "ui-assets/icon-gift.webp": {
+    "file": "assets/icon-gift-Upr1RCkV.webp",
+    "src": "ui-assets/icon-gift.webp"
+  },
+  "ui-assets/icon-home.webp": {
+    "file": "assets/icon-home-FmS3iBvF.webp",
+    "src": "ui-assets/icon-home.webp"
+  },
+  "ui-assets/icon-level.webp": {
+    "file": "assets/icon-level-ksOVdWd5.webp",
+    "src": "ui-assets/icon-level.webp"
+  },
+  "ui-assets/icon-lock.webp": {
+    "file": "assets/icon-lock-DDiSzMvp.webp",
+    "src": "ui-assets/icon-lock.webp"
+  },
+  "ui-assets/icon-map.webp": {
+    "file": "assets/icon-map-h1ONDfaP.webp",
+    "src": "ui-assets/icon-map.webp"
+  },
+  "ui-assets/icon-mic.webp": {
+    "file": "assets/icon-mic-ZHCLKUGu.webp",
+    "src": "ui-assets/icon-mic.webp"
+  },
+  "ui-assets/icon-quest.webp": {
+    "file": "assets/icon-quest-zqv3WLZB.webp",
+    "src": "ui-assets/icon-quest.webp"
+  },
+  "ui-assets/icon-sources.webp": {
+    "file": "assets/icon-sources-DIrRgvBM.webp",
+    "src": "ui-assets/icon-sources.webp"
+  },
+  "ui-assets/icon-xp.webp": {
+    "file": "assets/icon-xp-B8o7Ofhz.webp",
+    "src": "ui-assets/icon-xp.webp"
+  },
+  "ui-assets/lobby-bg-portrait.webp": {
+    "file": "assets/lobby-bg-portrait-D9EosA7F.webp",
+    "src": "ui-assets/lobby-bg-portrait.webp"
+  },
+  "ui-assets/splash-landscape.webp": {
+    "file": "assets/splash-landscape-Bpd1ORjq.webp",
+    "src": "ui-assets/splash-landscape.webp"
+  },
+  "ui-assets/splash-portrait.webp": {
+    "file": "assets/splash-portrait-D9DT3XqI.webp",
+    "src": "ui-assets/splash-portrait.webp"
   }
 }

@@ -1,5 +1,5 @@
 // Bump this version whenever publishing a new build (including content changes).
-const CACHE = 'kz-game-v3';
+const CACHE = 'kz-game-v4';
 const PREFIX = 'kz-game-';
 const sameOrigin = value => new URL(value, self.location.origin).origin === self.location.origin;
 const PRECACHE = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg', '/asset-manifest.json'];
