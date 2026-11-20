@@ -2735,7 +2735,7 @@
     "src": "content/locations/bayterek/voice/f006d89661f6.mp3"
   },
   "index.html": {
-    "file": "assets/game-CqUnU1VS.js",
+    "file": "assets/game-UC91acLG.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -2768,7 +2768,7 @@
       "virtual:kz-content/sources"
     ],
     "css": [
-      "assets/game-Dww-GZzS.css"
+      "assets/game-Bi919Xq6.css"
     ],
     "assets": [
       "assets/fx-birds-JlgSp30Z.webp",
@@ -2808,7 +2808,10 @@
       "assets/splash-portrait-Cx7lrF6W.webp",
       "assets/district-CJByjIgx.json",
       "assets/district-QxBepXtV.svg",
-      "assets/Rubik-B4FcBJj4.woff2",
+      "assets/Rubik-cyrillic-ext-BgEjOSi_.woff2",
+      "assets/Rubik-cyrillic-6J3aU1sj.woff2",
+      "assets/Rubik-latin-ext-xIGCplNB.woff2",
+      "assets/Rubik-latin-0V_ixqQm.woff2",
       "assets/FiraSansExtraCondensed-Black-title-DLJ2mvsu.woff2"
     ]
   },
@@ -2824,9 +2827,21 @@
     "file": "assets/FiraSansExtraCondensed-Black-title-DLJ2mvsu.woff2",
     "src": "ui-assets/fonts/FiraSansExtraCondensed-Black-title.woff2"
   },
-  "ui-assets/fonts/Rubik.woff2": {
-    "file": "assets/Rubik-B4FcBJj4.woff2",
-    "src": "ui-assets/fonts/Rubik.woff2"
+  "ui-assets/fonts/rubik/Rubik-cyrillic-ext.woff2": {
+    "file": "assets/Rubik-cyrillic-ext-BgEjOSi_.woff2",
+    "src": "ui-assets/fonts/rubik/Rubik-cyrillic-ext.woff2"
+  },
+  "ui-assets/fonts/rubik/Rubik-cyrillic.woff2": {
+    "file": "assets/Rubik-cyrillic-6J3aU1sj.woff2",
+    "src": "ui-assets/fonts/rubik/Rubik-cyrillic.woff2"
+  },
+  "ui-assets/fonts/rubik/Rubik-latin-ext.woff2": {
+    "file": "assets/Rubik-latin-ext-xIGCplNB.woff2",
+    "src": "ui-assets/fonts/rubik/Rubik-latin-ext.woff2"
+  },
+  "ui-assets/fonts/rubik/Rubik-latin.woff2": {
+    "file": "assets/Rubik-latin-0V_ixqQm.woff2",
+    "src": "ui-assets/fonts/rubik/Rubik-latin.woff2"
   },
   "ui-assets/fx-birds.webp": {
     "file": "assets/fx-birds-JlgSp30Z.webp",
