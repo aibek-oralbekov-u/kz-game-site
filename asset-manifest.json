@@ -30,6 +30,14 @@
       "assets/vosk-INNAC7fz.js"
     ]
   },
+  "city/astana.json": {
+    "file": "assets/astana-BlEw9iXA.json",
+    "src": "city/astana.json"
+  },
+  "city/astana.svg": {
+    "file": "assets/astana-CTbGQ7DQ.svg",
+    "src": "city/astana.svg"
+  },
   "city/district.json": {
     "file": "assets/district-CJByjIgx.json",
     "src": "city/district.json"
@@ -61,6 +69,10 @@
   "content/locations/aeroport/assets/03-tailand.webp": {
     "file": "assets/03-tailand-DvNOYbOT.webp",
     "src": "content/locations/aeroport/assets/03-tailand.webp"
+  },
+  "content/locations/aeroport/preview.webp": {
+    "file": "assets/preview-oNbH2F3t.webp",
+    "src": "content/locations/aeroport/preview.webp"
   },
   "content/locations/aeroport/voice/086408868c11.mp3": {
     "file": "assets/086408868c11-DomrC0w2.mp3",
@@ -177,6 +189,10 @@
   "content/locations/avtobus/assets/04-shygu.webp": {
     "file": "assets/04-shygu-C-fVnS2z.webp",
     "src": "content/locations/avtobus/assets/04-shygu.webp"
+  },
+  "content/locations/avtobus/preview.webp": {
+    "file": "assets/preview-rOsn4GS5.webp",
+    "src": "content/locations/avtobus/preview.webp"
   },
   "content/locations/avtobus/voice/060b35eaf4f8.mp3": {
     "file": "assets/060b35eaf4f8-DhaBEWMg.mp3",
@@ -350,6 +366,10 @@
     "file": "assets/04-shygu-Bd-rAYhk.webp",
     "src": "content/locations/bassein/assets/04-shygu.webp"
   },
+  "content/locations/bassein/preview.webp": {
+    "file": "assets/preview-DgiXa1e_.webp",
+    "src": "content/locations/bassein/preview.webp"
+  },
   "content/locations/bassein/voice/0995960ea2ba.mp3": {
     "file": "assets/0995960ea2ba-D_xtPqxe.mp3",
     "src": "content/locations/bassein/voice/0995960ea2ba.mp3"
@@ -441,6 +461,10 @@
   "content/locations/bayterek/assets/04-shygu.webp": {
     "file": "assets/04-shygu-C5F8zQtb.webp",
     "src": "content/locations/bayterek/assets/04-shygu.webp"
+  },
+  "content/locations/bayterek/preview.webp": {
+    "file": "assets/preview-D37C8jgU.webp",
+    "src": "content/locations/bayterek/preview.webp"
   },
   "content/locations/bayterek/voice/141374b46516.mp3": {
     "file": "assets/141374b46516-CWlrmtq0.mp3",
@@ -554,6 +578,10 @@
     "file": "assets/04-shygu-DrsMmy0l.webp",
     "src": "content/locations/bazar/assets/04-shygu.webp"
   },
+  "content/locations/bazar/preview.webp": {
+    "file": "assets/preview-D9z_X14n.webp",
+    "src": "content/locations/bazar/preview.webp"
+  },
   "content/locations/bazar/voice/023cc350100d.mp3": {
     "file": "assets/023cc350100d-BxsrqCxd.mp3",
     "src": "content/locations/bazar/voice/023cc350100d.mp3"
@@ -657,6 +685,10 @@
   "content/locations/darihana/assets/04-vyhod.webp": {
     "file": "assets/04-vyhod-D6KlmcjU.webp",
     "src": "content/locations/darihana/assets/04-vyhod.webp"
+  },
+  "content/locations/darihana/preview.webp": {
+    "file": "assets/preview-g_UISmFV.webp",
+    "src": "content/locations/darihana/preview.webp"
   },
   "content/locations/darihana/voice/091dd0b4c4a5.mp3": {
     "file": "assets/091dd0b4c4a5-Botn0PN5.mp3",
@@ -777,6 +809,10 @@
   "content/locations/dvor/assets/03-futbol.webp": {
     "file": "assets/03-futbol-D0fbd82p.webp",
     "src": "content/locations/dvor/assets/03-futbol.webp"
+  },
+  "content/locations/dvor/preview.webp": {
+    "file": "assets/preview-xi3LhkWc.webp",
+    "src": "content/locations/dvor/preview.webp"
   },
   "content/locations/dvor/voice/02231808d511.mp3": {
     "file": "assets/02231808d511-BcmOA24N.mp3",
@@ -910,6 +946,10 @@
     "file": "assets/04-vyhod-Bv-4Z2GS.webp",
     "src": "content/locations/emhana/assets/04-vyhod.webp"
   },
+  "content/locations/emhana/preview.webp": {
+    "file": "assets/preview-282FfM5c.webp",
+    "src": "content/locations/emhana/preview.webp"
+  },
   "content/locations/emhana/voice/0ac40b722d6e.mp3": {
     "file": "assets/0ac40b722d6e-DkMb05s4.mp3",
     "src": "content/locations/emhana/voice/0ac40b722d6e.mp3"
@@ -1025,6 +1065,10 @@
   "content/locations/futbol-match/assets/04-shygu.webp": {
     "file": "assets/04-shygu-BC_JP8Xy.webp",
     "src": "content/locations/futbol-match/assets/04-shygu.webp"
+  },
+  "content/locations/futbol-match/preview.webp": {
+    "file": "assets/preview-CtqhnEgh.webp",
+    "src": "content/locations/futbol-match/preview.webp"
   },
   "content/locations/futbol-match/voice/0945b9b52e9f.mp3": {
     "file": "assets/0945b9b52e9f-D1J3AwEV.mp3",
@@ -1162,6 +1206,10 @@
     "file": "assets/04-shygu-azxndudr.webp",
     "src": "content/locations/kafe/assets/04-shygu.webp"
   },
+  "content/locations/kafe/preview.webp": {
+    "file": "assets/preview-BE8AuLTT.webp",
+    "src": "content/locations/kafe/preview.webp"
+  },
   "content/locations/kafe/voice/0e660b0bf2fe.mp3": {
     "file": "assets/0e660b0bf2fe-BntfxBS6.mp3",
     "src": "content/locations/kafe/voice/0e660b0bf2fe.mp3"
@@ -1274,6 +1322,10 @@
     "file": "assets/04-shygu-D5MRAA8K.webp",
     "src": "content/locations/kino/assets/04-shygu.webp"
   },
+  "content/locations/kino/preview.webp": {
+    "file": "assets/preview-D1oeaooK.webp",
+    "src": "content/locations/kino/preview.webp"
+  },
   "content/locations/kino/voice/0dce0f88b86f.mp3": {
     "file": "assets/0dce0f88b86f-Cq7BXC0t.mp3",
     "src": "content/locations/kino/voice/0dce0f88b86f.mp3"
@@ -1369,6 +1421,10 @@
   "content/locations/kitaphana/assets/04-shygu.webp": {
     "file": "assets/04-shygu-DxXM6GE3.webp",
     "src": "content/locations/kitaphana/assets/04-shygu.webp"
+  },
+  "content/locations/kitaphana/preview.webp": {
+    "file": "assets/preview-CpsFCrtp.webp",
+    "src": "content/locations/kitaphana/preview.webp"
   },
   "content/locations/kitaphana/voice/018d5b92c318.mp3": {
     "file": "assets/018d5b92c318-BxcR2Okl.mp3",
@@ -1521,6 +1577,10 @@
   "content/locations/kvartira/assets/player.svg": {
     "file": "assets/player-CMsGc4B_.svg",
     "src": "content/locations/kvartira/assets/player.svg"
+  },
+  "content/locations/kvartira/preview.webp": {
+    "file": "assets/preview-DnbIqu71.webp",
+    "src": "content/locations/kvartira/preview.webp"
   },
   "content/locations/kvartira/voice/072e6ca8d6e1.mp3": {
     "file": "assets/072e6ca8d6e1-ClXn-wRp.mp3",
@@ -1794,6 +1854,10 @@
     "file": "assets/08-morozhenoe-C24AXoH0.webp",
     "src": "content/locations/magazin/assets/08-morozhenoe.webp"
   },
+  "content/locations/magazin/preview.webp": {
+    "file": "assets/preview-BKbUa7J_.webp",
+    "src": "content/locations/magazin/preview.webp"
+  },
   "content/locations/magazin/voice/02fac9c67c54.mp3": {
     "file": "assets/02fac9c67c54-CqP86gvT.mp3",
     "src": "content/locations/magazin/voice/02fac9c67c54.mp3"
@@ -2010,6 +2074,10 @@
     "file": "assets/04-vyhod-jElMZ6-9.webp",
     "src": "content/locations/mektep/assets/04-vyhod.webp"
   },
+  "content/locations/mektep/preview.webp": {
+    "file": "assets/preview-C0pT6rW9.webp",
+    "src": "content/locations/mektep/preview.webp"
+  },
   "content/locations/mektep/voice/03aec39c2031.mp3": {
     "file": "assets/03aec39c2031-Bsp7CKMr.mp3",
     "src": "content/locations/mektep/voice/03aec39c2031.mp3"
@@ -2182,6 +2250,10 @@
     "file": "assets/04-shygu-CfxA3cRa.webp",
     "src": "content/locations/pochta/assets/04-shygu.webp"
   },
+  "content/locations/pochta/preview.webp": {
+    "file": "assets/preview-BbTjf-Pl.webp",
+    "src": "content/locations/pochta/preview.webp"
+  },
   "content/locations/pochta/voice/02551eae435c.mp3": {
     "file": "assets/02551eae435c-Bkp8RSM8.mp3",
     "src": "content/locations/pochta/voice/02551eae435c.mp3"
@@ -2293,6 +2365,10 @@
   "content/locations/saiabaq/assets/04-shygu.webp": {
     "file": "assets/04-shygu-3RWirugL.webp",
     "src": "content/locations/saiabaq/assets/04-shygu.webp"
+  },
+  "content/locations/saiabaq/preview.webp": {
+    "file": "assets/preview-B2NW9By2.webp",
+    "src": "content/locations/saiabaq/preview.webp"
   },
   "content/locations/saiabaq/voice/0d30cde96b78.mp3": {
     "file": "assets/0d30cde96b78-BqyvUnqo.mp3",
@@ -2406,6 +2482,10 @@
     "file": "assets/04-shygu-DB_OtI0U.webp",
     "src": "content/locations/shashtaraz/assets/04-shygu.webp"
   },
+  "content/locations/shashtaraz/preview.webp": {
+    "file": "assets/preview-BpnwhF0T.webp",
+    "src": "content/locations/shashtaraz/preview.webp"
+  },
   "content/locations/shashtaraz/voice/00ba556a1661.mp3": {
     "file": "assets/00ba556a1661-B9wxA1Hi.mp3",
     "src": "content/locations/shashtaraz/voice/00ba556a1661.mp3"
@@ -2513,6 +2593,10 @@
   "content/locations/taksi/assets/04-tusu.webp": {
     "file": "assets/04-tusu-szgkttah.webp",
     "src": "content/locations/taksi/assets/04-tusu.webp"
+  },
+  "content/locations/taksi/preview.webp": {
+    "file": "assets/preview-CQT_fwct.webp",
+    "src": "content/locations/taksi/preview.webp"
   },
   "content/locations/taksi/voice/049a4d90da8b.mp3": {
     "file": "assets/049a4d90da8b-DkzlSDve.mp3",
@@ -2650,6 +2734,10 @@
     "file": "assets/04-vagon-BiXwhpuW.webp",
     "src": "content/locations/vokzal/assets/04-vagon.webp"
   },
+  "content/locations/vokzal/preview.webp": {
+    "file": "assets/preview-B0l9RvSH.webp",
+    "src": "content/locations/vokzal/preview.webp"
+  },
   "content/locations/vokzal/voice/0fe9a4d865d3.mp3": {
     "file": "assets/0fe9a4d865d3-D5ob4mkf.mp3",
     "src": "content/locations/vokzal/voice/0fe9a4d865d3.mp3"
@@ -2739,7 +2827,7 @@
     "src": "content/locations/bayterek/voice/f006d89661f6.mp3"
   },
   "index.html": {
-    "file": "assets/game-Daz2saAJ.js",
+    "file": "assets/game-BmMGyyVw.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -2772,7 +2860,7 @@
       "virtual:kz-content/sources"
     ],
     "css": [
-      "assets/game-0ycxO9mU.css"
+      "assets/game-CF0UvdE1.css"
     ],
     "assets": [
       "assets/fx-birds-JlgSp30Z.webp",
@@ -2809,6 +2897,28 @@
       "assets/icon-xp-B8o7Ofhz.webp",
       "assets/lobby-bg-portrait-D9EosA7F.webp",
       "assets/splash-portrait-Cx7lrF6W.webp",
+      "assets/preview-oNbH2F3t.webp",
+      "assets/preview-rOsn4GS5.webp",
+      "assets/preview-DgiXa1e_.webp",
+      "assets/preview-D37C8jgU.webp",
+      "assets/preview-D9z_X14n.webp",
+      "assets/preview-g_UISmFV.webp",
+      "assets/preview-xi3LhkWc.webp",
+      "assets/preview-282FfM5c.webp",
+      "assets/preview-CtqhnEgh.webp",
+      "assets/preview-BE8AuLTT.webp",
+      "assets/preview-D1oeaooK.webp",
+      "assets/preview-CpsFCrtp.webp",
+      "assets/preview-DnbIqu71.webp",
+      "assets/preview-BKbUa7J_.webp",
+      "assets/preview-C0pT6rW9.webp",
+      "assets/preview-BbTjf-Pl.webp",
+      "assets/preview-B2NW9By2.webp",
+      "assets/preview-BpnwhF0T.webp",
+      "assets/preview-CQT_fwct.webp",
+      "assets/preview-B0l9RvSH.webp",
+      "assets/astana-BlEw9iXA.json",
+      "assets/astana-CTbGQ7DQ.svg",
       "assets/district-CJByjIgx.json",
       "assets/district-QxBepXtV.svg",
       "assets/Rubik-cyrillic-ext-BgEjOSi_.woff2",
