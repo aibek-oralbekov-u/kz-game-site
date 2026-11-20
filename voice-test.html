@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <!-- unsafe-eval нужен только этому тесту: embind в blob-worker Vosk использует new Function при загрузке модели. -->
+    <!-- data: в connect-src нужен только этому тесту: blob-worker Vosk загружает встроенный WASM через fetch data:-URI. -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'unsafe-eval'; style-src 'self'; worker-src 'self' blob:; connect-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none'">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>KZ — проверка голоса</title>
+    <script type="module" crossorigin src="/assets/voice-BxkTIdSx.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/voice-De6DA5wt.css">
+  </head>
+  <body>
+    <main>
+      <h1>Проверка голоса</h1>
+      <p>Голос обрабатывается на устройстве, не записывается и не отправляется. При загрузке модуля запрашиваем доступ к микрофону и сразу выключаем его; для распознавания микрофон работает при удержании кнопки.</p>
+      <label for="phrase-set">Набор фраз</label>
+      <select id="phrase-set"></select>
+      <label for="grammar-mode">Грамматика</label>
+      <select id="grammar-mode">
+        <option value="words">слова</option>
+        <option value="phrases">целые фразы</option>
+      </select>
+      <p><label><input id="debug" type="checkbox"> Отладка (logLevel 0)</label></p>
+      <section id="diagnostics" hidden>
+        <p>Слова грамматики, которые модель может не знать (проверяются при удержании):</p>
+        <p id="grammar-words" lang="kk"></p>
+        <p>Предупреждения модели о словаре:</p>
+        <pre id="warnings"></pre>
+      </section>
+      <ol id="phrases" lang="kk"></ol>
+      <p>Произнеси один из четырёх ответов.</p>
+      <p id="status" role="status" aria-live="polite">Подготовка…</p>
+      <progress id="progress" aria-label="Загрузка модели" hidden></progress>
+      <button id="load" type="button">Загрузить голосовой модуль</button>
+      <button id="hold" type="button" disabled>Держи и говори</button>
+      <p>Говорить можно со второго нажатия, если телефон спросил разрешение.</p>
+      <p>Распознано: <output id="recognized" lang="kk">—</output></p>
+      <p id="result" aria-live="polite">Вариант: —</p>
+      <p id="scores">Сходство: — · Отрыв: —</p>
+      <p id="tuning"></p>
+      <p>Показатель сходства — оценка сопоставления текста, не вероятность правильного распознавания.</p>
+    </main>
+  </body>
+</html>

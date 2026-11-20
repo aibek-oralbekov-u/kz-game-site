@@ -384,8 +384,8 @@
     "src": "content/locations/vokzal/assets/04-vagon.webp"
   },
   "index.html": {
-    "file": "assets/index-tCtNd6Wd.js",
-    "name": "index",
+    "file": "assets/game-HZrMsD6x.js",
+    "name": "game",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
@@ -412,7 +412,7 @@
       "virtual:kz-content/sources"
     ],
     "css": [
-      "assets/index-BbiraGA0.css"
+      "assets/game-BbiraGA0.css"
     ],
     "assets": [
       "assets/fx-birds-JlgSp30Z.webp",
@@ -454,6 +454,14 @@
       "assets/district-QxBepXtV.svg",
       "assets/Rubik-B4FcBJj4.woff2"
     ]
+  },
+  "node_modules/vosk-browser/dist/vosk.js": {
+    "file": "assets/vosk-INNAC7fz.js",
+    "src": "node_modules/vosk-browser/dist/vosk.js"
+  },
+  "src/voice-test/pcm-worklet.js": {
+    "file": "assets/pcm-worklet-BKv0oORP.js",
+    "src": "src/voice-test/pcm-worklet.js"
   },
   "ui-assets/fonts/Rubik.woff2": {
     "file": "assets/Rubik-B4FcBJj4.woff2",
@@ -859,5 +867,18 @@
     "name": "sources",
     "src": "virtual:kz-content/sources",
     "isDynamicEntry": true
+  },
+  "voice-test.html": {
+    "file": "assets/voice-BxkTIdSx.js",
+    "name": "voice",
+    "src": "voice-test.html",
+    "isEntry": true,
+    "css": [
+      "assets/voice-De6DA5wt.css"
+    ],
+    "assets": [
+      "assets/vosk-INNAC7fz.js",
+      "assets/pcm-worklet-BKv0oORP.js"
+    ]
   }
 }
