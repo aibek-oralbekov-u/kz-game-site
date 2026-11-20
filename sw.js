@@ -1,5 +1,5 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}0f47917da167`;
+const CACHE = `${PREFIX}36e90059e9e3`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';
@@ -94,7 +94,7 @@ self.addEventListener('fetch', event => {
   if (request.method !== 'GET' || !sameOrigin(request.url)) return;
   const url = new URL(request.url);
   const navigation = request.mode === 'navigate';
-  if (navigation && (url.pathname.startsWith('/voice-test/') || url.pathname === '/voice-test.html')) return;
+  if (navigation && (url.pathname === '/voice-test' || url.pathname.startsWith('/voice-test/') || url.pathname === '/voice-test.html')) return;
   if (!navigation && !PRECACHE.includes(url.pathname) && !url.pathname.startsWith('/assets/')) return;
   if (!navigation && (request.credentials === 'include' || request.headers.has('Authorization'))) return;
   event.respondWith((async () => {
