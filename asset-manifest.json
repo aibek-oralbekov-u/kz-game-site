@@ -7,6 +7,30 @@
     "file": "assets/district-QxBepXtV.svg",
     "src": "city/district.svg"
   },
+  "content/locations/aeroport/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-6OypdhcW.webp",
+    "src": "content/locations/aeroport/assets/01-kiru.webp"
+  },
+  "content/locations/aeroport/assets/01-proshanie.webp": {
+    "file": "assets/01-proshanie-DDvlUwGO.webp",
+    "src": "content/locations/aeroport/assets/01-proshanie.webp"
+  },
+  "content/locations/aeroport/assets/02-registraciya.webp": {
+    "file": "assets/02-registraciya-BFpjvQAH.webp",
+    "src": "content/locations/aeroport/assets/02-registraciya.webp"
+  },
+  "content/locations/aeroport/assets/02-samolet.webp": {
+    "file": "assets/02-samolet-DDLlduoH.webp",
+    "src": "content/locations/aeroport/assets/02-samolet.webp"
+  },
+  "content/locations/aeroport/assets/03-okno.webp": {
+    "file": "assets/03-okno-BnNNHj_8.webp",
+    "src": "content/locations/aeroport/assets/03-okno.webp"
+  },
+  "content/locations/aeroport/assets/03-tailand.webp": {
+    "file": "assets/03-tailand-DvNOYbOT.webp",
+    "src": "content/locations/aeroport/assets/03-tailand.webp"
+  },
   "content/locations/avtobus/assets/01-ayaldama.webp": {
     "file": "assets/01-ayaldama-BtV3H-n1.webp",
     "src": "content/locations/avtobus/assets/01-ayaldama.webp"
@@ -360,11 +384,12 @@
     "src": "content/locations/vokzal/assets/04-vagon.webp"
   },
   "index.html": {
-    "file": "assets/index-BWQb_kSa.js",
+    "file": "assets/index-BGCbjMpY.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
+      "virtual:kz-content/pack/aeroport",
       "virtual:kz-content/pack/avtobus",
       "virtual:kz-content/pack/bassein",
       "virtual:kz-content/pack/bayterek",
@@ -573,6 +598,20 @@
   "ui-assets/splash-portrait.webp": {
     "file": "assets/splash-portrait-D9DT3XqI.webp",
     "src": "ui-assets/splash-portrait.webp"
+  },
+  "virtual:kz-content/pack/aeroport": {
+    "file": "assets/aeroport-BOcKwhk5.js",
+    "name": "aeroport",
+    "src": "virtual:kz-content/pack/aeroport",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-6OypdhcW.webp",
+      "assets/01-proshanie-DDvlUwGO.webp",
+      "assets/02-registraciya-BFpjvQAH.webp",
+      "assets/02-samolet-DDLlduoH.webp",
+      "assets/03-okno-BnNNHj_8.webp",
+      "assets/03-tailand-DvNOYbOT.webp"
+    ]
   },
   "virtual:kz-content/pack/avtobus": {
     "file": "assets/avtobus-DsntgSFL.js",
