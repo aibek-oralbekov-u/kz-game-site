@@ -1,5 +1,5 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}8d43a8cb64b8`;
+const CACHE = `${PREFIX}426f504cc359`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';
@@ -16,21 +16,24 @@ self.addEventListener('install', event => {
     const manifest = await response.json();
     const assets = new Set();
     const visited = new Set();
-    const collect = key => {
-      if (visited.has(key)) return;
-      visited.add(key);
+    const collect = (key, jsOnly = false) => {
+      const visit = `${jsOnly}:${key}`;
+      if (visited.has(visit)) return;
+      visited.add(visit);
       const entry = manifest[key];
       if (!entry) throw new Error('Missing build import');
-      for (const path of [entry.file, ...(entry.css || [])].filter(Boolean)) {
+      for (const path of [entry.file, ...(jsOnly ? [] : entry.css || [])].filter(Boolean)) {
         const url = new URL(path, self.location.origin);
         if (!sameOrigin(url) || !url.pathname.startsWith('/assets/')) throw new Error('Nonlocal build asset');
+        if (jsOnly && !/\.m?js$/i.test(url.pathname)) continue;
         assets.add(url.href);
       }
-      for (const imported of entry.imports || []) collect(imported);
+      for (const imported of entry.imports || []) collect(imported, jsOnly);
     };
-    // The hub is required to boot the new shell offline; other packs stay lazy.
+    // Only the hub's JS is required to boot offline; its images stay in runtime.
     for (const [key, entry] of Object.entries(manifest)) {
-      if (entry.isEntry || entry.isHub) collect(key);
+      if (entry.isEntry) collect(key);
+      if (entry.isHub) collect(key, true);
     }
     await cache.addAll([...assets].map(localRequest));
     await self.skipWaiting();
