@@ -1,6 +1,6 @@
 {
   "city/district.json": {
-    "file": "assets/district-CqhBvCjO.json",
+    "file": "assets/district-CJByjIgx.json",
     "src": "city/district.json"
   },
   "city/district.svg": {
@@ -22,6 +22,54 @@
   "content/locations/avtobus/assets/04-shygu.webp": {
     "file": "assets/04-shygu-C-fVnS2z.webp",
     "src": "content/locations/avtobus/assets/04-shygu.webp"
+  },
+  "content/locations/bassein/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-BGLlY11M.webp",
+    "src": "content/locations/bassein/assets/01-kiru.webp"
+  },
+  "content/locations/bassein/assets/02-kiyim.webp": {
+    "file": "assets/02-kiyim-CJ1LJA__.webp",
+    "src": "content/locations/bassein/assets/02-kiyim.webp"
+  },
+  "content/locations/bassein/assets/03-su.webp": {
+    "file": "assets/03-su-BBHG9c97.webp",
+    "src": "content/locations/bassein/assets/03-su.webp"
+  },
+  "content/locations/bassein/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-Bd-rAYhk.webp",
+    "src": "content/locations/bassein/assets/04-shygu.webp"
+  },
+  "content/locations/bayterek/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-AgOWsicw.webp",
+    "src": "content/locations/bayterek/assets/01-kiru.webp"
+  },
+  "content/locations/bayterek/assets/02-lift.webp": {
+    "file": "assets/02-lift-C7REWM3J.webp",
+    "src": "content/locations/bayterek/assets/02-lift.webp"
+  },
+  "content/locations/bayterek/assets/03-shar.webp": {
+    "file": "assets/03-shar-CVQhX_Wk.webp",
+    "src": "content/locations/bayterek/assets/03-shar.webp"
+  },
+  "content/locations/bayterek/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-C5F8zQtb.webp",
+    "src": "content/locations/bayterek/assets/04-shygu.webp"
+  },
+  "content/locations/bazar/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-D2aM3mOi.webp",
+    "src": "content/locations/bazar/assets/01-kiru.webp"
+  },
+  "content/locations/bazar/assets/02-zhemis.webp": {
+    "file": "assets/02-zhemis-BYr3wYGt.webp",
+    "src": "content/locations/bazar/assets/02-zhemis.webp"
+  },
+  "content/locations/bazar/assets/03-et-sut.webp": {
+    "file": "assets/03-et-sut-CbV0cBaO.webp",
+    "src": "content/locations/bazar/assets/03-et-sut.webp"
+  },
+  "content/locations/bazar/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-DrsMmy0l.webp",
+    "src": "content/locations/bazar/assets/04-shygu.webp"
   },
   "content/locations/darihana/assets/01-vhod.webp": {
     "file": "assets/01-vhod-Bl0UXItq.webp",
@@ -82,6 +130,54 @@
   "content/locations/futbol-match/assets/04-shygu.webp": {
     "file": "assets/04-shygu-BC_JP8Xy.webp",
     "src": "content/locations/futbol-match/assets/04-shygu.webp"
+  },
+  "content/locations/kafe/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-CW5jqC7b.webp",
+    "src": "content/locations/kafe/assets/01-kiru.webp"
+  },
+  "content/locations/kafe/assets/02-menu.webp": {
+    "file": "assets/02-menu-xSwfEQ8J.webp",
+    "src": "content/locations/kafe/assets/02-menu.webp"
+  },
+  "content/locations/kafe/assets/03-tamaq.webp": {
+    "file": "assets/03-tamaq-D0JlFeic.webp",
+    "src": "content/locations/kafe/assets/03-tamaq.webp"
+  },
+  "content/locations/kafe/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-azxndudr.webp",
+    "src": "content/locations/kafe/assets/04-shygu.webp"
+  },
+  "content/locations/kino/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-CKfBXAYA.webp",
+    "src": "content/locations/kino/assets/01-kiru.webp"
+  },
+  "content/locations/kino/assets/02-kassa.webp": {
+    "file": "assets/02-kassa-DHX3M8-w.webp",
+    "src": "content/locations/kino/assets/02-kassa.webp"
+  },
+  "content/locations/kino/assets/03-zal.webp": {
+    "file": "assets/03-zal-cj3VzDRc.webp",
+    "src": "content/locations/kino/assets/03-zal.webp"
+  },
+  "content/locations/kino/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-D5MRAA8K.webp",
+    "src": "content/locations/kino/assets/04-shygu.webp"
+  },
+  "content/locations/kitaphana/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-BsVQtUDZ.webp",
+    "src": "content/locations/kitaphana/assets/01-kiru.webp"
+  },
+  "content/locations/kitaphana/assets/02-soreler.webp": {
+    "file": "assets/02-soreler-CocOtSk_.webp",
+    "src": "content/locations/kitaphana/assets/02-soreler.webp"
+  },
+  "content/locations/kitaphana/assets/03-oqu.webp": {
+    "file": "assets/03-oqu-Cb3PEpXJ.webp",
+    "src": "content/locations/kitaphana/assets/03-oqu.webp"
+  },
+  "content/locations/kitaphana/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-DxXM6GE3.webp",
+    "src": "content/locations/kitaphana/assets/04-shygu.webp"
   },
   "content/locations/kvartira/assets/01-zal.webp": {
     "file": "assets/01-zal-DujZvjUp.webp",
@@ -183,6 +279,22 @@
     "file": "assets/04-vyhod-jElMZ6-9.webp",
     "src": "content/locations/mektep/assets/04-vyhod.webp"
   },
+  "content/locations/pochta/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-Wwe8qvb4.webp",
+    "src": "content/locations/pochta/assets/01-kiru.webp"
+  },
+  "content/locations/pochta/assets/02-tereze.webp": {
+    "file": "assets/02-tereze-DlJTs-B3.webp",
+    "src": "content/locations/pochta/assets/02-tereze.webp"
+  },
+  "content/locations/pochta/assets/03-otkrytka.webp": {
+    "file": "assets/03-otkrytka-CsSs2KZd.webp",
+    "src": "content/locations/pochta/assets/03-otkrytka.webp"
+  },
+  "content/locations/pochta/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-CfxA3cRa.webp",
+    "src": "content/locations/pochta/assets/04-shygu.webp"
+  },
   "content/locations/saiabaq/assets/01-kiru.webp": {
     "file": "assets/01-kiru-BjCo05vk.webp",
     "src": "content/locations/saiabaq/assets/01-kiru.webp"
@@ -198,6 +310,22 @@
   "content/locations/saiabaq/assets/04-shygu.webp": {
     "file": "assets/04-shygu-3RWirugL.webp",
     "src": "content/locations/saiabaq/assets/04-shygu.webp"
+  },
+  "content/locations/shashtaraz/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-CJFeI5d2.webp",
+    "src": "content/locations/shashtaraz/assets/01-kiru.webp"
+  },
+  "content/locations/shashtaraz/assets/02-kezek.webp": {
+    "file": "assets/02-kezek-zPvcDwSe.webp",
+    "src": "content/locations/shashtaraz/assets/02-kezek.webp"
+  },
+  "content/locations/shashtaraz/assets/03-kreslo.webp": {
+    "file": "assets/03-kreslo-DwRbnCT_.webp",
+    "src": "content/locations/shashtaraz/assets/03-kreslo.webp"
+  },
+  "content/locations/shashtaraz/assets/04-shygu.webp": {
+    "file": "assets/04-shygu-DB_OtI0U.webp",
+    "src": "content/locations/shashtaraz/assets/04-shygu.webp"
   },
   "content/locations/taksi/assets/01-shaqyru.webp": {
     "file": "assets/01-shaqyru-DHopChzA.webp",
@@ -215,22 +343,47 @@
     "file": "assets/04-tusu-szgkttah.webp",
     "src": "content/locations/taksi/assets/04-tusu.webp"
   },
+  "content/locations/vokzal/assets/01-kiru.webp": {
+    "file": "assets/01-kiru-C_CrnsZt.webp",
+    "src": "content/locations/vokzal/assets/01-kiru.webp"
+  },
+  "content/locations/vokzal/assets/02-tablo.webp": {
+    "file": "assets/02-tablo-CHzc3djk.webp",
+    "src": "content/locations/vokzal/assets/02-tablo.webp"
+  },
+  "content/locations/vokzal/assets/03-perron.webp": {
+    "file": "assets/03-perron-DCDZ-6VQ.webp",
+    "src": "content/locations/vokzal/assets/03-perron.webp"
+  },
+  "content/locations/vokzal/assets/04-vagon.webp": {
+    "file": "assets/04-vagon-BiXwhpuW.webp",
+    "src": "content/locations/vokzal/assets/04-vagon.webp"
+  },
   "index.html": {
-    "file": "assets/index-FSpJ7V8S.js",
+    "file": "assets/index-BWQb_kSa.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
       "virtual:kz-content/pack/avtobus",
+      "virtual:kz-content/pack/bassein",
+      "virtual:kz-content/pack/bayterek",
+      "virtual:kz-content/pack/bazar",
       "virtual:kz-content/pack/darihana",
       "virtual:kz-content/pack/dvor",
       "virtual:kz-content/pack/emhana",
       "virtual:kz-content/pack/futbol-match",
+      "virtual:kz-content/pack/kafe",
+      "virtual:kz-content/pack/kino",
+      "virtual:kz-content/pack/kitaphana",
       "virtual:kz-content/pack/kvartira",
       "virtual:kz-content/pack/magazin",
       "virtual:kz-content/pack/mektep",
+      "virtual:kz-content/pack/pochta",
       "virtual:kz-content/pack/saiabaq",
+      "virtual:kz-content/pack/shashtaraz",
       "virtual:kz-content/pack/taksi",
+      "virtual:kz-content/pack/vokzal",
       "virtual:kz-content/sources"
     ],
     "css": [
@@ -272,7 +425,7 @@
       "assets/lobby-bg-portrait-D9EosA7F.webp",
       "assets/splash-landscape-Bpd1ORjq.webp",
       "assets/splash-portrait-D9DT3XqI.webp",
-      "assets/district-CqhBvCjO.json",
+      "assets/district-CJByjIgx.json",
       "assets/district-QxBepXtV.svg",
       "assets/Rubik-B4FcBJj4.woff2"
     ]
@@ -433,6 +586,42 @@
       "assets/04-shygu-C-fVnS2z.webp"
     ]
   },
+  "virtual:kz-content/pack/bassein": {
+    "file": "assets/bassein-D-0C2YN_.js",
+    "name": "bassein",
+    "src": "virtual:kz-content/pack/bassein",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-BGLlY11M.webp",
+      "assets/02-kiyim-CJ1LJA__.webp",
+      "assets/03-su-BBHG9c97.webp",
+      "assets/04-shygu-Bd-rAYhk.webp"
+    ]
+  },
+  "virtual:kz-content/pack/bayterek": {
+    "file": "assets/bayterek-Imk_vxFk.js",
+    "name": "bayterek",
+    "src": "virtual:kz-content/pack/bayterek",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-AgOWsicw.webp",
+      "assets/02-lift-C7REWM3J.webp",
+      "assets/03-shar-CVQhX_Wk.webp",
+      "assets/04-shygu-C5F8zQtb.webp"
+    ]
+  },
+  "virtual:kz-content/pack/bazar": {
+    "file": "assets/bazar-md48orz-.js",
+    "name": "bazar",
+    "src": "virtual:kz-content/pack/bazar",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-D2aM3mOi.webp",
+      "assets/02-zhemis-BYr3wYGt.webp",
+      "assets/03-et-sut-CbV0cBaO.webp",
+      "assets/04-shygu-DrsMmy0l.webp"
+    ]
+  },
   "virtual:kz-content/pack/darihana": {
     "file": "assets/darihana-CAd14F1z.js",
     "name": "darihana",
@@ -478,6 +667,42 @@
       "assets/02-tribuna-D69075Fv.webp",
       "assets/03-gol-Cg1hqWO0.webp",
       "assets/04-shygu-BC_JP8Xy.webp"
+    ]
+  },
+  "virtual:kz-content/pack/kafe": {
+    "file": "assets/kafe-DxfjIc2-.js",
+    "name": "kafe",
+    "src": "virtual:kz-content/pack/kafe",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-CW5jqC7b.webp",
+      "assets/02-menu-xSwfEQ8J.webp",
+      "assets/03-tamaq-D0JlFeic.webp",
+      "assets/04-shygu-azxndudr.webp"
+    ]
+  },
+  "virtual:kz-content/pack/kino": {
+    "file": "assets/kino-BrG7M9YW.js",
+    "name": "kino",
+    "src": "virtual:kz-content/pack/kino",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-CKfBXAYA.webp",
+      "assets/02-kassa-DHX3M8-w.webp",
+      "assets/03-zal-cj3VzDRc.webp",
+      "assets/04-shygu-D5MRAA8K.webp"
+    ]
+  },
+  "virtual:kz-content/pack/kitaphana": {
+    "file": "assets/kitaphana-B9FZlENj.js",
+    "name": "kitaphana",
+    "src": "virtual:kz-content/pack/kitaphana",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-BsVQtUDZ.webp",
+      "assets/02-soreler-CocOtSk_.webp",
+      "assets/03-oqu-Cb3PEpXJ.webp",
+      "assets/04-shygu-DxXM6GE3.webp"
     ]
   },
   "virtual:kz-content/pack/kvartira": {
@@ -530,6 +755,18 @@
       "assets/04-vyhod-jElMZ6-9.webp"
     ]
   },
+  "virtual:kz-content/pack/pochta": {
+    "file": "assets/pochta-OcjNpzFP.js",
+    "name": "pochta",
+    "src": "virtual:kz-content/pack/pochta",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-Wwe8qvb4.webp",
+      "assets/02-tereze-DlJTs-B3.webp",
+      "assets/03-otkrytka-CsSs2KZd.webp",
+      "assets/04-shygu-CfxA3cRa.webp"
+    ]
+  },
   "virtual:kz-content/pack/saiabaq": {
     "file": "assets/saiabaq-DCwvpSlD.js",
     "name": "saiabaq",
@@ -540,6 +777,18 @@
       "assets/02-alleya-BHozOPIj.webp",
       "assets/03-fontan-C-o_4d_L.webp",
       "assets/04-shygu-3RWirugL.webp"
+    ]
+  },
+  "virtual:kz-content/pack/shashtaraz": {
+    "file": "assets/shashtaraz-BbdgDDwX.js",
+    "name": "shashtaraz",
+    "src": "virtual:kz-content/pack/shashtaraz",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-CJFeI5d2.webp",
+      "assets/02-kezek-zPvcDwSe.webp",
+      "assets/03-kreslo-DwRbnCT_.webp",
+      "assets/04-shygu-DB_OtI0U.webp"
     ]
   },
   "virtual:kz-content/pack/taksi": {
@@ -554,8 +803,20 @@
       "assets/04-tusu-szgkttah.webp"
     ]
   },
+  "virtual:kz-content/pack/vokzal": {
+    "file": "assets/vokzal-CS3Lnca_.js",
+    "name": "vokzal",
+    "src": "virtual:kz-content/pack/vokzal",
+    "isDynamicEntry": true,
+    "assets": [
+      "assets/01-kiru-C_CrnsZt.webp",
+      "assets/02-tablo-CHzc3djk.webp",
+      "assets/03-perron-DCDZ-6VQ.webp",
+      "assets/04-vagon-BiXwhpuW.webp"
+    ]
+  },
   "virtual:kz-content/sources": {
-    "file": "assets/sources-Dm7ifwp5.js",
+    "file": "assets/sources-9xbek8Jc.js",
     "name": "sources",
     "src": "virtual:kz-content/sources",
     "isDynamicEntry": true
