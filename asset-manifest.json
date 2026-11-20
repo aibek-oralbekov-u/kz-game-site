@@ -164,7 +164,7 @@
     "src": "content/locations/taksi/assets/04-tusu.webp"
   },
   "index.html": {
-    "file": "assets/index-B87cCiTU.js",
+    "file": "assets/index-BVvzV7ud.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -354,31 +354,31 @@
     "src": "ui-assets/splash-portrait.webp"
   },
   "virtual:kz-content/pack/avtobus": {
-    "file": "assets/avtobus-nXQnXpCD.js",
+    "file": "assets/avtobus-C1FvENuY.js",
     "name": "avtobus",
     "src": "virtual:kz-content/pack/avtobus",
     "isDynamicEntry": true
   },
   "virtual:kz-content/pack/darihana": {
-    "file": "assets/darihana-V4mpVnhS.js",
+    "file": "assets/darihana-DKMmDKey.js",
     "name": "darihana",
     "src": "virtual:kz-content/pack/darihana",
     "isDynamicEntry": true
   },
   "virtual:kz-content/pack/dvor": {
-    "file": "assets/dvor-CNtVWeAN.js",
+    "file": "assets/dvor-B-9ILwZv.js",
     "name": "dvor",
     "src": "virtual:kz-content/pack/dvor",
     "isDynamicEntry": true
   },
   "virtual:kz-content/pack/emhana": {
-    "file": "assets/emhana-B48NNl2A.js",
+    "file": "assets/emhana-DhRkD4Z-.js",
     "name": "emhana",
     "src": "virtual:kz-content/pack/emhana",
     "isDynamicEntry": true
   },
   "virtual:kz-content/pack/futbol-match": {
-    "file": "assets/futbol-match-Qhh5i8pf.js",
+    "file": "assets/futbol-match-BpZlHC7P.js",
     "name": "futbol-match",
     "src": "virtual:kz-content/pack/futbol-match",
     "isDynamicEntry": true
@@ -397,19 +397,19 @@
     "isDynamicEntry": true
   },
   "virtual:kz-content/pack/mektep": {
-    "file": "assets/mektep-BAnQzDEe.js",
+    "file": "assets/mektep-D92tI00N.js",
     "name": "mektep",
     "src": "virtual:kz-content/pack/mektep",
     "isDynamicEntry": true
   },
   "virtual:kz-content/pack/saiabaq": {
-    "file": "assets/saiabaq-B1HXqv-F.js",
+    "file": "assets/saiabaq-CndjwsTq.js",
     "name": "saiabaq",
     "src": "virtual:kz-content/pack/saiabaq",
     "isDynamicEntry": true
   },
   "virtual:kz-content/pack/taksi": {
-    "file": "assets/taksi-CqNb49tj.js",
+    "file": "assets/taksi-BuudyPlb.js",
     "name": "taksi",
     "src": "virtual:kz-content/pack/taksi",
     "isDynamicEntry": true
