@@ -2,6 +2,7 @@
 <html lang="ru">
   <head>
     <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
     <!-- unsafe-eval нужен только этому тесту: embind в blob-worker Vosk использует new Function при загрузке модели. -->
     <!-- data: в connect-src нужен только этому тесту: blob-worker Vosk загружает встроенный WASM через fetch data:-URI. -->
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'unsafe-eval'; style-src 'self'; worker-src 'self' blob:; connect-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none'">
