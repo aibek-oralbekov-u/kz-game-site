@@ -208,7 +208,7 @@
     "src": "content/locations/taksi/assets/04-tusu.webp"
   },
   "index.html": {
-    "file": "assets/index-BWGLDyRJ.js",
+    "file": "assets/index-RBkwJRjn.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -357,7 +357,7 @@
     "src": "ui-assets/splash-portrait.webp"
   },
   "virtual:kz-content/pack/avtobus": {
-    "file": "assets/avtobus-Bm9Mnx2n.js",
+    "file": "assets/avtobus-DsntgSFL.js",
     "name": "avtobus",
     "src": "virtual:kz-content/pack/avtobus",
     "isDynamicEntry": true,
@@ -369,7 +369,7 @@
     ]
   },
   "virtual:kz-content/pack/darihana": {
-    "file": "assets/darihana-DwYj7RzG.js",
+    "file": "assets/darihana-CAd14F1z.js",
     "name": "darihana",
     "src": "virtual:kz-content/pack/darihana",
     "isDynamicEntry": true,
@@ -381,7 +381,7 @@
     ]
   },
   "virtual:kz-content/pack/dvor": {
-    "file": "assets/dvor-Ch9BeYeU.js",
+    "file": "assets/dvor-CDxbSitG.js",
     "name": "dvor",
     "src": "virtual:kz-content/pack/dvor",
     "isDynamicEntry": true,
@@ -392,7 +392,7 @@
     ]
   },
   "virtual:kz-content/pack/emhana": {
-    "file": "assets/emhana-GUnO5dVa.js",
+    "file": "assets/emhana-mEWIoBle.js",
     "name": "emhana",
     "src": "virtual:kz-content/pack/emhana",
     "isDynamicEntry": true,
@@ -404,7 +404,7 @@
     ]
   },
   "virtual:kz-content/pack/futbol-match": {
-    "file": "assets/futbol-match-CgxPwx1R.js",
+    "file": "assets/futbol-match-D-us7hnJ.js",
     "name": "futbol-match",
     "src": "virtual:kz-content/pack/futbol-match",
     "isDynamicEntry": true,
@@ -416,7 +416,7 @@
     ]
   },
   "virtual:kz-content/pack/kvartira": {
-    "file": "assets/kvartira-BWGVDLsB.js",
+    "file": "assets/kvartira-DpZUXo4b.js",
     "name": "kvartira",
     "src": "virtual:kz-content/pack/kvartira",
     "isDynamicEntry": true,
@@ -438,7 +438,7 @@
     "isHub": true
   },
   "virtual:kz-content/pack/magazin": {
-    "file": "assets/magazin-29Oc5VJ3.js",
+    "file": "assets/magazin-CG90uN5K.js",
     "name": "magazin",
     "src": "virtual:kz-content/pack/magazin",
     "isDynamicEntry": true,
@@ -454,7 +454,7 @@
     ]
   },
   "virtual:kz-content/pack/mektep": {
-    "file": "assets/mektep-FF18auxM.js",
+    "file": "assets/mektep-Dm2iLnJk.js",
     "name": "mektep",
     "src": "virtual:kz-content/pack/mektep",
     "isDynamicEntry": true,
@@ -466,7 +466,7 @@
     ]
   },
   "virtual:kz-content/pack/saiabaq": {
-    "file": "assets/saiabaq-Dn8iNeId.js",
+    "file": "assets/saiabaq-DCwvpSlD.js",
     "name": "saiabaq",
     "src": "virtual:kz-content/pack/saiabaq",
     "isDynamicEntry": true,
@@ -478,7 +478,7 @@
     ]
   },
   "virtual:kz-content/pack/taksi": {
-    "file": "assets/taksi-C1IBu00t.js",
+    "file": "assets/taksi-BAj87wIo.js",
     "name": "taksi",
     "src": "virtual:kz-content/pack/taksi",
     "isDynamicEntry": true,
