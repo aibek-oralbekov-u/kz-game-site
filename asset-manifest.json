@@ -6,12 +6,13 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_dialogue-CN6wb8bt.js": {
-    "file": "assets/dialogue-CN6wb8bt.js",
+  "_dialogue-CA2dzTpS.js": {
+    "file": "assets/dialogue-CA2dzTpS.js",
     "name": "dialogue",
     "imports": [
       "_dom-B_-7cxLd.js",
-      "_scene-screen-6txKO1rB.js",
+      "_scene-screen-BUcUXPtd.js",
+      "_economy-C2_1RR1j.js",
       "_match-CVdfjrYX.js",
       "_model-store-DkCAfyOm.js",
       "_capture-D3dxxvJU.js",
@@ -62,6 +63,10 @@
       "assets/splash-portrait-Cx7lrF6W.webp"
     ]
   },
+  "_economy-C2_1RR1j.js": {
+    "file": "assets/economy-C2_1RR1j.js",
+    "name": "economy"
+  },
   "_engine-CiYn_sLR.js": {
     "file": "assets/engine-CiYn_sLR.js",
     "name": "engine",
@@ -100,19 +105,21 @@
       "_model-store-DkCAfyOm.js"
     ]
   },
-  "_purchase-panel-DlTQZQYj.js": {
-    "file": "assets/purchase-panel-DlTQZQYj.js",
+  "_purchase-panel-C1i_ZI61.js": {
+    "file": "assets/purchase-panel-C1i_ZI61.js",
     "name": "purchase-panel",
     "imports": [
       "_dom-B_-7cxLd.js",
-      "_scene-screen-6txKO1rB.js"
+      "_scene-screen-BUcUXPtd.js",
+      "_economy-C2_1RR1j.js"
     ]
   },
-  "_scene-screen-6txKO1rB.js": {
-    "file": "assets/scene-screen-6txKO1rB.js",
+  "_scene-screen-BUcUXPtd.js": {
+    "file": "assets/scene-screen-BUcUXPtd.js",
     "name": "scene-screen",
     "imports": [
-      "_dom-B_-7cxLd.js"
+      "_dom-B_-7cxLd.js",
+      "_economy-C2_1RR1j.js"
     ]
   },
   "_voice-messages-BIce0OlC.js": {
@@ -3354,15 +3361,16 @@
     "src": "content/locations/bayterek/voice/f006d89661f6.mp3"
   },
   "index.html": {
-    "file": "assets/game-DRG-nJzh.js",
+    "file": "assets/game-Bh0TxpyO.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_dom-B_-7cxLd.js",
-      "_scene-screen-6txKO1rB.js",
+      "_scene-screen-BUcUXPtd.js",
+      "_economy-C2_1RR1j.js",
       "_voice-messages-BIce0OlC.js",
-      "_purchase-panel-DlTQZQYj.js"
+      "_purchase-panel-C1i_ZI61.js"
     ],
     "dynamicImports": [
       "virtual:kz-content/pack/aeroport",
@@ -3394,7 +3402,7 @@
       "src/ui/screens/world.ts"
     ],
     "css": [
-      "assets/game-BvmbFGjK.css"
+      "assets/game-CVIagLRB.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -3433,15 +3441,16 @@
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
   "src/ui/screens/quest.ts": {
-    "file": "assets/quest-RjiMbfd8.js",
+    "file": "assets/quest-BoDn6V6M.js",
     "name": "quest",
     "src": "src/ui/screens/quest.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_scene-screen-6txKO1rB.js",
-      "_purchase-panel-DlTQZQYj.js",
+      "_scene-screen-BUcUXPtd.js",
+      "_purchase-panel-C1i_ZI61.js",
+      "_economy-C2_1RR1j.js",
       "_dom-B_-7cxLd.js",
-      "_dialogue-CN6wb8bt.js",
+      "_dialogue-CA2dzTpS.js",
       "_voice-messages-BIce0OlC.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js"
@@ -3461,13 +3470,13 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-Llsz8pDj.js",
+    "file": "assets/world-DHHzZhY3.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_scene-screen-6txKO1rB.js",
-      "_dialogue-CN6wb8bt.js",
+      "_scene-screen-BUcUXPtd.js",
+      "_dialogue-CA2dzTpS.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-B_-7cxLd.js",
@@ -3478,15 +3487,16 @@
     ]
   },
   "src/ui/transition.ts": {
-    "file": "assets/transition-nxbWMC13.js",
+    "file": "assets/transition-Bi3kn-Kp.js",
     "name": "transition",
     "src": "src/ui/transition.ts",
     "isDynamicEntry": true,
     "imports": [
+      "_economy-C2_1RR1j.js",
       "_dom-B_-7cxLd.js"
     ],
     "css": [
-      "assets/transition-CEKw1Ay1.css"
+      "assets/transition-C2kz9iLi.css"
     ]
   },
   "src/voice/engine.ts": {
