@@ -1,11 +1,11 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}4aa5b2049963`;
+const CACHE = `${PREFIX}0f47917da167`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';
 const PREVIOUS_MANIFEST = '/previous-asset-manifest.json';
 const sameOrigin = value => new URL(value, self.location.origin).origin === self.location.origin;
-const PRECACHE = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg', '/asset-manifest.json'];
+const PRECACHE = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg', '/asset-manifest.json', '/voice-engine/'];
 const localRequest = path => new Request(path, { cache: 'reload', credentials: 'omit', mode: 'same-origin', redirect: 'error' });
 
 self.addEventListener('install', event => {
@@ -100,7 +100,8 @@ self.addEventListener('fetch', event => {
   event.respondWith((async () => {
     const shell = await caches.open(CACHE);
     const runtime = await caches.open(RUNTIME_CACHE);
-    const cached = await shell.match(navigation ? '/' : request) || (!navigation && await runtime.match(request));
+    const engineNavigation = navigation && (url.pathname === '/voice-engine/' || url.pathname === '/voice-engine.html');
+    const cached = await shell.match(navigation ? (engineNavigation ? '/voice-engine/' : '/') : request) || (!navigation && await runtime.match(request));
     if (cached) return cached;
     try {
       if (navigation) return await fetch(request);

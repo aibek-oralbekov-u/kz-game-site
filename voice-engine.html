@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <!-- embind в blob-worker Vosk использует new Function; встроенный WASM загружается через data:-URI. -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'wasm-unsafe-eval' 'unsafe-eval'; style-src 'self'; worker-src 'self' blob:; connect-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none'">
+    <title>Голосовой модуль</title>
+    <script type="module" crossorigin src="/assets/engine-BrVEvk4g.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vosk-D4yqyaxl.js">
+  </head>
+  <body>
+  </body>
+</html>

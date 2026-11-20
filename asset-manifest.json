@@ -1,4 +1,11 @@
 {
+  "_vosk-D4yqyaxl.js": {
+    "file": "assets/vosk-D4yqyaxl.js",
+    "name": "vosk",
+    "assets": [
+      "assets/vosk-INNAC7fz.js"
+    ]
+  },
   "city/district.json": {
     "file": "assets/district-CJByjIgx.json",
     "src": "city/district.json"
@@ -384,7 +391,7 @@
     "src": "content/locations/vokzal/assets/04-vagon.webp"
   },
   "index.html": {
-    "file": "assets/game-HZrMsD6x.js",
+    "file": "assets/game-Bh-Q-sP7.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -412,7 +419,7 @@
       "virtual:kz-content/sources"
     ],
     "css": [
-      "assets/game-BbiraGA0.css"
+      "assets/game-DIU4GtK-.css"
     ],
     "assets": [
       "assets/fx-birds-JlgSp30Z.webp",
@@ -448,20 +455,25 @@
       "assets/icon-sources-DIrRgvBM.webp",
       "assets/icon-xp-B8o7Ofhz.webp",
       "assets/lobby-bg-portrait-D9EosA7F.webp",
-      "assets/splash-landscape-Bpd1ORjq.webp",
-      "assets/splash-portrait-D9DT3XqI.webp",
+      "assets/splash-landscape-BkUDl9GD.webp",
+      "assets/splash-portrait-Cx7lrF6W.webp",
       "assets/district-CJByjIgx.json",
       "assets/district-QxBepXtV.svg",
-      "assets/Rubik-B4FcBJj4.woff2"
+      "assets/Rubik-B4FcBJj4.woff2",
+      "assets/FiraSansExtraCondensed-Black-title-DLJ2mvsu.woff2"
     ]
   },
   "node_modules/vosk-browser/dist/vosk.js": {
     "file": "assets/vosk-INNAC7fz.js",
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
-  "src/voice-test/pcm-worklet.js": {
+  "src/voice/pcm-worklet.js": {
     "file": "assets/pcm-worklet-BKv0oORP.js",
-    "src": "src/voice-test/pcm-worklet.js"
+    "src": "src/voice/pcm-worklet.js"
+  },
+  "ui-assets/fonts/FiraSansExtraCondensed-Black-title.woff2": {
+    "file": "assets/FiraSansExtraCondensed-Black-title-DLJ2mvsu.woff2",
+    "src": "ui-assets/fonts/FiraSansExtraCondensed-Black-title.woff2"
   },
   "ui-assets/fonts/Rubik.woff2": {
     "file": "assets/Rubik-B4FcBJj4.woff2",
@@ -600,11 +612,11 @@
     "src": "ui-assets/lobby-bg-portrait.webp"
   },
   "ui-assets/splash-landscape.webp": {
-    "file": "assets/splash-landscape-Bpd1ORjq.webp",
+    "file": "assets/splash-landscape-BkUDl9GD.webp",
     "src": "ui-assets/splash-landscape.webp"
   },
   "ui-assets/splash-portrait.webp": {
-    "file": "assets/splash-portrait-D9DT3XqI.webp",
+    "file": "assets/splash-portrait-Cx7lrF6W.webp",
     "src": "ui-assets/splash-portrait.webp"
   },
   "virtual:kz-content/pack/aeroport": {
@@ -868,16 +880,27 @@
     "src": "virtual:kz-content/sources",
     "isDynamicEntry": true
   },
+  "voice-engine.html": {
+    "file": "assets/engine-BrVEvk4g.js",
+    "name": "engine",
+    "src": "voice-engine.html",
+    "isEntry": true,
+    "imports": [
+      "_vosk-D4yqyaxl.js"
+    ]
+  },
   "voice-test.html": {
-    "file": "assets/voice-BxkTIdSx.js",
+    "file": "assets/voice-BnZOKU4a.js",
     "name": "voice",
     "src": "voice-test.html",
     "isEntry": true,
+    "imports": [
+      "_vosk-D4yqyaxl.js"
+    ],
     "css": [
       "assets/voice-De6DA5wt.css"
     ],
     "assets": [
-      "assets/vosk-INNAC7fz.js",
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   }
