@@ -1,0 +1,1 @@
+var e=`/assets/hero-run-b-DZ74JFpJ.webp`;export{e as default};
