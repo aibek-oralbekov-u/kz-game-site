@@ -1,4 +1,12 @@
 {
+  "city/district.json": {
+    "file": "assets/district-CqhBvCjO.json",
+    "src": "city/district.json"
+  },
+  "city/district.svg": {
+    "file": "assets/district-QxBepXtV.svg",
+    "src": "city/district.svg"
+  },
   "content/locations/avtobus/assets/01-ayaldama.webp": {
     "file": "assets/01-ayaldama-BtV3H-n1.webp",
     "src": "content/locations/avtobus/assets/01-ayaldama.webp"
@@ -208,7 +216,7 @@
     "src": "content/locations/taksi/assets/04-tusu.webp"
   },
   "index.html": {
-    "file": "assets/index-RBkwJRjn.js",
+    "file": "assets/index-FSpJ7V8S.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -226,7 +234,7 @@
       "virtual:kz-content/sources"
     ],
     "css": [
-      "assets/index-vMy3B2Hw.css"
+      "assets/index-JSxZC8lA.css"
     ],
     "assets": [
       "assets/fx-birds-JlgSp30Z.webp",
@@ -236,6 +244,7 @@
       "assets/fx-sparkles-C485MUjf.webp",
       "assets/fx-steam-DuHOHI0H.webp",
       "assets/hero-lobby-BQ7MH0Ph.webp",
+      "assets/hero-map-CZVeIBW9.webp",
       "assets/icon-back-BU_LHUxn.webp",
       "assets/icon-check-BHLR9Ke3.webp",
       "assets/icon-chest-BiEbjQer.webp",
@@ -247,12 +256,24 @@
       "assets/icon-lock-DDiSzMvp.webp",
       "assets/icon-map-h1ONDfaP.webp",
       "assets/icon-mic-ZHCLKUGu.webp",
+      "assets/icon-pin-bus-stop-DWltmWVs.webp",
+      "assets/icon-pin-clinic-B69f9ycr.webp",
+      "assets/icon-pin-home-w3QpKkPb.webp",
+      "assets/icon-pin-park-CxCsop63.webp",
+      "assets/icon-pin-pharmacy-Buv3s5Pl.webp",
+      "assets/icon-pin-school-Cu3WPEcT.webp",
+      "assets/icon-pin-shop-Cyq_ka5B.webp",
+      "assets/icon-pin-stadium-B946DD6g.webp",
+      "assets/icon-pin-taxi-BLX1ovvx.webp",
+      "assets/icon-pin-yard-D6RJ5a9r.webp",
       "assets/icon-quest-zqv3WLZB.webp",
       "assets/icon-sources-DIrRgvBM.webp",
       "assets/icon-xp-B8o7Ofhz.webp",
       "assets/lobby-bg-portrait-D9EosA7F.webp",
       "assets/splash-landscape-Bpd1ORjq.webp",
       "assets/splash-portrait-D9DT3XqI.webp",
+      "assets/district-CqhBvCjO.json",
+      "assets/district-QxBepXtV.svg",
       "assets/Rubik-B4FcBJj4.woff2"
     ]
   },
@@ -287,6 +308,10 @@
   "ui-assets/hero-lobby.webp": {
     "file": "assets/hero-lobby-BQ7MH0Ph.webp",
     "src": "ui-assets/hero-lobby.webp"
+  },
+  "ui-assets/hero-map.webp": {
+    "file": "assets/hero-map-CZVeIBW9.webp",
+    "src": "ui-assets/hero-map.webp"
   },
   "ui-assets/icon-back.webp": {
     "file": "assets/icon-back-BU_LHUxn.webp",
@@ -331,6 +356,46 @@
   "ui-assets/icon-mic.webp": {
     "file": "assets/icon-mic-ZHCLKUGu.webp",
     "src": "ui-assets/icon-mic.webp"
+  },
+  "ui-assets/icon-pin-bus-stop.webp": {
+    "file": "assets/icon-pin-bus-stop-DWltmWVs.webp",
+    "src": "ui-assets/icon-pin-bus-stop.webp"
+  },
+  "ui-assets/icon-pin-clinic.webp": {
+    "file": "assets/icon-pin-clinic-B69f9ycr.webp",
+    "src": "ui-assets/icon-pin-clinic.webp"
+  },
+  "ui-assets/icon-pin-home.webp": {
+    "file": "assets/icon-pin-home-w3QpKkPb.webp",
+    "src": "ui-assets/icon-pin-home.webp"
+  },
+  "ui-assets/icon-pin-park.webp": {
+    "file": "assets/icon-pin-park-CxCsop63.webp",
+    "src": "ui-assets/icon-pin-park.webp"
+  },
+  "ui-assets/icon-pin-pharmacy.webp": {
+    "file": "assets/icon-pin-pharmacy-Buv3s5Pl.webp",
+    "src": "ui-assets/icon-pin-pharmacy.webp"
+  },
+  "ui-assets/icon-pin-school.webp": {
+    "file": "assets/icon-pin-school-Cu3WPEcT.webp",
+    "src": "ui-assets/icon-pin-school.webp"
+  },
+  "ui-assets/icon-pin-shop.webp": {
+    "file": "assets/icon-pin-shop-Cyq_ka5B.webp",
+    "src": "ui-assets/icon-pin-shop.webp"
+  },
+  "ui-assets/icon-pin-stadium.webp": {
+    "file": "assets/icon-pin-stadium-B946DD6g.webp",
+    "src": "ui-assets/icon-pin-stadium.webp"
+  },
+  "ui-assets/icon-pin-taxi.webp": {
+    "file": "assets/icon-pin-taxi-BLX1ovvx.webp",
+    "src": "ui-assets/icon-pin-taxi.webp"
+  },
+  "ui-assets/icon-pin-yard.webp": {
+    "file": "assets/icon-pin-yard-D6RJ5a9r.webp",
+    "src": "ui-assets/icon-pin-yard.webp"
   },
   "ui-assets/icon-quest.webp": {
     "file": "assets/icon-quest-zqv3WLZB.webp",
