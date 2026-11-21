@@ -46,8 +46,8 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_clock-4xUrafuq.js": {
-    "file": "assets/clock-4xUrafuq.js",
+  "_clock-DHig345d.js": {
+    "file": "assets/clock-DHig345d.js",
     "name": "clock",
     "imports": [
       "_dom-B_-7cxLd.js",
@@ -18315,13 +18315,13 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-DDIImu8R.js",
+    "file": "assets/game-DCy5JvYg.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_dom-B_-7cxLd.js",
-      "_clock-4xUrafuq.js",
+      "_clock-DHig345d.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-BIce0OlC.js"
     ],
@@ -18446,12 +18446,12 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-DZhrHPff.js",
+    "file": "assets/world-C97PZLrx.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_clock-4xUrafuq.js",
+      "_clock-DHig345d.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-B_-7cxLd.js",
