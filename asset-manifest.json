@@ -6,8 +6,8 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_dialogue-DyjfdvSM.js": {
-    "file": "assets/dialogue-DyjfdvSM.js",
+  "_dialogue-BCYSw57W.js": {
+    "file": "assets/dialogue-BCYSw57W.js",
     "name": "dialogue",
     "imports": [
       "_dom-U3MR2Mxo.js",
@@ -14463,10 +14463,6 @@
     "file": "assets/1066e28af3d8-Ded2oRTG.mp3",
     "src": "content/locations/kvartira/voice/1066e28af3d8.mp3"
   },
-  "content/locations/kvartira/voice/10a737c114cb.mp3": {
-    "file": "assets/10a737c114cb-DmIomT7r.mp3",
-    "src": "content/locations/kvartira/voice/10a737c114cb.mp3"
-  },
   "content/locations/kvartira/voice/115d2edc3163.mp3": {
     "file": "assets/115d2edc3163-dg-5oOKv.mp3",
     "src": "content/locations/kvartira/voice/115d2edc3163.mp3"
@@ -14566,6 +14562,10 @@
   "content/locations/kvartira/voice/19fa153d9012.mp3": {
     "file": "assets/19fa153d9012-BplqB39r.mp3",
     "src": "content/locations/kvartira/voice/19fa153d9012.mp3"
+  },
+  "content/locations/kvartira/voice/1a290ccd8c6c.mp3": {
+    "file": "assets/1a290ccd8c6c-BeL943kM.mp3",
+    "src": "content/locations/kvartira/voice/1a290ccd8c6c.mp3"
   },
   "content/locations/kvartira/voice/1a9474c4ba7d.mp3": {
     "file": "assets/1a9474c4ba7d-C4MspFm6.mp3",
@@ -14842,6 +14842,10 @@
   "content/locations/kvartira/voice/3a092436bfae.mp3": {
     "file": "assets/3a092436bfae-DSxx-uft.mp3",
     "src": "content/locations/kvartira/voice/3a092436bfae.mp3"
+  },
+  "content/locations/kvartira/voice/3acaaa794be2.mp3": {
+    "file": "assets/3acaaa794be2-P1xBTd0Q.mp3",
+    "src": "content/locations/kvartira/voice/3acaaa794be2.mp3"
   },
   "content/locations/kvartira/voice/3acf82d24d0f.mp3": {
     "file": "assets/3acf82d24d0f-CAbrRkO1.mp3",
@@ -15147,10 +15151,6 @@
     "file": "assets/598bd7d181ad-CujG4wXh.mp3",
     "src": "content/locations/kvartira/voice/598bd7d181ad.mp3"
   },
-  "content/locations/kvartira/voice/5993f922c6f2.mp3": {
-    "file": "assets/5993f922c6f2-BFDhQf9X.mp3",
-    "src": "content/locations/expo/voice/5993f922c6f2.mp3"
-  },
   "content/locations/kvartira/voice/59d39855fc43.mp3": {
     "file": "assets/59d39855fc43-CfKjeBdv.mp3",
     "src": "content/locations/kvartira/voice/59d39855fc43.mp3"
@@ -15219,6 +15219,10 @@
     "file": "assets/61f388d7809e-CqVCuvxl.mp3",
     "src": "content/locations/kvartira/voice/61f388d7809e.mp3"
   },
+  "content/locations/kvartira/voice/62106560ddb5.mp3": {
+    "file": "assets/62106560ddb5-NLV_1Sb-.mp3",
+    "src": "content/locations/kvartira/voice/62106560ddb5.mp3"
+  },
   "content/locations/kvartira/voice/6463e4e49d27.mp3": {
     "file": "assets/6463e4e49d27-BbJ3sLol.mp3",
     "src": "content/locations/kvartira/voice/6463e4e49d27.mp3"
@@ -15275,6 +15279,10 @@
     "file": "assets/6983af2a8dab-DbDUkNO0.mp3",
     "src": "content/locations/kvartira/voice/6983af2a8dab.mp3"
   },
+  "content/locations/kvartira/voice/699912485661.mp3": {
+    "file": "assets/699912485661-sFkXS9uF.mp3",
+    "src": "content/locations/kvartira/voice/699912485661.mp3"
+  },
   "content/locations/kvartira/voice/6a03950b1ed0.mp3": {
     "file": "assets/6a03950b1ed0-Dm1RmR9g.mp3",
     "src": "content/locations/kvartira/voice/6a03950b1ed0.mp3"
@@ -15294,10 +15302,6 @@
   "content/locations/kvartira/voice/6c1dc1e9af32.mp3": {
     "file": "assets/6c1dc1e9af32-BJDW23s3.mp3",
     "src": "content/locations/kvartira/voice/6c1dc1e9af32.mp3"
-  },
-  "content/locations/kvartira/voice/6ce46685538b.mp3": {
-    "file": "assets/6ce46685538b-Du-12jqf.mp3",
-    "src": "content/locations/kvartira/voice/6ce46685538b.mp3"
   },
   "content/locations/kvartira/voice/6d2234dd68b8.mp3": {
     "file": "assets/6d2234dd68b8-BFWXPJne.mp3",
@@ -15335,6 +15339,10 @@
     "file": "assets/70758123b7dc-CoZal_YC.mp3",
     "src": "content/locations/kvartira/voice/70758123b7dc.mp3"
   },
+  "content/locations/kvartira/voice/70da2e9f2098.mp3": {
+    "file": "assets/70da2e9f2098-DdmPcDNo.mp3",
+    "src": "content/locations/kvartira/voice/70da2e9f2098.mp3"
+  },
   "content/locations/kvartira/voice/711348e1477b.mp3": {
     "file": "assets/711348e1477b-CVYdbopz.mp3",
     "src": "content/locations/kvartira/voice/711348e1477b.mp3"
@@ -15366,6 +15374,10 @@
   "content/locations/kvartira/voice/767d85fb5aa6.mp3": {
     "file": "assets/767d85fb5aa6-CU7CisMB.mp3",
     "src": "content/locations/kvartira/voice/767d85fb5aa6.mp3"
+  },
+  "content/locations/kvartira/voice/76892defeb17.mp3": {
+    "file": "assets/76892defeb17-C2ApaMY3.mp3",
+    "src": "content/locations/kvartira/voice/76892defeb17.mp3"
   },
   "content/locations/kvartira/voice/76c611063d6e.mp3": {
     "file": "assets/76c611063d6e-DqS0yZdF.mp3",
@@ -15451,10 +15463,6 @@
     "file": "assets/7f7f33997ca3-d85EiMO5.mp3",
     "src": "content/locations/kvartira/voice/7f7f33997ca3.mp3"
   },
-  "content/locations/kvartira/voice/7f82818824ef.mp3": {
-    "file": "assets/7f82818824ef-BXJrirPt.mp3",
-    "src": "content/locations/kvartira/voice/7f82818824ef.mp3"
-  },
   "content/locations/kvartira/voice/7f82ced06b90.mp3": {
     "file": "assets/7f82ced06b90-DBCK3JRw.mp3",
     "src": "content/locations/kvartira/voice/7f82ced06b90.mp3"
@@ -15486,10 +15494,6 @@
   "content/locations/kvartira/voice/83e99e5a1b8b.mp3": {
     "file": "assets/83e99e5a1b8b-BC8UGM9U.mp3",
     "src": "content/locations/kvartira/voice/83e99e5a1b8b.mp3"
-  },
-  "content/locations/kvartira/voice/84228c57c430.mp3": {
-    "file": "assets/84228c57c430-DGkGGlJ5.mp3",
-    "src": "content/locations/kvartira/voice/84228c57c430.mp3"
   },
   "content/locations/kvartira/voice/8493338fe5a0.mp3": {
     "file": "assets/8493338fe5a0-1TfMPdCF.mp3",
@@ -15655,6 +15659,10 @@
     "file": "assets/9e00e4192cd4-DTfOZI_N.mp3",
     "src": "content/locations/kvartira/voice/9e00e4192cd4.mp3"
   },
+  "content/locations/kvartira/voice/9e2bde9cf4d8.mp3": {
+    "file": "assets/9e2bde9cf4d8-DKQeleiE.mp3",
+    "src": "content/locations/kvartira/voice/9e2bde9cf4d8.mp3"
+  },
   "content/locations/kvartira/voice/9e7d86617803.mp3": {
     "file": "assets/9e7d86617803-C1WK6zTW.mp3",
     "src": "content/locations/kvartira/voice/9e7d86617803.mp3"
@@ -15766,6 +15774,10 @@
   "content/locations/kvartira/voice/abf05dfd3201.mp3": {
     "file": "assets/abf05dfd3201-CZC5wl61.mp3",
     "src": "content/locations/kvartira/voice/abf05dfd3201.mp3"
+  },
+  "content/locations/kvartira/voice/add88982c8f5.mp3": {
+    "file": "assets/add88982c8f5-4iOuQk2o.mp3",
+    "src": "content/locations/kvartira/voice/add88982c8f5.mp3"
   },
   "content/locations/kvartira/voice/aead6978a261.mp3": {
     "file": "assets/aead6978a261-Bjq-Li9t.mp3",
@@ -15883,6 +15895,10 @@
     "file": "assets/b86f21587d4c-COyZXtWS.mp3",
     "src": "content/locations/kvartira/voice/b86f21587d4c.mp3"
   },
+  "content/locations/kvartira/voice/b901b8ac215e.mp3": {
+    "file": "assets/b901b8ac215e-CCz9FIq8.mp3",
+    "src": "content/locations/kvartira/voice/b901b8ac215e.mp3"
+  },
   "content/locations/kvartira/voice/b9f2fe255b2f.mp3": {
     "file": "assets/b9f2fe255b2f-CrYI2hiZ.mp3",
     "src": "content/locations/kvartira/voice/b9f2fe255b2f.mp3"
@@ -15915,6 +15931,10 @@
     "file": "assets/bd012d8d6189-BefKCRiW.mp3",
     "src": "content/locations/kvartira/voice/bd012d8d6189.mp3"
   },
+  "content/locations/kvartira/voice/bdd5036ea4de.mp3": {
+    "file": "assets/bdd5036ea4de-CayET-W2.mp3",
+    "src": "content/locations/kvartira/voice/bdd5036ea4de.mp3"
+  },
   "content/locations/kvartira/voice/bef60a90077e.mp3": {
     "file": "assets/bef60a90077e-DvkEKn_9.mp3",
     "src": "content/locations/kvartira/voice/bef60a90077e.mp3"
@@ -15943,6 +15963,10 @@
     "file": "assets/c3ced8a843b2-gPOj3MYb.mp3",
     "src": "content/locations/kvartira/voice/c3ced8a843b2.mp3"
   },
+  "content/locations/kvartira/voice/c3f63ec1c998.mp3": {
+    "file": "assets/c3f63ec1c998-CAJVVN-R.mp3",
+    "src": "content/locations/kvartira/voice/c3f63ec1c998.mp3"
+  },
   "content/locations/kvartira/voice/c451470ebe96.mp3": {
     "file": "assets/c451470ebe96-BUXFChIU.mp3",
     "src": "content/locations/kvartira/voice/c451470ebe96.mp3"
@@ -15950,10 +15974,6 @@
   "content/locations/kvartira/voice/c48c63a5da1a.mp3": {
     "file": "assets/c48c63a5da1a-DiX-mfX8.mp3",
     "src": "content/locations/kvartira/voice/c48c63a5da1a.mp3"
-  },
-  "content/locations/kvartira/voice/c4a7dbe73bfd.mp3": {
-    "file": "assets/c4a7dbe73bfd-CLQWPB7a.mp3",
-    "src": "content/locations/kvartira/voice/c4a7dbe73bfd.mp3"
   },
   "content/locations/kvartira/voice/c50c638238c9.mp3": {
     "file": "assets/c50c638238c9-6B1g3EVP.mp3",
@@ -15966,6 +15986,14 @@
   "content/locations/kvartira/voice/c56a5201126d.mp3": {
     "file": "assets/c56a5201126d-BOztkffe.mp3",
     "src": "content/locations/kvartira/voice/c56a5201126d.mp3"
+  },
+  "content/locations/kvartira/voice/c5c9b083aac2.mp3": {
+    "file": "assets/c5c9b083aac2-BJzKYMVc.mp3",
+    "src": "content/locations/kvartira/voice/c5c9b083aac2.mp3"
+  },
+  "content/locations/kvartira/voice/c605117c4763.mp3": {
+    "file": "assets/c605117c4763-DGkAOUzN.mp3",
+    "src": "content/locations/kvartira/voice/c605117c4763.mp3"
   },
   "content/locations/kvartira/voice/c6164e128c79.mp3": {
     "file": "assets/c6164e128c79-BxlRtGbK.mp3",
@@ -16175,6 +16203,10 @@
     "file": "assets/df30b566e871-ByIVYtgu.mp3",
     "src": "content/locations/kvartira/voice/df30b566e871.mp3"
   },
+  "content/locations/kvartira/voice/df8512c0623a.mp3": {
+    "file": "assets/df8512c0623a-atOY-9FZ.mp3",
+    "src": "content/locations/aeroport/voice/df8512c0623a.mp3"
+  },
   "content/locations/kvartira/voice/dff4d1ee77a3.mp3": {
     "file": "assets/dff4d1ee77a3-BozBFqbI.mp3",
     "src": "content/locations/bank/voice/dff4d1ee77a3.mp3"
@@ -16278,6 +16310,10 @@
   "content/locations/kvartira/voice/e712c98b9003.mp3": {
     "file": "assets/e712c98b9003-Nlh6qh4K.mp3",
     "src": "content/locations/kvartira/voice/e712c98b9003.mp3"
+  },
+  "content/locations/kvartira/voice/e72bae0d073d.mp3": {
+    "file": "assets/e72bae0d073d-DNylakyf.mp3",
+    "src": "content/locations/kvartira/voice/e72bae0d073d.mp3"
   },
   "content/locations/kvartira/voice/e85eec11bee0.mp3": {
     "file": "assets/e85eec11bee0-ByIcs02G.mp3",
@@ -16414,10 +16450,6 @@
   "content/locations/kvartira/voice/f887a45449d5.mp3": {
     "file": "assets/f887a45449d5-ChfnXNBx.mp3",
     "src": "content/locations/kvartira/voice/f887a45449d5.mp3"
-  },
-  "content/locations/kvartira/voice/f909afcfa001.mp3": {
-    "file": "assets/f909afcfa001-BO8KYrC7.mp3",
-    "src": "content/locations/kvartira/voice/f909afcfa001.mp3"
   },
   "content/locations/kvartira/voice/f92296ccb041.mp3": {
     "file": "assets/f92296ccb041-CwyDSCNY.mp3",
@@ -28392,13 +28424,13 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-C__yUUNG.js",
+    "file": "assets/game-DsejnBFd.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_dom-U3MR2Mxo.js",
-      "_dialogue-DyjfdvSM.js",
+      "_dialogue-BCYSw57W.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-BIce0OlC.js"
     ],
@@ -28531,12 +28563,12 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-C75juPIL.js",
+    "file": "assets/world-D8fMliBt.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_dialogue-DyjfdvSM.js",
+      "_dialogue-BCYSw57W.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-U3MR2Mxo.js",
@@ -28550,7 +28582,7 @@
     ]
   },
   "src/ui/transition.ts": {
-    "file": "assets/transition-B-47Wjdb.js",
+    "file": "assets/transition-C2NMPCHi.js",
     "name": "transition",
     "src": "src/ui/transition.ts",
     "isDynamicEntry": true,
@@ -29519,7 +29551,7 @@
     ]
   },
   "virtual:kz-content/pack/kvartira": {
-    "file": "assets/kvartira-BKYMEMWv.js",
+    "file": "assets/kvartira-BZooabiS.js",
     "name": "kvartira",
     "src": "virtual:kz-content/pack/kvartira",
     "isDynamicEntry": true,
@@ -29669,7 +29701,7 @@
       "assets/hall-night-DQ_wm1Sd.webp",
       "assets/map-Bb315wNf.svg",
       "assets/player-CMsGc4B_.svg",
-      "assets/kvartira-texts-460732706d5a.json"
+      "assets/kvartira-texts-29145cdb5304.json"
     ],
     "isHub": true
   },
@@ -30304,7 +30336,7 @@
     ]
   },
   "voice-test.html": {
-    "file": "assets/voice-hf8a6319.js",
+    "file": "assets/voice-B7wkeSHj.js",
     "name": "voice",
     "src": "voice-test.html",
     "isEntry": true,
