@@ -6,16 +6,16 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_dialogue-BPrsKCqP.js": {
-    "file": "assets/dialogue-BPrsKCqP.js",
+  "_dialogue-DWRiqFza.js": {
+    "file": "assets/dialogue-DWRiqFza.js",
     "name": "dialogue",
     "imports": [
-      "_dom-B_-7cxLd.js",
+      "_dom-U3MR2Mxo.js",
       "_economy-C2_1RR1j.js"
     ]
   },
-  "_dom-B_-7cxLd.js": {
-    "file": "assets/dom-B_-7cxLd.js",
+  "_dom-U3MR2Mxo.js": {
+    "file": "assets/dom-U3MR2Mxo.js",
     "name": "dom",
     "dynamicImports": [
       "ui-assets/hero-run-a.webp?url&no-inline",
@@ -34,12 +34,10 @@
       "assets/icon-check-BHLR9Ke3.webp",
       "assets/icon-chest-BiEbjQer.webp",
       "assets/icon-coin-jDIUTWtD.webp",
-      "assets/icon-family-B5r5o1Un.webp",
       "assets/icon-gift-Upr1RCkV.webp",
       "assets/icon-home-FmS3iBvF.webp",
       "assets/icon-level-ksOVdWd5.webp",
       "assets/icon-lock-DDiSzMvp.webp",
-      "assets/icon-map-h1ONDfaP.webp",
       "assets/icon-mic-ZHCLKUGu.webp",
       "assets/icon-pin-bus-stop-DWltmWVs.webp",
       "assets/icon-pin-clinic-B69f9ycr.webp",
@@ -51,9 +49,32 @@
       "assets/icon-pin-stadium-B946DD6g.webp",
       "assets/icon-pin-taxi-BLX1ovvx.webp",
       "assets/icon-pin-yard-D6RJ5a9r.webp",
-      "assets/icon-quest-zqv3WLZB.webp",
       "assets/icon-sources-DIrRgvBM.webp",
       "assets/icon-xp-B8o7Ofhz.webp",
+      "assets/back-BFhc6wT-.webp",
+      "assets/family-EA7Y6UMb.webp",
+      "assets/hall-DXRCjSCU.webp",
+      "assets/home-CUrHW7pE.webp",
+      "assets/howto-Det76qet.webp",
+      "assets/ideas-BY6S7BB3.webp",
+      "assets/info-DQpnZWR8.webp",
+      "assets/locations-Dbo-npkF.webp",
+      "assets/lock-BlZBZ_v0.webp",
+      "assets/map-V0MpeJuA.webp",
+      "assets/play-DIJeMMLT.webp",
+      "assets/q-city-Bd34A2Bz.webp",
+      "assets/q-culture-CPjgjSh7.webp",
+      "assets/q-elders-CgoETzed.webp",
+      "assets/q-food-DAA7QLt2.webp",
+      "assets/q-neighbors-ZjMg8LEe.webp",
+      "assets/q-other-n5sVFKMz.webp",
+      "assets/q-sport-5Ht5gTXA.webp",
+      "assets/q-things-C6108Px6.webp",
+      "assets/q-tomiris-p5A8zeD7.webp",
+      "assets/quests-Zf9nWr1n.webp",
+      "assets/rewards-BDRGLxje.webp",
+      "assets/trailer-CUX-oIYx.webp",
+      "assets/voice-CuxnXI5b.webp",
       "assets/lobby-bg-portrait-D9EosA7F.webp",
       "assets/splash-portrait-Cx7lrF6W.webp"
     ]
@@ -27919,13 +27940,13 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-BCn09L0p.js",
+    "file": "assets/game-3yyr584r.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_dom-B_-7cxLd.js",
-      "_dialogue-BPrsKCqP.js",
+      "_dom-U3MR2Mxo.js",
+      "_dialogue-DWRiqFza.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-BIce0OlC.js"
     ],
@@ -27982,7 +28003,7 @@
       "src/ui/screens/voice.ts"
     ],
     "css": [
-      "assets/game-toBBTT0R.css"
+      "assets/game-Bc13BDXz.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -28037,7 +28058,7 @@
       "assets/Rubik-cyrillic-6J3aU1sj.woff2",
       "assets/Rubik-latin-ext-xIGCplNB.woff2",
       "assets/Rubik-latin-0V_ixqQm.woff2",
-      "assets/FiraSansExtraCondensed-Black-title-DLJ2mvsu.woff2"
+      "assets/Pacifico-kz-BF6hNznP.woff2"
     ]
   },
   "node_modules/vosk-browser/dist/vosk.js": {
@@ -28045,7 +28066,7 @@
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
   "src/ui/screens/voice.ts": {
-    "file": "assets/voice-BakF0KEZ.js",
+    "file": "assets/voice-CabbKP1W.js",
     "name": "voice",
     "src": "src/ui/screens/voice.ts",
     "isDynamicEntry": true,
@@ -28053,20 +28074,20 @@
       "_model-store-DkCAfyOm.js",
       "_capture-D3dxxvJU.js",
       "_engine-CiYn_sLR.js",
-      "_dom-B_-7cxLd.js",
+      "_dom-U3MR2Mxo.js",
       "_voice-messages-BIce0OlC.js"
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-0Ie8ceuH.js",
+    "file": "assets/world-DzeSGTBp.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_dialogue-BPrsKCqP.js",
+      "_dialogue-DWRiqFza.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
-      "_dom-B_-7cxLd.js",
+      "_dom-U3MR2Mxo.js",
       "_economy-C2_1RR1j.js",
       "_capture-D3dxxvJU.js",
       "_match-CVdfjrYX.js",
@@ -28077,13 +28098,13 @@
     ]
   },
   "src/ui/transition.ts": {
-    "file": "assets/transition-Bi3kn-Kp.js",
+    "file": "assets/transition-B-47Wjdb.js",
     "name": "transition",
     "src": "src/ui/transition.ts",
     "isDynamicEntry": true,
     "imports": [
       "_economy-C2_1RR1j.js",
-      "_dom-B_-7cxLd.js"
+      "_dom-U3MR2Mxo.js"
     ],
     "css": [
       "assets/transition-C2kz9iLi.css"
@@ -28111,9 +28132,9 @@
     "file": "assets/pcm-worklet-BKv0oORP.js",
     "src": "src/voice/pcm-worklet.js"
   },
-  "ui-assets/fonts/FiraSansExtraCondensed-Black-title.woff2": {
-    "file": "assets/FiraSansExtraCondensed-Black-title-DLJ2mvsu.woff2",
-    "src": "ui-assets/fonts/FiraSansExtraCondensed-Black-title.woff2"
+  "ui-assets/fonts/Pacifico-kz.woff2": {
+    "file": "assets/Pacifico-kz-BF6hNznP.woff2",
+    "src": "ui-assets/fonts/Pacifico-kz.woff2"
   },
   "ui-assets/fonts/rubik/Rubik-cyrillic-ext.woff2": {
     "file": "assets/Rubik-cyrillic-ext-BgEjOSi_.woff2",
@@ -28205,10 +28226,6 @@
     "file": "assets/icon-coin-jDIUTWtD.webp",
     "src": "ui-assets/icon-coin.webp"
   },
-  "ui-assets/icon-family.webp": {
-    "file": "assets/icon-family-B5r5o1Un.webp",
-    "src": "ui-assets/icon-family.webp"
-  },
   "ui-assets/icon-gift.webp": {
     "file": "assets/icon-gift-Upr1RCkV.webp",
     "src": "ui-assets/icon-gift.webp"
@@ -28224,10 +28241,6 @@
   "ui-assets/icon-lock.webp": {
     "file": "assets/icon-lock-DDiSzMvp.webp",
     "src": "ui-assets/icon-lock.webp"
-  },
-  "ui-assets/icon-map.webp": {
-    "file": "assets/icon-map-h1ONDfaP.webp",
-    "src": "ui-assets/icon-map.webp"
   },
   "ui-assets/icon-mic.webp": {
     "file": "assets/icon-mic-ZHCLKUGu.webp",
@@ -28273,10 +28286,6 @@
     "file": "assets/icon-pin-yard-D6RJ5a9r.webp",
     "src": "ui-assets/icon-pin-yard.webp"
   },
-  "ui-assets/icon-quest.webp": {
-    "file": "assets/icon-quest-zqv3WLZB.webp",
-    "src": "ui-assets/icon-quest.webp"
-  },
   "ui-assets/icon-sources.webp": {
     "file": "assets/icon-sources-DIrRgvBM.webp",
     "src": "ui-assets/icon-sources.webp"
@@ -28284,6 +28293,102 @@
   "ui-assets/icon-xp.webp": {
     "file": "assets/icon-xp-B8o7Ofhz.webp",
     "src": "ui-assets/icon-xp.webp"
+  },
+  "ui-assets/icons/back.webp": {
+    "file": "assets/back-BFhc6wT-.webp",
+    "src": "ui-assets/icons/back.webp"
+  },
+  "ui-assets/icons/family.webp": {
+    "file": "assets/family-EA7Y6UMb.webp",
+    "src": "ui-assets/icons/family.webp"
+  },
+  "ui-assets/icons/hall.webp": {
+    "file": "assets/hall-DXRCjSCU.webp",
+    "src": "ui-assets/icons/hall.webp"
+  },
+  "ui-assets/icons/home.webp": {
+    "file": "assets/home-CUrHW7pE.webp",
+    "src": "ui-assets/icons/home.webp"
+  },
+  "ui-assets/icons/howto.webp": {
+    "file": "assets/howto-Det76qet.webp",
+    "src": "ui-assets/icons/howto.webp"
+  },
+  "ui-assets/icons/ideas.webp": {
+    "file": "assets/ideas-BY6S7BB3.webp",
+    "src": "ui-assets/icons/ideas.webp"
+  },
+  "ui-assets/icons/info.webp": {
+    "file": "assets/info-DQpnZWR8.webp",
+    "src": "ui-assets/icons/info.webp"
+  },
+  "ui-assets/icons/locations.webp": {
+    "file": "assets/locations-Dbo-npkF.webp",
+    "src": "ui-assets/icons/locations.webp"
+  },
+  "ui-assets/icons/lock.webp": {
+    "file": "assets/lock-BlZBZ_v0.webp",
+    "src": "ui-assets/icons/lock.webp"
+  },
+  "ui-assets/icons/map.webp": {
+    "file": "assets/map-V0MpeJuA.webp",
+    "src": "ui-assets/icons/map.webp"
+  },
+  "ui-assets/icons/play.webp": {
+    "file": "assets/play-DIJeMMLT.webp",
+    "src": "ui-assets/icons/play.webp"
+  },
+  "ui-assets/icons/q-city.webp": {
+    "file": "assets/q-city-Bd34A2Bz.webp",
+    "src": "ui-assets/icons/q-city.webp"
+  },
+  "ui-assets/icons/q-culture.webp": {
+    "file": "assets/q-culture-CPjgjSh7.webp",
+    "src": "ui-assets/icons/q-culture.webp"
+  },
+  "ui-assets/icons/q-elders.webp": {
+    "file": "assets/q-elders-CgoETzed.webp",
+    "src": "ui-assets/icons/q-elders.webp"
+  },
+  "ui-assets/icons/q-food.webp": {
+    "file": "assets/q-food-DAA7QLt2.webp",
+    "src": "ui-assets/icons/q-food.webp"
+  },
+  "ui-assets/icons/q-neighbors.webp": {
+    "file": "assets/q-neighbors-ZjMg8LEe.webp",
+    "src": "ui-assets/icons/q-neighbors.webp"
+  },
+  "ui-assets/icons/q-other.webp": {
+    "file": "assets/q-other-n5sVFKMz.webp",
+    "src": "ui-assets/icons/q-other.webp"
+  },
+  "ui-assets/icons/q-sport.webp": {
+    "file": "assets/q-sport-5Ht5gTXA.webp",
+    "src": "ui-assets/icons/q-sport.webp"
+  },
+  "ui-assets/icons/q-things.webp": {
+    "file": "assets/q-things-C6108Px6.webp",
+    "src": "ui-assets/icons/q-things.webp"
+  },
+  "ui-assets/icons/q-tomiris.webp": {
+    "file": "assets/q-tomiris-p5A8zeD7.webp",
+    "src": "ui-assets/icons/q-tomiris.webp"
+  },
+  "ui-assets/icons/quests.webp": {
+    "file": "assets/quests-Zf9nWr1n.webp",
+    "src": "ui-assets/icons/quests.webp"
+  },
+  "ui-assets/icons/rewards.webp": {
+    "file": "assets/rewards-BDRGLxje.webp",
+    "src": "ui-assets/icons/rewards.webp"
+  },
+  "ui-assets/icons/trailer.webp": {
+    "file": "assets/trailer-CUX-oIYx.webp",
+    "src": "ui-assets/icons/trailer.webp"
+  },
+  "ui-assets/icons/voice.webp": {
+    "file": "assets/voice-CuxnXI5b.webp",
+    "src": "ui-assets/icons/voice.webp"
   },
   "ui-assets/lobby-bg-portrait.webp": {
     "file": "assets/lobby-bg-portrait-D9EosA7F.webp",
