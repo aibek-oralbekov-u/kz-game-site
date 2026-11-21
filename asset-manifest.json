@@ -27919,7 +27919,7 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-C9Cw1oaB.js",
+    "file": "assets/game-BCn09L0p.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -27982,7 +27982,7 @@
       "src/ui/screens/voice.ts"
     ],
     "css": [
-      "assets/game-DDSp7CwM.css"
+      "assets/game-toBBTT0R.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -28058,7 +28058,7 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-czthwsah.js",
+    "file": "assets/world-0Ie8ceuH.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
@@ -28073,7 +28073,7 @@
       "_voice-messages-BIce0OlC.js"
     ],
     "css": [
-      "assets/world-CKtGZPXL.css"
+      "assets/world-Bg86wbSU.css"
     ]
   },
   "src/ui/transition.ts": {
