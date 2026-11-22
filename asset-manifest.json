@@ -6,16 +6,16 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_dialogue-D_yitN1o.js": {
-    "file": "assets/dialogue-D_yitN1o.js",
+  "_dialogue-Di25afTr.js": {
+    "file": "assets/dialogue-Di25afTr.js",
     "name": "dialogue",
     "imports": [
-      "_dom-CecdRbRA.js",
+      "_dom-Brbbo9pe.js",
       "_economy-C2_1RR1j.js"
     ]
   },
-  "_dom-CecdRbRA.js": {
-    "file": "assets/dom-CecdRbRA.js",
+  "_dom-Brbbo9pe.js": {
+    "file": "assets/dom-Brbbo9pe.js",
     "name": "dom",
     "dynamicImports": [
       "ui-assets/hero-run-a.webp?url&no-inline",
@@ -23,11 +23,13 @@
     ],
     "assets": [
       "assets/fx-birds-JlgSp30Z.webp",
-      "assets/fx-clouds-CDSF_lJ6.webp",
+      "assets/fx-clouds-D-bfpPiI.webp",
       "assets/fx-leaves-Dga4Iiii.webp",
       "assets/fx-ripple-BG2ZT4wP.webp",
+      "assets/fx-snow-BWsCuMdY.webp",
       "assets/fx-sparkles-C485MUjf.webp",
       "assets/fx-steam-DuHOHI0H.webp",
+      "assets/fx-sun-rays-WNfI7M_4.webp",
       "assets/hero-lobby-BQ7MH0Ph.webp",
       "assets/hero-map-CZVeIBW9.webp",
       "assets/icon-back-BU_LHUxn.webp",
@@ -28386,13 +28388,13 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-xT6evd5D.js",
+    "file": "assets/game-p7r1g037.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_dom-CecdRbRA.js",
-      "_dialogue-D_yitN1o.js",
+      "_dom-Brbbo9pe.js",
+      "_dialogue-Di25afTr.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-BIce0OlC.js"
     ],
@@ -28449,7 +28451,7 @@
       "src/ui/screens/voice.ts"
     ],
     "css": [
-      "assets/game-vo3oINRm.css"
+      "assets/game-pGq8_41A.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -28512,7 +28514,7 @@
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
   "src/ui/screens/voice.ts": {
-    "file": "assets/voice-X_vCIbNi.js",
+    "file": "assets/voice-DwF2lcDm.js",
     "name": "voice",
     "src": "src/ui/screens/voice.ts",
     "isDynamicEntry": true,
@@ -28520,20 +28522,20 @@
       "_model-store-DkCAfyOm.js",
       "_capture-D3dxxvJU.js",
       "_engine-CiYn_sLR.js",
-      "_dom-CecdRbRA.js",
+      "_dom-Brbbo9pe.js",
       "_voice-messages-BIce0OlC.js"
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-Dh4rzHb0.js",
+    "file": "assets/world-DJ_zo-k9.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_dialogue-D_yitN1o.js",
+      "_dialogue-Di25afTr.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
-      "_dom-CecdRbRA.js",
+      "_dom-Brbbo9pe.js",
       "_economy-C2_1RR1j.js",
       "_capture-D3dxxvJU.js",
       "_match-CVdfjrYX.js",
@@ -28544,13 +28546,13 @@
     ]
   },
   "src/ui/transition.ts": {
-    "file": "assets/transition-D7aoWK40.js",
+    "file": "assets/transition-CNZRz-DO.js",
     "name": "transition",
     "src": "src/ui/transition.ts",
     "isDynamicEntry": true,
     "imports": [
       "_economy-C2_1RR1j.js",
-      "_dom-CecdRbRA.js"
+      "_dom-Brbbo9pe.js"
     ],
     "css": [
       "assets/transition-C2kz9iLi.css"
@@ -28603,7 +28605,7 @@
     "src": "ui-assets/fx-birds.webp"
   },
   "ui-assets/fx-clouds.webp": {
-    "file": "assets/fx-clouds-CDSF_lJ6.webp",
+    "file": "assets/fx-clouds-D-bfpPiI.webp",
     "src": "ui-assets/fx-clouds.webp"
   },
   "ui-assets/fx-leaves.webp": {
@@ -28614,6 +28616,10 @@
     "file": "assets/fx-ripple-BG2ZT4wP.webp",
     "src": "ui-assets/fx-ripple.webp"
   },
+  "ui-assets/fx-snow.webp": {
+    "file": "assets/fx-snow-BWsCuMdY.webp",
+    "src": "ui-assets/fx-snow.webp"
+  },
   "ui-assets/fx-sparkles.webp": {
     "file": "assets/fx-sparkles-C485MUjf.webp",
     "src": "ui-assets/fx-sparkles.webp"
@@ -28621,6 +28627,10 @@
   "ui-assets/fx-steam.webp": {
     "file": "assets/fx-steam-DuHOHI0H.webp",
     "src": "ui-assets/fx-steam.webp"
+  },
+  "ui-assets/fx-sun-rays.webp": {
+    "file": "assets/fx-sun-rays-WNfI7M_4.webp",
+    "src": "ui-assets/fx-sun-rays.webp"
   },
   "ui-assets/hero-lobby.webp": {
     "file": "assets/hero-lobby-BQ7MH0Ph.webp",
