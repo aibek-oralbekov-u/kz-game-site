@@ -102,15 +102,16 @@
       "_protocol-OMAyVYds.js"
     ]
   },
-  "_extra-B-mKTw_J.js": {
-    "file": "assets/extra-B-mKTw_J.js",
+  "_extra-BLbgGmBl.js": {
+    "file": "assets/extra-BLbgGmBl.js",
     "name": "extra",
     "imports": [
-      "_voiceover-CaJRH6Na.js",
       "_dom-Brbbo9pe.js",
+      "_voiceover-CaJRH6Na.js",
       "_voice-messages-x4qf9IWF.js"
     ],
     "dynamicImports": [
+      "src/ui/screens/extra/parents/view.ts",
       "src/ui/screens/extra/words/view.ts"
     ]
   },
@@ -160,6 +161,13 @@
     ],
     "assets": [
       "assets/vosk-INNAC7fz.js"
+    ]
+  },
+  "_words-list-kf6hX_Tz.js": {
+    "file": "assets/words-list-kf6hX_Tz.js",
+    "name": "words-list",
+    "imports": [
+      "_extra-BLbgGmBl.js"
     ]
   },
   "city/astana.json": {
@@ -31719,14 +31727,14 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-CCk8VmjJ.js",
+    "file": "assets/game-CooAiqKI.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_dom-Brbbo9pe.js",
       "_voiceover-CaJRH6Na.js",
-      "_extra-B-mKTw_J.js",
+      "_extra-BLbgGmBl.js",
       "_dialogue-D5wZ2Dwo.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-x4qf9IWF.js"
@@ -31847,16 +31855,32 @@
     "file": "assets/vosk-INNAC7fz.js",
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
+  "src/ui/screens/extra/parents/view.ts": {
+    "file": "assets/view-B-I7o8XN.js",
+    "name": "view",
+    "src": "src/ui/screens/extra/parents/view.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_voiceover-CaJRH6Na.js",
+      "_dom-Brbbo9pe.js",
+      "_words-list-kf6hX_Tz.js",
+      "_extra-BLbgGmBl.js"
+    ],
+    "css": [
+      "assets/view-CGCSwT47.css"
+    ]
+  },
   "src/ui/screens/extra/words/view.ts": {
-    "file": "assets/view-sZp_mzBv.js",
+    "file": "assets/view-CKOAYhav.js",
     "name": "view",
     "src": "src/ui/screens/extra/words/view.ts",
     "isDynamicEntry": true,
     "imports": [
       "_voiceover-CaJRH6Na.js",
       "_dom-Brbbo9pe.js",
-      "_extra-B-mKTw_J.js",
-      "_utterance-BXZ0hZ1H.js"
+      "_extra-BLbgGmBl.js",
+      "_utterance-BXZ0hZ1H.js",
+      "_words-list-kf6hX_Tz.js"
     ],
     "css": [
       "assets/view-CgscqwtG.css"
