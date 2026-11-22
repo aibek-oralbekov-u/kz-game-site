@@ -1,9 +1,9 @@
 {
-  "_ambience-CmYY12kN.js": {
-    "file": "assets/ambience-CmYY12kN.js",
+  "_ambience-DfN_AOPX.js": {
+    "file": "assets/ambience-DfN_AOPX.js",
     "name": "ambience",
     "imports": [
-      "_voiceover-BtX-fZNH.js"
+      "_voiceover-BkTTlCGF.js"
     ]
   },
   "_capture-D3dxxvJU.js": {
@@ -13,24 +13,24 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_dialogue-CJQ3MyHD.js": {
-    "file": "assets/dialogue-CJQ3MyHD.js",
+  "_dialogue-DiuQITUl.js": {
+    "file": "assets/dialogue-DiuQITUl.js",
     "name": "dialogue",
     "imports": [
       "_dom-Brbbo9pe.js",
       "_model-eh7rENuL.js",
-      "_voiceover-BtX-fZNH.js",
+      "_voiceover-BkTTlCGF.js",
       "_economy-C2_1RR1j.js",
       "_normalize-BPrxdVmg.js",
       "_match-C6S7lbw8.js"
     ]
   },
-  "_diary-CaXF02CY.js": {
-    "file": "assets/diary-CaXF02CY.js",
+  "_diary-C2HeR41t.js": {
+    "file": "assets/diary-C2HeR41t.js",
     "name": "diary",
     "imports": [
       "_economy-C2_1RR1j.js",
-      "_voiceover-BtX-fZNH.js"
+      "_voiceover-BkTTlCGF.js"
     ]
   },
   "_dom-Brbbo9pe.js": {
@@ -137,13 +137,13 @@
     "file": "assets/normalize-BPrxdVmg.js",
     "name": "normalize"
   },
-  "_phrase-controls-B66Uhpp6.js": {
-    "file": "assets/phrase-controls-B66Uhpp6.js",
+  "_phrase-controls-cnFrnQSO.js": {
+    "file": "assets/phrase-controls-cnFrnQSO.js",
     "name": "phrase-controls",
     "imports": [
       "_dom-Brbbo9pe.js",
-      "_voiceover-BtX-fZNH.js",
-      "_ambience-CmYY12kN.js",
+      "_voiceover-BkTTlCGF.js",
+      "_ambience-DfN_AOPX.js",
       "_match-C6S7lbw8.js",
       "_model-store-DkCAfyOm.js",
       "_capture-D3dxxvJU.js",
@@ -161,6 +161,10 @@
     "file": "assets/rolldown-runtime-DK3Fl9T5.js",
     "name": "rolldown-runtime"
   },
+  "_stickers-CgEU06aG.js": {
+    "file": "assets/stickers-CgEU06aG.js",
+    "name": "stickers"
+  },
   "_utterance-DaVkJbdD.js": {
     "file": "assets/utterance-DaVkJbdD.js",
     "name": "utterance",
@@ -169,15 +173,15 @@
       "_dom-Brbbo9pe.js"
     ]
   },
-  "_view-BdV6nHrU.js": {
-    "file": "assets/view-BdV6nHrU.js",
+  "_view-CJXPHPkE.js": {
+    "file": "assets/view-CJXPHPkE.js",
     "name": "view",
     "imports": [
-      "_voiceover-BtX-fZNH.js",
+      "_voiceover-BkTTlCGF.js",
       "_economy-C2_1RR1j.js",
-      "_diary-CaXF02CY.js",
+      "_diary-C2HeR41t.js",
       "_dom-Brbbo9pe.js",
-      "_words-list-CZyiJ8wp.js"
+      "_words-list-BpsD3Wvj.js"
     ],
     "css": [
       "assets/view-DsOJnRmm.css"
@@ -191,8 +195,8 @@
     "file": "assets/voice-messages-x4qf9IWF.js",
     "name": "voice-messages"
   },
-  "_voiceover-BtX-fZNH.js": {
-    "file": "assets/voiceover-BtX-fZNH.js",
+  "_voiceover-BkTTlCGF.js": {
+    "file": "assets/voiceover-BkTTlCGF.js",
     "name": "voiceover",
     "imports": [
       "_rolldown-runtime-DK3Fl9T5.js",
@@ -203,6 +207,7 @@
       "src/ui/screens/extra/diary/view.ts",
       "src/ui/screens/extra/parents/view.ts",
       "src/ui/screens/extra/review/view.ts",
+      "src/ui/screens/extra/stickers/view.ts",
       "src/ui/screens/extra/words/view.ts"
     ]
   },
@@ -216,11 +221,11 @@
       "assets/vosk-INNAC7fz.js"
     ]
   },
-  "_words-list-CZyiJ8wp.js": {
-    "file": "assets/words-list-CZyiJ8wp.js",
+  "_words-list-BpsD3Wvj.js": {
+    "file": "assets/words-list-BpsD3Wvj.js",
     "name": "words-list",
     "imports": [
-      "_voiceover-BtX-fZNH.js"
+      "_voiceover-BkTTlCGF.js"
     ]
   },
   "city/astana.json": {
@@ -31848,8 +31853,104 @@
       "assets/ff02b21495e6-DolVhHgM.mp3"
     ]
   },
+  "content/stickers/all-locations.webp": {
+    "file": "assets/all-locations-BEbr-uze.webp",
+    "src": "content/stickers/all-locations.webp"
+  },
+  "content/stickers/days-3.webp": {
+    "file": "assets/days-3-aVLdUbYe.webp",
+    "src": "content/stickers/days-3.webp"
+  },
+  "content/stickers/days-7.webp": {
+    "file": "assets/days-7-DXJF3Pab.webp",
+    "src": "content/stickers/days-7.webp"
+  },
+  "content/stickers/first-aeroport.webp": {
+    "file": "assets/first-aeroport-BWiatNYs.webp",
+    "src": "content/stickers/first-aeroport.webp"
+  },
+  "content/stickers/first-bayterek.webp": {
+    "file": "assets/first-bayterek-db3w4NV-.webp",
+    "src": "content/stickers/first-bayterek.webp"
+  },
+  "content/stickers/first-expo.webp": {
+    "file": "assets/first-expo-CudPu3Av.webp",
+    "src": "content/stickers/first-expo.webp"
+  },
+  "content/stickers/first-hokkei.webp": {
+    "file": "assets/first-hokkei-CUpiff09.webp",
+    "src": "content/stickers/first-hokkei.webp"
+  },
+  "content/stickers/first-okeanarium.webp": {
+    "file": "assets/first-okeanarium-DRA_ft9_.webp",
+    "src": "content/stickers/first-okeanarium.webp"
+  },
+  "content/stickers/first-purchase.webp": {
+    "file": "assets/first-purchase-BzzjpH73.webp",
+    "src": "content/stickers/first-purchase.webp"
+  },
+  "content/stickers/first-sirk.webp": {
+    "file": "assets/first-sirk-D-4kDe-Y.webp",
+    "src": "content/stickers/first-sirk.webp"
+  },
+  "content/stickers/journey-1.webp": {
+    "file": "assets/journey-1-8tgPA5kY.webp",
+    "src": "content/stickers/journey-1.webp"
+  },
+  "content/stickers/journeys-10.webp": {
+    "file": "assets/journeys-10-DJgJry6h.webp",
+    "src": "content/stickers/journeys-10.webp"
+  },
+  "content/stickers/journeys-30.webp": {
+    "file": "assets/journeys-30-CEnZeNqT.webp",
+    "src": "content/stickers/journeys-30.webp"
+  },
+  "content/stickers/level-3.webp": {
+    "file": "assets/level-3-BuplYWrA.webp",
+    "src": "content/stickers/level-3.webp"
+  },
+  "content/stickers/level-6.webp": {
+    "file": "assets/level-6-Du6UHaV6.webp",
+    "src": "content/stickers/level-6.webp"
+  },
+  "content/stickers/level-8.webp": {
+    "file": "assets/level-8-CgUWRshl.webp",
+    "src": "content/stickers/level-8.webp"
+  },
+  "content/stickers/minigames-5.webp": {
+    "file": "assets/minigames-5-bkoh3RGH.webp",
+    "src": "content/stickers/minigames-5.webp"
+  },
+  "content/stickers/purchases-10.webp": {
+    "file": "assets/purchases-10-DbiLEvWW.webp",
+    "src": "content/stickers/purchases-10.webp"
+  },
+  "content/stickers/purchases-50.webp": {
+    "file": "assets/purchases-50-DeTzNf2g.webp",
+    "src": "content/stickers/purchases-50.webp"
+  },
+  "content/stickers/stars-10.webp": {
+    "file": "assets/stars-10-BDYLmQ3f.webp",
+    "src": "content/stickers/stars-10.webp"
+  },
+  "content/stickers/stars-50.webp": {
+    "file": "assets/stars-50-bWewGy-H.webp",
+    "src": "content/stickers/stars-50.webp"
+  },
+  "content/stickers/words-10.webp": {
+    "file": "assets/words-10-BRq2fVr4.webp",
+    "src": "content/stickers/words-10.webp"
+  },
+  "content/stickers/words-150.webp": {
+    "file": "assets/words-150-CluQfwD6.webp",
+    "src": "content/stickers/words-150.webp"
+  },
+  "content/stickers/words-50.webp": {
+    "file": "assets/words-50-U1MJzhAh.webp",
+    "src": "content/stickers/words-50.webp"
+  },
   "index.html": {
-    "file": "assets/game-BdwsSKB9.js",
+    "file": "assets/game-CiK2VpJQ.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -31857,12 +31958,13 @@
       "_rolldown-runtime-DK3Fl9T5.js",
       "_dom-Brbbo9pe.js",
       "_model-eh7rENuL.js",
-      "_voiceover-BtX-fZNH.js",
-      "_dialogue-CJQ3MyHD.js",
+      "_voiceover-BkTTlCGF.js",
+      "_dialogue-DiuQITUl.js",
       "_economy-C2_1RR1j.js",
-      "_diary-CaXF02CY.js",
+      "_diary-C2HeR41t.js",
+      "_stickers-CgEU06aG.js",
       "_voice-messages-x4qf9IWF.js",
-      "_ambience-CmYY12kN.js"
+      "_ambience-DfN_AOPX.js"
     ],
     "dynamicImports": [
       "virtual:kz-content/pack/aeroport",
@@ -31918,7 +32020,7 @@
       "src/ui/screens/voice.ts"
     ],
     "css": [
-      "assets/game-pGq8_41A.css"
+      "assets/game-CEclXq1c.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -31981,23 +32083,23 @@
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
   "src/ui/screens/extra/diary/view.ts": {
-    "file": "assets/view-DInzwqJt.js",
+    "file": "assets/view-abkQuoal.js",
     "name": "view",
     "src": "src/ui/screens/extra/diary/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_view-BdV6nHrU.js"
+      "_view-CJXPHPkE.js"
     ]
   },
   "src/ui/screens/extra/parents/view.ts": {
-    "file": "assets/view-CP29wAlh.js",
+    "file": "assets/view-Di_-M7PW.js",
     "name": "view",
     "src": "src/ui/screens/extra/parents/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_voiceover-BtX-fZNH.js",
+      "_voiceover-BkTTlCGF.js",
       "_dom-Brbbo9pe.js",
-      "_words-list-CZyiJ8wp.js",
+      "_words-list-BpsD3Wvj.js",
       "_model-eh7rENuL.js"
     ],
     "css": [
@@ -32005,13 +32107,13 @@
     ]
   },
   "src/ui/screens/extra/review/view.ts": {
-    "file": "assets/view-C3gybnjJ.js",
+    "file": "assets/view-CQ0VF04t.js",
     "name": "view",
     "src": "src/ui/screens/extra/review/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_voiceover-BtX-fZNH.js",
-      "_phrase-controls-B66Uhpp6.js",
+      "_voiceover-BkTTlCGF.js",
+      "_phrase-controls-cnFrnQSO.js",
       "_model-eh7rENuL.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
@@ -32030,17 +32132,56 @@
       "assets/view-BOc0hioK.css"
     ]
   },
+  "src/ui/screens/extra/stickers/view.ts": {
+    "file": "assets/view-D6A68wRp.js",
+    "name": "view",
+    "src": "src/ui/screens/extra/stickers/view.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_stickers-CgEU06aG.js",
+      "_dom-Brbbo9pe.js"
+    ],
+    "css": [
+      "assets/view-C6dRgFc_.css"
+    ],
+    "assets": [
+      "assets/all-locations-BEbr-uze.webp",
+      "assets/days-3-aVLdUbYe.webp",
+      "assets/days-7-DXJF3Pab.webp",
+      "assets/first-aeroport-BWiatNYs.webp",
+      "assets/first-bayterek-db3w4NV-.webp",
+      "assets/first-expo-CudPu3Av.webp",
+      "assets/first-hokkei-CUpiff09.webp",
+      "assets/first-okeanarium-DRA_ft9_.webp",
+      "assets/first-purchase-BzzjpH73.webp",
+      "assets/first-sirk-D-4kDe-Y.webp",
+      "assets/journey-1-8tgPA5kY.webp",
+      "assets/journeys-10-DJgJry6h.webp",
+      "assets/journeys-30-CEnZeNqT.webp",
+      "assets/level-3-BuplYWrA.webp",
+      "assets/level-6-Du6UHaV6.webp",
+      "assets/level-8-CgUWRshl.webp",
+      "assets/minigames-5-bkoh3RGH.webp",
+      "assets/purchases-10-DbiLEvWW.webp",
+      "assets/purchases-50-DeTzNf2g.webp",
+      "assets/stars-10-BDYLmQ3f.webp",
+      "assets/stars-50-bWewGy-H.webp",
+      "assets/words-10-BRq2fVr4.webp",
+      "assets/words-150-CluQfwD6.webp",
+      "assets/words-50-U1MJzhAh.webp"
+    ]
+  },
   "src/ui/screens/extra/words/view.ts": {
-    "file": "assets/view-DV-SYifg.js",
+    "file": "assets/view-BHMRtImE.js",
     "name": "view",
     "src": "src/ui/screens/extra/words/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_voiceover-BtX-fZNH.js",
+      "_voiceover-BkTTlCGF.js",
       "_model-eh7rENuL.js",
       "_dom-Brbbo9pe.js",
       "_utterance-DaVkJbdD.js",
-      "_words-list-CZyiJ8wp.js"
+      "_words-list-BpsD3Wvj.js"
     ],
     "css": [
       "assets/view-CgscqwtG.css"
@@ -32060,23 +32201,23 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-Bklg9DnE.js",
+    "file": "assets/world-CdlQLcYv.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
       "_model-eh7rENuL.js",
-      "_dialogue-CJQ3MyHD.js",
-      "_voiceover-BtX-fZNH.js",
-      "_phrase-controls-B66Uhpp6.js",
+      "_dialogue-DiuQITUl.js",
+      "_voiceover-BkTTlCGF.js",
+      "_phrase-controls-cnFrnQSO.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-Brbbo9pe.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-x4qf9IWF.js",
       "_utterance-DaVkJbdD.js",
-      "_words-list-CZyiJ8wp.js",
-      "_view-BdV6nHrU.js"
+      "_words-list-BpsD3Wvj.js",
+      "_view-CJXPHPkE.js"
     ],
     "css": [
       "assets/world-CPPGNQJb.css"
