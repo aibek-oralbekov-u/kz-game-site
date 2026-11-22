@@ -1,0 +1,1 @@
+var e=[];function t(t){e.push({at:Date.now(),error:t}),e.length>20&&e.splice(0,e.length-20)}export{t};
