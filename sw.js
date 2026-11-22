@@ -1,5 +1,5 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}d328f56ead2b`;
+const CACHE = `${PREFIX}4861b679f503`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';
@@ -10,6 +10,9 @@ const sameOrigin = value => new URL(value, self.location.origin).origin === self
 const PRECACHE_MANIFEST = '/precache-manifest.json';
 const FULL_MANIFEST = '/asset-manifest.json';
 const MEDIA = /\.(?:mp3|webp)$/i;
+// KZ-40e: background loops (public/ambience, names without a build hash) — runtime cache on first play; not listed in any
+// manifest, so the activation of the next build prunes them with the other unlisted media and they are fetched again.
+const ambience = path => path.startsWith('/ambience/') && /\.mp3$/i.test(path);
 const PRECACHE = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg', PRECACHE_MANIFEST, '/voice-engine/'];
 const localRequest = path => new Request(path, { cache: 'reload', credentials: 'omit', mode: 'same-origin', redirect: 'error' });
 const accepted = response => response.status === 200 && (response.type === 'basic' || response.type === 'default');
@@ -177,7 +180,7 @@ self.addEventListener('fetch', event => {
   const url = new URL(request.url);
   const navigation = request.mode === 'navigate';
   if (navigation && (url.pathname === '/voice-test' || url.pathname.startsWith('/voice-test/') || url.pathname === '/voice-test.html')) return;
-  if (!navigation && !PRECACHE.includes(url.pathname) && !url.pathname.startsWith('/assets/')) return;
+  if (!navigation && !PRECACHE.includes(url.pathname) && !url.pathname.startsWith('/assets/') && !ambience(url.pathname)) return;
   if (!navigation && (request.credentials === 'include' || request.headers.has('Authorization'))) return;
   event.respondWith((async () => {
     const shell = await caches.open(CACHE);
@@ -190,7 +193,7 @@ self.addEventListener('fetch', event => {
       // Static assets are downloaded without credentials and cached only after inspection.
       const response = await fetch(new Request(request, { credentials: 'omit', mode: 'same-origin', redirect: 'error' }));
       if (response.status === 200 && (response.type === 'basic' || response.type === 'default')) {
-        const cache = url.pathname.startsWith('/assets/') ? runtime : shell;
+        const cache = url.pathname.startsWith('/assets/') || ambience(url.pathname) ? runtime : shell;
         try { await cache.put(cacheKey(url), response.clone()); } catch { /* Return the network response even if caching fails. */ }
       }
       return response;

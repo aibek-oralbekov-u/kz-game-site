@@ -6,16 +6,12 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_clock--TUrUgZP.js": {
-    "file": "assets/clock--TUrUgZP.js",
-    "name": "clock"
-  },
-  "_dialogue-tLfU0gsR.js": {
-    "file": "assets/dialogue-tLfU0gsR.js",
+  "_dialogue-D5wZ2Dwo.js": {
+    "file": "assets/dialogue-D5wZ2Dwo.js",
     "name": "dialogue",
     "imports": [
       "_dom-Brbbo9pe.js",
-      "_clock--TUrUgZP.js",
+      "_voiceover-CaJRH6Na.js",
       "_economy-C2_1RR1j.js",
       "_normalize-BPrxdVmg.js",
       "_match-C6S7lbw8.js"
@@ -106,11 +102,11 @@
       "_protocol-OMAyVYds.js"
     ]
   },
-  "_extra-Swf6CvbS.js": {
-    "file": "assets/extra-Swf6CvbS.js",
+  "_extra-B-mKTw_J.js": {
+    "file": "assets/extra-B-mKTw_J.js",
     "name": "extra",
     "imports": [
-      "_clock--TUrUgZP.js",
+      "_voiceover-CaJRH6Na.js",
       "_dom-Brbbo9pe.js",
       "_voice-messages-x4qf9IWF.js"
     ],
@@ -140,17 +136,21 @@
       "_model-store-DkCAfyOm.js"
     ]
   },
-  "_utterance-BJEuVbuK.js": {
-    "file": "assets/utterance-BJEuVbuK.js",
+  "_utterance-BXZ0hZ1H.js": {
+    "file": "assets/utterance-BXZ0hZ1H.js",
     "name": "utterance",
     "imports": [
-      "_dom-Brbbo9pe.js",
-      "_clock--TUrUgZP.js"
+      "_voiceover-CaJRH6Na.js",
+      "_dom-Brbbo9pe.js"
     ]
   },
   "_voice-messages-x4qf9IWF.js": {
     "file": "assets/voice-messages-x4qf9IWF.js",
     "name": "voice-messages"
+  },
+  "_voiceover-CaJRH6Na.js": {
+    "file": "assets/voiceover-CaJRH6Na.js",
+    "name": "voiceover"
   },
   "_vosk-Nvf6T93s.js": {
     "file": "assets/vosk-Nvf6T93s.js",
@@ -31719,15 +31719,15 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-Dz5-iXw8.js",
+    "file": "assets/game-CCk8VmjJ.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_dom-Brbbo9pe.js",
-      "_clock--TUrUgZP.js",
-      "_extra-Swf6CvbS.js",
-      "_dialogue-tLfU0gsR.js",
+      "_voiceover-CaJRH6Na.js",
+      "_extra-B-mKTw_J.js",
+      "_dialogue-D5wZ2Dwo.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-x4qf9IWF.js"
     ],
@@ -31848,15 +31848,15 @@
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
   "src/ui/screens/extra/words/view.ts": {
-    "file": "assets/view-DQ2f3zuh.js",
+    "file": "assets/view-sZp_mzBv.js",
     "name": "view",
     "src": "src/ui/screens/extra/words/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_utterance-BJEuVbuK.js",
-      "_clock--TUrUgZP.js",
+      "_voiceover-CaJRH6Na.js",
       "_dom-Brbbo9pe.js",
-      "_extra-Swf6CvbS.js"
+      "_extra-B-mKTw_J.js",
+      "_utterance-BXZ0hZ1H.js"
     ],
     "css": [
       "assets/view-CgscqwtG.css"
@@ -31876,21 +31876,21 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-DU2gVwbx.js",
+    "file": "assets/world-849-kOND.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_clock--TUrUgZP.js",
-      "_dialogue-tLfU0gsR.js",
-      "_utterance-BJEuVbuK.js",
+      "_voiceover-CaJRH6Na.js",
+      "_dialogue-D5wZ2Dwo.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-Brbbo9pe.js",
       "_economy-C2_1RR1j.js",
       "_capture-D3dxxvJU.js",
       "_match-C6S7lbw8.js",
-      "_voice-messages-x4qf9IWF.js"
+      "_voice-messages-x4qf9IWF.js",
+      "_utterance-BXZ0hZ1H.js"
     ],
     "css": [
       "assets/world-CPPGNQJb.css"
@@ -34500,7 +34500,7 @@
     ]
   },
   "virtual:kz-content/sources": {
-    "file": "assets/sources-DVQqhIcP.js",
+    "file": "assets/sources-BExzwZV7.js",
     "name": "sources",
     "src": "virtual:kz-content/sources",
     "isDynamicEntry": true
