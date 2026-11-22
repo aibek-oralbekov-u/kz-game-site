@@ -1,0 +1,1 @@
+var e=e=>({ok:!1,reason:`unavailable`,state:e}),t=(t,n,r)=>e(n),n=(t,n,r)=>e(n),r=(t,n,r)=>e(n);export{t as buy,r as clear,n as equip};

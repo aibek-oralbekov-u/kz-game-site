@@ -1,9 +1,9 @@
 {
-  "_ambience-ctpngqQq.js": {
-    "file": "assets/ambience-ctpngqQq.js",
+  "_ambience-CMQ23sTb.js": {
+    "file": "assets/ambience-CMQ23sTb.js",
     "name": "ambience",
     "imports": [
-      "_util-DXP4mx97.js",
+      "_clock-BHj0ztjj.js",
       "_prefs-kp-79C7l.js",
       "_voiceover-CujG1-KX.js"
     ]
@@ -15,29 +15,33 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_dialogue-C3Zsjbzn.js": {
-    "file": "assets/dialogue-C3Zsjbzn.js",
+  "_clock-BHj0ztjj.js": {
+    "file": "assets/clock-BHj0ztjj.js",
+    "name": "clock"
+  },
+  "_dialogue-Ezmivmon.js": {
+    "file": "assets/dialogue-Ezmivmon.js",
     "name": "dialogue",
     "imports": [
-      "_dom-Brbbo9pe.js",
-      "_model-eh7rENuL.js",
+      "_dom-BoIfGjht.js",
       "_report-C6Zk0zen.js",
       "_economy-C2_1RR1j.js",
-      "_util-DXP4mx97.js",
+      "_clock-BHj0ztjj.js",
+      "_progression-C0D_wDVC.js",
       "_normalize-BPrxdVmg.js",
       "_match-C6S7lbw8.js"
     ]
   },
-  "_diary-BmeLc6fA.js": {
-    "file": "assets/diary-BmeLc6fA.js",
+  "_diary-B26xVcFt.js": {
+    "file": "assets/diary-B26xVcFt.js",
     "name": "diary",
     "imports": [
       "_economy-C2_1RR1j.js",
-      "_util-DXP4mx97.js"
+      "_util-DYpmEJER.js"
     ]
   },
-  "_dom-Brbbo9pe.js": {
-    "file": "assets/dom-Brbbo9pe.js",
+  "_dom-BoIfGjht.js": {
+    "file": "assets/dom-BoIfGjht.js",
     "name": "dom",
     "dynamicImports": [
       "ui-assets/hero-run-a.webp?url&no-inline",
@@ -76,8 +80,10 @@
       "assets/icon-sources-DIrRgvBM.webp",
       "assets/icon-xp-B8o7Ofhz.webp",
       "assets/back-BFhc6wT-.webp",
+      "assets/birge-50Ou34qR.webp",
       "assets/diary-DzgEK3Je.webp",
       "assets/family-EA7Y6UMb.webp",
+      "assets/flame-DnNnU4rG.webp",
       "assets/hall-DXRCjSCU.webp",
       "assets/home-CUrHW7pE.webp",
       "assets/howto-Det76qet.webp",
@@ -87,6 +93,7 @@
       "assets/lock-BlZBZ_v0.webp",
       "assets/map-V0MpeJuA.webp",
       "assets/parents-kdvgx5Ht.webp",
+      "assets/path-BwqYpytj.webp",
       "assets/play-DIJeMMLT.webp",
       "assets/profile-DZnp2YWI.webp",
       "assets/q-city-Bd34A2Bz.webp",
@@ -101,6 +108,7 @@
       "assets/quests-Zf9nWr1n.webp",
       "assets/review-BJtby0E7.webp",
       "assets/rewards-BDRGLxje.webp",
+      "assets/room-PSI80hLt.webp",
       "assets/stickers-DpWCVLFN.webp",
       "assets/trailer-CUX-oIYx.webp",
       "assets/voice-CuxnXI5b.webp",
@@ -121,13 +129,14 @@
       "_protocol-OMAyVYds.js"
     ]
   },
-  "_extra-C1-o1ggi.js": {
-    "file": "assets/extra-C1-o1ggi.js",
+  "_extra-Bh_Jk3Ls.js": {
+    "file": "assets/extra-Bh_Jk3Ls.js",
     "name": "extra",
     "imports": [
-      "_dom-Brbbo9pe.js",
+      "_dom-BoIfGjht.js",
       "_profile-DtpXJfsm.js",
-      "_util-DXP4mx97.js",
+      "_clock-BHj0ztjj.js",
+      "_util-DYpmEJER.js",
       "_report-C6Zk0zen.js",
       "_voice-messages-x4qf9IWF.js"
     ],
@@ -138,6 +147,14 @@
       "src/ui/screens/extra/review/view.ts",
       "src/ui/screens/extra/stickers/view.ts",
       "src/ui/screens/extra/words/view.ts"
+    ]
+  },
+  "_hero-BQYiIaBZ.js": {
+    "file": "assets/hero-BQYiIaBZ.js",
+    "name": "hero",
+    "imports": [
+      "_progression-C0D_wDVC.js",
+      "_dom-BoIfGjht.js"
     ]
   },
   "_match-C6S7lbw8.js": {
@@ -151,14 +168,14 @@
     "file": "assets/minigames-1Ym_Oal4.css",
     "src": "_minigames-1Ym_Oal4.css"
   },
-  "_minigames-DdHoCgCl.js": {
-    "file": "assets/minigames-DdHoCgCl.js",
+  "_minigames-BfBsaPmo.js": {
+    "file": "assets/minigames-BfBsaPmo.js",
     "name": "minigames",
     "imports": [
       "_model-eh7rENuL.js",
-      "_util-DXP4mx97.js",
-      "_diary-BmeLc6fA.js",
-      "_dom-Brbbo9pe.js"
+      "_clock-BHj0ztjj.js",
+      "_diary-B26xVcFt.js",
+      "_dom-BoIfGjht.js"
     ],
     "dynamicImports": [
       "src/ui/minigames/assemble.ts",
@@ -181,13 +198,13 @@
     "file": "assets/normalize-BPrxdVmg.js",
     "name": "normalize"
   },
-  "_phrase-controls-iBeaaHwg.js": {
-    "file": "assets/phrase-controls-iBeaaHwg.js",
+  "_phrase-controls-5PDslxUI.js": {
+    "file": "assets/phrase-controls-5PDslxUI.js",
     "name": "phrase-controls",
     "imports": [
-      "_dom-Brbbo9pe.js",
+      "_dom-BoIfGjht.js",
       "_prefs-kp-79C7l.js",
-      "_ambience-ctpngqQq.js",
+      "_ambience-CMQ23sTb.js",
       "_voiceover-CujG1-KX.js",
       "_match-C6S7lbw8.js",
       "_model-store-DkCAfyOm.js",
@@ -202,6 +219,15 @@
   "_profile-DtpXJfsm.js": {
     "file": "assets/profile-DtpXJfsm.js",
     "name": "profile"
+  },
+  "_progression-C0D_wDVC.js": {
+    "file": "assets/progression-C0D_wDVC.js",
+    "name": "progression",
+    "imports": [
+      "_model-eh7rENuL.js",
+      "_economy-C2_1RR1j.js",
+      "_clock-BHj0ztjj.js"
+    ]
   },
   "_protocol-OMAyVYds.js": {
     "file": "assets/protocol-OMAyVYds.js",
@@ -218,30 +244,30 @@
     "file": "assets/stickers-CgEU06aG.js",
     "name": "stickers"
   },
-  "_util-DXP4mx97.js": {
-    "file": "assets/util-DXP4mx97.js",
+  "_util-DYpmEJER.js": {
+    "file": "assets/util-DYpmEJER.js",
     "name": "util"
   },
-  "_utterance-DaVkJbdD.js": {
-    "file": "assets/utterance-DaVkJbdD.js",
+  "_utterance-x4lzCKha.js": {
+    "file": "assets/utterance-x4lzCKha.js",
     "name": "utterance",
     "imports": [
       "_model-eh7rENuL.js",
-      "_dom-Brbbo9pe.js"
+      "_dom-BoIfGjht.js"
     ]
   },
-  "_view-CmqZJNZe.js": {
-    "file": "assets/view-CmqZJNZe.js",
+  "_view-DB0WOnqq.js": {
+    "file": "assets/view-DB0WOnqq.js",
     "name": "view",
     "imports": [
       "_voiceover-CujG1-KX.js",
-      "_util-DXP4mx97.js",
+      "_clock-BHj0ztjj.js",
       "_economy-C2_1RR1j.js",
       "_prefs-kp-79C7l.js",
-      "_diary-BmeLc6fA.js",
-      "_dom-Brbbo9pe.js",
-      "_extra-C1-o1ggi.js",
-      "_words-list-CE4NIqx8.js"
+      "_diary-B26xVcFt.js",
+      "_dom-BoIfGjht.js",
+      "_extra-Bh_Jk3Ls.js",
+      "_words-list-BBcGQUsT.js"
     ],
     "css": [
       "assets/view-DsOJnRmm.css"
@@ -269,11 +295,11 @@
       "assets/vosk-INNAC7fz.js"
     ]
   },
-  "_words-list-CE4NIqx8.js": {
-    "file": "assets/words-list-CE4NIqx8.js",
+  "_words-list-BBcGQUsT.js": {
+    "file": "assets/words-list-BBcGQUsT.js",
     "name": "words-list",
     "imports": [
-      "_extra-C1-o1ggi.js"
+      "_extra-Bh_Jk3Ls.js"
     ]
   },
   "city/astana.json": {
@@ -6872,10 +6898,6 @@
     "file": "assets/6cde2ceb1fe7-D182D7wf.mp3",
     "src": "content/locations/bank/voice/6cde2ceb1fe7.mp3"
   },
-  "content/locations/bank/voice/70f7ecc00792.mp3": {
-    "file": "assets/70f7ecc00792-BaKf2U8k.mp3",
-    "src": "content/locations/bank/voice/70f7ecc00792.mp3"
-  },
   "content/locations/bank/voice/74b16099eb0b.mp3": {
     "file": "assets/74b16099eb0b-COAq64-5.mp3",
     "src": "content/locations/bank/voice/74b16099eb0b.mp3"
@@ -7075,6 +7097,10 @@
   "content/locations/bank/voice/d5fcf6367ebf.mp3": {
     "file": "assets/d5fcf6367ebf-SQkY0ZaT.mp3",
     "src": "content/locations/bank/voice/d5fcf6367ebf.mp3"
+  },
+  "content/locations/bank/voice/de475131e408.mp3": {
+    "file": "assets/de475131e408-CKTwsZUA.mp3",
+    "src": "content/locations/bank/voice/de475131e408.mp3"
   },
   "content/locations/bank/voice/de642ff45888.mp3": {
     "file": "assets/de642ff45888-D4a1NcIG.mp3",
@@ -8472,6 +8498,10 @@
     "file": "assets/151cb85a80bf-Ct2U73le.mp3",
     "src": "content/locations/bayterek/voice/151cb85a80bf.mp3"
   },
+  "content/locations/bayterek/voice/16a86a4ed21e.mp3": {
+    "file": "assets/16a86a4ed21e-h__txfK4.mp3",
+    "src": "content/locations/bayterek/voice/16a86a4ed21e.mp3"
+  },
   "content/locations/bayterek/voice/16edba7b34ba.mp3": {
     "file": "assets/16edba7b34ba-CXrouWWr.mp3",
     "src": "content/locations/bayterek/voice/16edba7b34ba.mp3"
@@ -8620,6 +8650,10 @@
     "file": "assets/6c134baa2200-yVNQ1t5d.mp3",
     "src": "content/locations/bayterek/voice/6c134baa2200.mp3"
   },
+  "content/locations/bayterek/voice/70ff2abeaec4.mp3": {
+    "file": "assets/70ff2abeaec4-B2kyqEWD.mp3",
+    "src": "content/locations/bayterek/voice/70ff2abeaec4.mp3"
+  },
   "content/locations/bayterek/voice/76ab897f09c5.mp3": {
     "file": "assets/76ab897f09c5-Chm_XMRl.mp3",
     "src": "content/locations/bayterek/voice/76ab897f09c5.mp3"
@@ -8756,9 +8790,9 @@
     "file": "assets/b9bc90f00fc0-q-RBnzYC.mp3",
     "src": "content/locations/bassein/voice/b9bc90f00fc0.mp3"
   },
-  "content/locations/bayterek/voice/baeedd421d54.mp3": {
-    "file": "assets/baeedd421d54-C3ShO-iF.mp3",
-    "src": "content/locations/bayterek/voice/baeedd421d54.mp3"
+  "content/locations/bayterek/voice/bb84544c211d.mp3": {
+    "file": "assets/bb84544c211d-Drxtc3vn.mp3",
+    "src": "content/locations/bayterek/voice/bb84544c211d.mp3"
   },
   "content/locations/bayterek/voice/bd6fb8880ae7.mp3": {
     "file": "assets/bd6fb8880ae7-D3_ywaW0.mp3",
@@ -8771,10 +8805,6 @@
   "content/locations/bayterek/voice/be4c2875a631.mp3": {
     "file": "assets/be4c2875a631-ChTPAhSj.mp3",
     "src": "content/locations/bayterek/voice/be4c2875a631.mp3"
-  },
-  "content/locations/bayterek/voice/bf16d0fff5dc.mp3": {
-    "file": "assets/bf16d0fff5dc-CFmR65Pg.mp3",
-    "src": "content/locations/bayterek/voice/bf16d0fff5dc.mp3"
   },
   "content/locations/bayterek/voice/c45fb8bb0813.mp3": {
     "file": "assets/c45fb8bb0813-CLgW_Qsm.mp3",
@@ -8803,10 +8833,6 @@
   "content/locations/bayterek/voice/d3b5d0a3bcb3.mp3": {
     "file": "assets/d3b5d0a3bcb3-fPHFPBIR.mp3",
     "src": "content/locations/bayterek/voice/d3b5d0a3bcb3.mp3"
-  },
-  "content/locations/bayterek/voice/d4a0c8445f45.mp3": {
-    "file": "assets/d4a0c8445f45-BuHT9RC7.mp3",
-    "src": "content/locations/bayterek/voice/d4a0c8445f45.mp3"
   },
   "content/locations/bayterek/voice/d98fe3d714fa.mp3": {
     "file": "assets/d98fe3d714fa-tuFSQcRn.mp3",
@@ -8864,13 +8890,13 @@
     "file": "assets/f006d89661f6-CavSafE1.mp3",
     "src": "content/locations/bayterek/voice/f006d89661f6.mp3"
   },
+  "content/locations/bayterek/voice/f01954e988aa.mp3": {
+    "file": "assets/f01954e988aa-Dw-8H1Ig.mp3",
+    "src": "content/locations/bayterek/voice/f01954e988aa.mp3"
+  },
   "content/locations/bayterek/voice/f12c8825f600.mp3": {
     "file": "assets/f12c8825f600-BsjvTRfK.mp3",
     "src": "content/locations/bayterek/voice/f12c8825f600.mp3"
-  },
-  "content/locations/bayterek/voice/f389910d0419.mp3": {
-    "file": "assets/f389910d0419-BN9m1Cn0.mp3",
-    "src": "content/locations/bayterek/voice/f389910d0419.mp3"
   },
   "content/locations/bayterek/voice/f459686b68c8.mp3": {
     "file": "assets/f459686b68c8-CjdLBZvl.mp3",
@@ -13072,10 +13098,6 @@
     "file": "assets/b0f0e31123bc-DjImzUMy.mp3",
     "src": "content/locations/futbol-match/voice/b0f0e31123bc.mp3"
   },
-  "content/locations/futbol-match/voice/b24fbaf28aa1.mp3": {
-    "file": "assets/b24fbaf28aa1-Cd3vy-uE.mp3",
-    "src": "content/locations/futbol-match/voice/b24fbaf28aa1.mp3"
-  },
   "content/locations/futbol-match/voice/b3bac9196bc7.mp3": {
     "file": "assets/b3bac9196bc7-BtR0IkzC.mp3",
     "src": "content/locations/futbol-match/voice/b3bac9196bc7.mp3"
@@ -13111,6 +13133,10 @@
   "content/locations/futbol-match/voice/bfe8a826364d.mp3": {
     "file": "assets/bfe8a826364d-DFm_wUyl.mp3",
     "src": "content/locations/expo/voice/bfe8a826364d.mp3"
+  },
+  "content/locations/futbol-match/voice/c080e2b11f7b.mp3": {
+    "file": "assets/c080e2b11f7b-DuMXJ-YF.mp3",
+    "src": "content/locations/futbol-match/voice/c080e2b11f7b.mp3"
   },
   "content/locations/futbol-match/voice/c11028813ce0.mp3": {
     "file": "assets/c11028813ce0-DF9F23Bn.mp3",
@@ -15048,10 +15074,6 @@
     "file": "assets/3a90a3765a16-B0VTlWyQ.mp3",
     "src": "content/locations/kafe/voice/3a90a3765a16.mp3"
   },
-  "content/locations/kafe/voice/3b1a192c6581.mp3": {
-    "file": "assets/3b1a192c6581-DM2OKAsX.mp3",
-    "src": "content/locations/kafe/voice/3b1a192c6581.mp3"
-  },
   "content/locations/kafe/voice/3bd099995b24.mp3": {
     "file": "assets/3bd099995b24-CBA435cm.mp3",
     "src": "content/locations/kafe/voice/3bd099995b24.mp3"
@@ -15255,6 +15277,10 @@
   "content/locations/kafe/voice/d06eaa41e24c.mp3": {
     "file": "assets/d06eaa41e24c-D0phaQ_n.mp3",
     "src": "content/locations/kafe/voice/d06eaa41e24c.mp3"
+  },
+  "content/locations/kafe/voice/d14aaf4ed8fb.mp3": {
+    "file": "assets/d14aaf4ed8fb-GDcC-XYJ.mp3",
+    "src": "content/locations/kafe/voice/d14aaf4ed8fb.mp3"
   },
   "content/locations/kafe/voice/d194163880cd.mp3": {
     "file": "assets/d194163880cd-B8JlWxUI.mp3",
@@ -17956,10 +17982,6 @@
     "file": "assets/190b8e8f6310-DtTbQuUu.mp3",
     "src": "content/locations/kvartira/voice/190b8e8f6310.mp3"
   },
-  "content/locations/kvartira/voice/1922c1e56550.mp3": {
-    "file": "assets/1922c1e56550-BvjE-T-n.mp3",
-    "src": "content/locations/kvartira/voice/1922c1e56550.mp3"
-  },
   "content/locations/kvartira/voice/1986b03a95f7.mp3": {
     "file": "assets/1986b03a95f7-DKLcnrRo.mp3",
     "src": "content/locations/kvartira/voice/1986b03a95f7.mp3"
@@ -17995,10 +18017,6 @@
   "content/locations/kvartira/voice/1c8654177aaf.mp3": {
     "file": "assets/1c8654177aaf-Cad5VUzn.mp3",
     "src": "content/locations/kvartira/voice/1c8654177aaf.mp3"
-  },
-  "content/locations/kvartira/voice/1cb9e0fbd5a4.mp3": {
-    "file": "assets/1cb9e0fbd5a4-RSv1E-kH.mp3",
-    "src": "content/locations/kvartira/voice/1cb9e0fbd5a4.mp3"
   },
   "content/locations/kvartira/voice/1cfeb01a6f53.mp3": {
     "file": "assets/1cfeb01a6f53-7U787ZK9.mp3",
@@ -18260,10 +18278,6 @@
     "file": "assets/3acf82d24d0f-CAbrRkO1.mp3",
     "src": "content/locations/kvartira/voice/3acf82d24d0f.mp3"
   },
-  "content/locations/kvartira/voice/3b1a192c6581.mp3": {
-    "file": "assets/3b1a192c6581-DM2OKAsX.mp3",
-    "src": "content/locations/kafe/voice/3b1a192c6581.mp3"
-  },
   "content/locations/kvartira/voice/3be5b7e03140.mp3": {
     "file": "assets/3be5b7e03140-COFvtqlx.mp3",
     "src": "content/locations/kvartira/voice/3be5b7e03140.mp3"
@@ -18424,6 +18438,10 @@
     "file": "assets/4aa154da711f-C9K5RshL.mp3",
     "src": "content/locations/kvartira/voice/4aa154da711f.mp3"
   },
+  "content/locations/kvartira/voice/4abf4993cb03.mp3": {
+    "file": "assets/4abf4993cb03-B0k7sECN.mp3",
+    "src": "content/locations/kvartira/voice/4abf4993cb03.mp3"
+  },
   "content/locations/kvartira/voice/4ac579eb188a.mp3": {
     "file": "assets/4ac579eb188a-B_0hWsS6.mp3",
     "src": "content/locations/kino/voice/4ac579eb188a.mp3"
@@ -18540,6 +18558,10 @@
     "file": "assets/54dfcea6e799-D2tsaCRg.mp3",
     "src": "content/locations/kvartira/voice/54dfcea6e799.mp3"
   },
+  "content/locations/kvartira/voice/557fca6715d2.mp3": {
+    "file": "assets/557fca6715d2-DSn5M5P0.mp3",
+    "src": "content/locations/kvartira/voice/557fca6715d2.mp3"
+  },
   "content/locations/kvartira/voice/558e9ae452eb.mp3": {
     "file": "assets/558e9ae452eb-8uygdxW9.mp3",
     "src": "content/locations/kvartira/voice/558e9ae452eb.mp3"
@@ -18551,10 +18573,6 @@
   "content/locations/kvartira/voice/577fda4e2385.mp3": {
     "file": "assets/577fda4e2385-cR1JN-y8.mp3",
     "src": "content/locations/kvartira/voice/577fda4e2385.mp3"
-  },
-  "content/locations/kvartira/voice/57d9efeb7e98.mp3": {
-    "file": "assets/57d9efeb7e98-CcWWs8PH.mp3",
-    "src": "content/locations/kvartira/voice/57d9efeb7e98.mp3"
   },
   "content/locations/kvartira/voice/583a9216175a.mp3": {
     "file": "assets/583a9216175a-UQTGkWP6.mp3",
@@ -18856,6 +18874,10 @@
     "file": "assets/78c1e570f546-B0JTEu_F.mp3",
     "src": "content/locations/kvartira/voice/78c1e570f546.mp3"
   },
+  "content/locations/kvartira/voice/79719d39997d.mp3": {
+    "file": "assets/79719d39997d-DmRdrTuX.mp3",
+    "src": "content/locations/kvartira/voice/79719d39997d.mp3"
+  },
   "content/locations/kvartira/voice/79e9f8ce95d9.mp3": {
     "file": "assets/79e9f8ce95d9-CsYt0uwN.mp3",
     "src": "content/locations/kvartira/voice/79e9f8ce95d9.mp3"
@@ -19035,10 +19057,6 @@
   "content/locations/kvartira/voice/93b92fc4d38b.mp3": {
     "file": "assets/93b92fc4d38b-7ZRE0DSG.mp3",
     "src": "content/locations/kvartira/voice/93b92fc4d38b.mp3"
-  },
-  "content/locations/kvartira/voice/943f72186aec.mp3": {
-    "file": "assets/943f72186aec-paCGGIhQ.mp3",
-    "src": "content/locations/kvartira/voice/943f72186aec.mp3"
   },
   "content/locations/kvartira/voice/94af61b7f9f9.mp3": {
     "file": "assets/94af61b7f9f9-C9iKH6e3.mp3",
@@ -19292,6 +19310,10 @@
     "file": "assets/b258320f3505-CzK2D87c.mp3",
     "src": "content/locations/kvartira/voice/b258320f3505.mp3"
   },
+  "content/locations/kvartira/voice/b270845e52f7.mp3": {
+    "file": "assets/b270845e52f7-CYva_CKP.mp3",
+    "src": "content/locations/kvartira/voice/b270845e52f7.mp3"
+  },
   "content/locations/kvartira/voice/b2c3bbf0b627.mp3": {
     "file": "assets/b2c3bbf0b627-C-0mE7mo.mp3",
     "src": "content/locations/kvartira/voice/b2c3bbf0b627.mp3"
@@ -19327,6 +19349,10 @@
   "content/locations/kvartira/voice/b61643853eae.mp3": {
     "file": "assets/b61643853eae-Do4vc906.mp3",
     "src": "content/locations/kvartira/voice/b61643853eae.mp3"
+  },
+  "content/locations/kvartira/voice/b8200744748c.mp3": {
+    "file": "assets/b8200744748c-DTAWuaaI.mp3",
+    "src": "content/locations/kvartira/voice/b8200744748c.mp3"
   },
   "content/locations/kvartira/voice/b822b68382ba.mp3": {
     "file": "assets/b822b68382ba-dH1VJxl3.mp3",
@@ -19555,6 +19581,10 @@
   "content/locations/kvartira/voice/d125fd1c426e.mp3": {
     "file": "assets/d125fd1c426e-Cac2Gooy.mp3",
     "src": "content/locations/kvartira/voice/d125fd1c426e.mp3"
+  },
+  "content/locations/kvartira/voice/d14aaf4ed8fb.mp3": {
+    "file": "assets/d14aaf4ed8fb-GDcC-XYJ.mp3",
+    "src": "content/locations/kafe/voice/d14aaf4ed8fb.mp3"
   },
   "content/locations/kvartira/voice/d2fd63e0afb4.mp3": {
     "file": "assets/d2fd63e0afb4-DEfTDVxt.mp3",
@@ -19803,10 +19833,6 @@
   "content/locations/kvartira/voice/edadf515d892.mp3": {
     "file": "assets/edadf515d892-DItIQs12.mp3",
     "src": "content/locations/kvartira/voice/edadf515d892.mp3"
-  },
-  "content/locations/kvartira/voice/ee6c78bf4272.mp3": {
-    "file": "assets/ee6c78bf4272-7FeIgU8y.mp3",
-    "src": "content/locations/kvartira/voice/ee6c78bf4272.mp3"
   },
   "content/locations/kvartira/voice/eede545d080b.mp3": {
     "file": "assets/eede545d080b-DUXXK37X.mp3",
@@ -20535,10 +20561,6 @@
   "content/locations/magazin/voice/bb2e796a710a.mp3": {
     "file": "assets/bb2e796a710a-DitIl8Lp.mp3",
     "src": "content/locations/magazin/voice/bb2e796a710a.mp3"
-  },
-  "content/locations/magazin/voice/bf8a9cf8db7a.mp3": {
-    "file": "assets/bf8a9cf8db7a-phLyZohG.mp3",
-    "src": "content/locations/magazin/voice/bf8a9cf8db7a.mp3"
   },
   "content/locations/magazin/voice/bfd4ecc0b5bd.mp3": {
     "file": "assets/bfd4ecc0b5bd-yGow-YJG.mp3",
@@ -22832,6 +22854,10 @@
     "file": "assets/77c9c2eafcd6-CmglhlPh.mp3",
     "src": "content/locations/okeanarium/voice/77c9c2eafcd6.mp3"
   },
+  "content/locations/okeanarium/voice/79cd74633287.mp3": {
+    "file": "assets/79cd74633287-mCMl-1-S.mp3",
+    "src": "content/locations/okeanarium/voice/79cd74633287.mp3"
+  },
   "content/locations/okeanarium/voice/7a9ffbcda602.mp3": {
     "file": "assets/7a9ffbcda602-fnUygQl9.mp3",
     "src": "content/locations/asxana/voice/7a9ffbcda602.mp3"
@@ -22907,10 +22933,6 @@
   "content/locations/okeanarium/voice/a812ca4d1332.mp3": {
     "file": "assets/a812ca4d1332-ihCkp08Z.mp3",
     "src": "content/locations/okeanarium/voice/a812ca4d1332.mp3"
-  },
-  "content/locations/okeanarium/voice/aeec49d5effe.mp3": {
-    "file": "assets/aeec49d5effe-lpB5BE_n.mp3",
-    "src": "content/locations/okeanarium/voice/aeec49d5effe.mp3"
   },
   "content/locations/okeanarium/voice/af6befb94895.mp3": {
     "file": "assets/af6befb94895-eWfubPl9.mp3",
@@ -23908,6 +23930,10 @@
     "file": "assets/3980e7770ad6-B6Fmsxv2.mp3",
     "src": "content/locations/saiabaq/voice/3980e7770ad6.mp3"
   },
+  "content/locations/saiabaq/voice/3c863b9e4f14.mp3": {
+    "file": "assets/3c863b9e4f14-xaP3gg1H.mp3",
+    "src": "content/locations/saiabaq/voice/3c863b9e4f14.mp3"
+  },
   "content/locations/saiabaq/voice/3fea9379f1fb.mp3": {
     "file": "assets/3fea9379f1fb-DIJX1tQq.mp3",
     "src": "content/locations/saiabaq/voice/3fea9379f1fb.mp3"
@@ -23952,10 +23978,6 @@
     "file": "assets/4fda60fdba60-wgdBjlnM.mp3",
     "src": "content/locations/botanika/voice/4fda60fdba60.mp3"
   },
-  "content/locations/saiabaq/voice/56a86183705b.mp3": {
-    "file": "assets/56a86183705b-D6qaEWo-.mp3",
-    "src": "content/locations/saiabaq/voice/56a86183705b.mp3"
-  },
   "content/locations/saiabaq/voice/580608818066.mp3": {
     "file": "assets/580608818066-DTnpTZx2.mp3",
     "src": "content/locations/asxana/voice/580608818066.mp3"
@@ -23979,6 +24001,10 @@
   "content/locations/saiabaq/voice/5f795006e3e3.mp3": {
     "file": "assets/5f795006e3e3-B2guhWT9.mp3",
     "src": "content/locations/bank/voice/5f795006e3e3.mp3"
+  },
+  "content/locations/saiabaq/voice/611fa80a07c3.mp3": {
+    "file": "assets/611fa80a07c3-pU5yp-48.mp3",
+    "src": "content/locations/botanika/voice/611fa80a07c3.mp3"
   },
   "content/locations/saiabaq/voice/620686400ff1.mp3": {
     "file": "assets/620686400ff1-BVvqLZZC.mp3",
@@ -24052,6 +24078,10 @@
     "file": "assets/7c6b8b2c2c58-BPFNfTr6.mp3",
     "src": "content/locations/saiabaq/voice/7c6b8b2c2c58.mp3"
   },
+  "content/locations/saiabaq/voice/81994243f089.mp3": {
+    "file": "assets/81994243f089-BqN5LX-G.mp3",
+    "src": "content/locations/saiabaq/voice/81994243f089.mp3"
+  },
   "content/locations/saiabaq/voice/8459fb655d15.mp3": {
     "file": "assets/8459fb655d15-CUP7bDKW.mp3",
     "src": "content/locations/saiabaq/voice/8459fb655d15.mp3"
@@ -24124,10 +24154,6 @@
     "file": "assets/979a3537f6d0-C0GLCFqD.mp3",
     "src": "content/locations/saiabaq/voice/979a3537f6d0.mp3"
   },
-  "content/locations/saiabaq/voice/98589e748d99.mp3": {
-    "file": "assets/98589e748d99-Bf29dHkl.mp3",
-    "src": "content/locations/saiabaq/voice/98589e748d99.mp3"
-  },
   "content/locations/saiabaq/voice/9937eae3037b.mp3": {
     "file": "assets/9937eae3037b-BOf50dCM.mp3",
     "src": "content/locations/saiabaq/voice/9937eae3037b.mp3"
@@ -24196,10 +24222,6 @@
     "file": "assets/b00ebfa58325-S3GGvxfk.mp3",
     "src": "content/locations/saiabaq/voice/b00ebfa58325.mp3"
   },
-  "content/locations/saiabaq/voice/b08552557284.mp3": {
-    "file": "assets/b08552557284-BAFPAEYf.mp3",
-    "src": "content/locations/saiabaq/voice/b08552557284.mp3"
-  },
   "content/locations/saiabaq/voice/b15896262880.mp3": {
     "file": "assets/b15896262880-B5iEr5pN.mp3",
     "src": "content/locations/saiabaq/voice/b15896262880.mp3"
@@ -24220,13 +24242,17 @@
     "file": "assets/b2d74f811b36-UbZVZsHg.mp3",
     "src": "content/locations/saiabaq/voice/b2d74f811b36.mp3"
   },
-  "content/locations/saiabaq/voice/b5bb2597c200.mp3": {
-    "file": "assets/b5bb2597c200-CZzkN7mA.mp3",
-    "src": "content/locations/saiabaq/voice/b5bb2597c200.mp3"
-  },
   "content/locations/saiabaq/voice/b62dadf5b33a.mp3": {
     "file": "assets/b62dadf5b33a-BZdzupfo.mp3",
     "src": "content/locations/asxana/voice/b62dadf5b33a.mp3"
+  },
+  "content/locations/saiabaq/voice/b6e2c0395e6a.mp3": {
+    "file": "assets/b6e2c0395e6a-CISrqXZp.mp3",
+    "src": "content/locations/saiabaq/voice/b6e2c0395e6a.mp3"
+  },
+  "content/locations/saiabaq/voice/babade9e8764.mp3": {
+    "file": "assets/babade9e8764-BeBulxW1.mp3",
+    "src": "content/locations/saiabaq/voice/babade9e8764.mp3"
   },
   "content/locations/saiabaq/voice/bc01b8eb9a11.mp3": {
     "file": "assets/bc01b8eb9a11-ClWzD8YL.mp3",
@@ -24300,10 +24326,6 @@
     "file": "assets/d1ff1b314066-jwBFTvJA.mp3",
     "src": "content/locations/saiabaq/voice/d1ff1b314066.mp3"
   },
-  "content/locations/saiabaq/voice/d9961dc0f316.mp3": {
-    "file": "assets/d9961dc0f316-DteY4mPk.mp3",
-    "src": "content/locations/saiabaq/voice/d9961dc0f316.mp3"
-  },
   "content/locations/saiabaq/voice/dc4fb99cb021.mp3": {
     "file": "assets/dc4fb99cb021-C3YE2oUu.mp3",
     "src": "content/locations/saiabaq/voice/dc4fb99cb021.mp3"
@@ -24360,6 +24382,10 @@
     "file": "assets/ed9f255da224-CX8ZP_5A.mp3",
     "src": "content/locations/saiabaq/voice/ed9f255da224.mp3"
   },
+  "content/locations/saiabaq/voice/ee56623c24be.mp3": {
+    "file": "assets/ee56623c24be-BZKQlaxH.mp3",
+    "src": "content/locations/saiabaq/voice/ee56623c24be.mp3"
+  },
   "content/locations/saiabaq/voice/ee605a8b7663.mp3": {
     "file": "assets/ee605a8b7663-DEadfhEK.mp3",
     "src": "content/locations/saiabaq/voice/ee605a8b7663.mp3"
@@ -24375,10 +24401,6 @@
   "content/locations/saiabaq/voice/f19f601191ad.mp3": {
     "file": "assets/f19f601191ad-CDabc0DG.mp3",
     "src": "content/locations/expo/voice/f19f601191ad.mp3"
-  },
-  "content/locations/saiabaq/voice/f1da37073f2b.mp3": {
-    "file": "assets/f1da37073f2b-Ctlc2Vrn.mp3",
-    "src": "content/locations/saiabaq/voice/f1da37073f2b.mp3"
   },
   "content/locations/saiabaq/voice/f25633609b50.mp3": {
     "file": "assets/f25633609b50-C0vXvyac.mp3",
@@ -25200,13 +25222,13 @@
     "file": "assets/0f8f4ba8d463-BsjlMX3d.mp3",
     "src": "content/locations/botanika/voice/0f8f4ba8d463.mp3"
   },
-  "content/locations/sauda-ortalygy/voice/10e36cca6f0e.mp3": {
-    "file": "assets/10e36cca6f0e-DYYzZ7yK.mp3",
-    "src": "content/locations/sauda-ortalygy/voice/10e36cca6f0e.mp3"
-  },
   "content/locations/sauda-ortalygy/voice/11c87dc2fc31.mp3": {
     "file": "assets/11c87dc2fc31-DAHlho8P.mp3",
     "src": "content/locations/kiim-dukeni/voice/11c87dc2fc31.mp3"
+  },
+  "content/locations/sauda-ortalygy/voice/132d40af8729.mp3": {
+    "file": "assets/132d40af8729-BpYJRVQn.mp3",
+    "src": "content/locations/sauda-ortalygy/voice/132d40af8729.mp3"
   },
   "content/locations/sauda-ortalygy/voice/1357d89f2871.mp3": {
     "file": "assets/1357d89f2871-D9UAePeJ.mp3",
@@ -25231,6 +25253,10 @@
   "content/locations/sauda-ortalygy/voice/1836df147764.mp3": {
     "file": "assets/1836df147764-CKrTJqLe.mp3",
     "src": "content/locations/sauda-ortalygy/voice/1836df147764.mp3"
+  },
+  "content/locations/sauda-ortalygy/voice/1bb58d325010.mp3": {
+    "file": "assets/1bb58d325010-Cvfngudt.mp3",
+    "src": "content/locations/botanika/voice/1bb58d325010.mp3"
   },
   "content/locations/sauda-ortalygy/voice/1c0257947cf5.mp3": {
     "file": "assets/1c0257947cf5-B0fhTl9O.mp3",
@@ -25280,10 +25306,6 @@
     "file": "assets/283a4ebfe99a-C6JoEVst.mp3",
     "src": "content/locations/sauda-ortalygy/voice/283a4ebfe99a.mp3"
   },
-  "content/locations/sauda-ortalygy/voice/2870e4c63620.mp3": {
-    "file": "assets/2870e4c63620-DMgSed-h.mp3",
-    "src": "content/locations/sauda-ortalygy/voice/2870e4c63620.mp3"
-  },
   "content/locations/sauda-ortalygy/voice/2a46bc8b18f0.mp3": {
     "file": "assets/2a46bc8b18f0-D94FggeH.mp3",
     "src": "content/locations/bazar/voice/2a46bc8b18f0.mp3"
@@ -25319,6 +25341,10 @@
   "content/locations/sauda-ortalygy/voice/3530bf02d4c5.mp3": {
     "file": "assets/3530bf02d4c5-RuNAW0Hg.mp3",
     "src": "content/locations/sauda-ortalygy/voice/3530bf02d4c5.mp3"
+  },
+  "content/locations/sauda-ortalygy/voice/3591b7243eec.mp3": {
+    "file": "assets/3591b7243eec-Bqt7b1rp.mp3",
+    "src": "content/locations/sauda-ortalygy/voice/3591b7243eec.mp3"
   },
   "content/locations/sauda-ortalygy/voice/378655b0329f.mp3": {
     "file": "assets/378655b0329f-L8nDgQiA.mp3",
@@ -25391,10 +25417,6 @@
   "content/locations/sauda-ortalygy/voice/59159957e497.mp3": {
     "file": "assets/59159957e497-C5qVm4RU.mp3",
     "src": "content/locations/sauda-ortalygy/voice/59159957e497.mp3"
-  },
-  "content/locations/sauda-ortalygy/voice/594bde6fef55.mp3": {
-    "file": "assets/594bde6fef55-BSr3bMar.mp3",
-    "src": "content/locations/sauda-ortalygy/voice/594bde6fef55.mp3"
   },
   "content/locations/sauda-ortalygy/voice/5a17a35cd962.mp3": {
     "file": "assets/5a17a35cd962-DLHG01x3.mp3",
@@ -25520,6 +25542,10 @@
     "file": "assets/84cd9260d722-BzxMIo29.mp3",
     "src": "content/locations/sauda-ortalygy/voice/84cd9260d722.mp3"
   },
+  "content/locations/sauda-ortalygy/voice/8675f9af9209.mp3": {
+    "file": "assets/8675f9af9209-DdVj_UIR.mp3",
+    "src": "content/locations/sauda-ortalygy/voice/8675f9af9209.mp3"
+  },
   "content/locations/sauda-ortalygy/voice/86de01ae9368.mp3": {
     "file": "assets/86de01ae9368-94mSKl9l.mp3",
     "src": "content/locations/aurukhana/voice/86de01ae9368.mp3"
@@ -25568,10 +25594,6 @@
     "file": "assets/97f613a8fb67-BfEsIRrx.mp3",
     "src": "content/locations/sauda-ortalygy/voice/97f613a8fb67.mp3"
   },
-  "content/locations/sauda-ortalygy/voice/98589e748d99.mp3": {
-    "file": "assets/98589e748d99-BKYsOtqP.mp3",
-    "src": "content/locations/sauda-ortalygy/voice/98589e748d99.mp3"
-  },
   "content/locations/sauda-ortalygy/voice/98b83861cd6c.mp3": {
     "file": "assets/98b83861cd6c-BRaQ8Z4m.mp3",
     "src": "content/locations/sauda-ortalygy/voice/98b83861cd6c.mp3"
@@ -25619,10 +25641,6 @@
   "content/locations/sauda-ortalygy/voice/a8bd7dc88b68.mp3": {
     "file": "assets/a8bd7dc88b68-0AQA_74F.mp3",
     "src": "content/locations/sauda-ortalygy/voice/a8bd7dc88b68.mp3"
-  },
-  "content/locations/sauda-ortalygy/voice/ab60a175318d.mp3": {
-    "file": "assets/ab60a175318d-DehE4SEe.mp3",
-    "src": "content/locations/sauda-ortalygy/voice/ab60a175318d.mp3"
   },
   "content/locations/sauda-ortalygy/voice/ad987a0d0737.mp3": {
     "file": "assets/ad987a0d0737-9HUsNGR7.mp3",
@@ -25760,10 +25778,6 @@
     "file": "assets/dfaaaca6797a-C1ZlRgFT.mp3",
     "src": "content/locations/kiim-dukeni/voice/dfaaaca6797a.mp3"
   },
-  "content/locations/sauda-ortalygy/voice/e12d934d6cb0.mp3": {
-    "file": "assets/e12d934d6cb0-BNO5tkmo.mp3",
-    "src": "content/locations/sauda-ortalygy/voice/e12d934d6cb0.mp3"
-  },
   "content/locations/sauda-ortalygy/voice/e2c76cfdb328.mp3": {
     "file": "assets/e2c76cfdb328-DyixJ4il.mp3",
     "src": "content/locations/sauda-ortalygy/voice/e2c76cfdb328.mp3"
@@ -25784,6 +25798,10 @@
     "file": "assets/e7d3b5f258f9-BgiVHClt.mp3",
     "src": "content/locations/aurukhana/voice/e7d3b5f258f9.mp3"
   },
+  "content/locations/sauda-ortalygy/voice/e7fbbcc06942.mp3": {
+    "file": "assets/e7fbbcc06942-D72XIS5A.mp3",
+    "src": "content/locations/sauda-ortalygy/voice/e7fbbcc06942.mp3"
+  },
   "content/locations/sauda-ortalygy/voice/e875c52da280.mp3": {
     "file": "assets/e875c52da280-DneLVgLh.mp3",
     "src": "content/locations/sauda-ortalygy/voice/e875c52da280.mp3"
@@ -25799,6 +25817,10 @@
   "content/locations/sauda-ortalygy/voice/edec9b19c1c4.mp3": {
     "file": "assets/edec9b19c1c4-8WhEvJSx.mp3",
     "src": "content/locations/sauda-ortalygy/voice/edec9b19c1c4.mp3"
+  },
+  "content/locations/sauda-ortalygy/voice/ee56623c24be.mp3": {
+    "file": "assets/ee56623c24be-BZKQlaxH.mp3",
+    "src": "content/locations/saiabaq/voice/ee56623c24be.mp3"
   },
   "content/locations/sauda-ortalygy/voice/f2d4efd43409.mp3": {
     "file": "assets/f2d4efd43409-B40k5BhZ.mp3",
@@ -26496,6 +26518,10 @@
     "file": "assets/2fa902471a07-POVdKkP9.mp3",
     "src": "content/locations/sirk/voice/2fa902471a07.mp3"
   },
+  "content/locations/sirk/voice/2ff93af7252f.mp3": {
+    "file": "assets/2ff93af7252f-B3-1aiKp.mp3",
+    "src": "content/locations/sirk/voice/2ff93af7252f.mp3"
+  },
   "content/locations/sirk/voice/31d59ae51ee5.mp3": {
     "file": "assets/31d59ae51ee5-BbKCs98s.mp3",
     "src": "content/locations/sirk/voice/31d59ae51ee5.mp3"
@@ -26652,10 +26678,6 @@
     "file": "assets/869a2048f0a8-pT9ZEnOA.mp3",
     "src": "content/locations/sirk/voice/869a2048f0a8.mp3"
   },
-  "content/locations/sirk/voice/87521e0b9cbb.mp3": {
-    "file": "assets/87521e0b9cbb-1z2T6DbL.mp3",
-    "src": "content/locations/sirk/voice/87521e0b9cbb.mp3"
-  },
   "content/locations/sirk/voice/8b60567dd07c.mp3": {
     "file": "assets/8b60567dd07c-DN3ZVU5b.mp3",
     "src": "content/locations/sirk/voice/8b60567dd07c.mp3"
@@ -26687,10 +26709,6 @@
   "content/locations/sirk/voice/9c12081c1996.mp3": {
     "file": "assets/9c12081c1996-BsiNM3tL.mp3",
     "src": "content/locations/sirk/voice/9c12081c1996.mp3"
-  },
-  "content/locations/sirk/voice/9def8b5ed5ad.mp3": {
-    "file": "assets/9def8b5ed5ad-DCQceEGn.mp3",
-    "src": "content/locations/sirk/voice/9def8b5ed5ad.mp3"
   },
   "content/locations/sirk/voice/9e630b068500.mp3": {
     "file": "assets/9e630b068500-BP7sahPj.mp3",
@@ -26763,6 +26781,10 @@
   "content/locations/sirk/voice/d5ab64edf1d5.mp3": {
     "file": "assets/d5ab64edf1d5-BBQ76zeb.mp3",
     "src": "content/locations/sirk/voice/d5ab64edf1d5.mp3"
+  },
+  "content/locations/sirk/voice/d5c7d9e1c309.mp3": {
+    "file": "assets/d5c7d9e1c309-D6DuEQd7.mp3",
+    "src": "content/locations/sirk/voice/d5c7d9e1c309.mp3"
   },
   "content/locations/sirk/voice/d5f7d31daca1.mp3": {
     "file": "assets/d5f7d31daca1-DR4est8k.mp3",
@@ -27584,6 +27606,10 @@
     "file": "assets/0bd64ab8b48c-Bt0Dt30l.mp3",
     "src": "content/locations/bank/voice/0bd64ab8b48c.mp3"
   },
+  "content/locations/stomatolog/voice/0c68ed9105f9.mp3": {
+    "file": "assets/0c68ed9105f9-DdIK8zMf.mp3",
+    "src": "content/locations/stomatolog/voice/0c68ed9105f9.mp3"
+  },
   "content/locations/stomatolog/voice/104312d0d090.mp3": {
     "file": "assets/104312d0d090-U6n4OwmE.mp3",
     "src": "content/locations/stomatolog/voice/104312d0d090.mp3"
@@ -27715,6 +27741,10 @@
   "content/locations/stomatolog/voice/4e6522e8a2ad.mp3": {
     "file": "assets/4e6522e8a2ad-0fsiKG1p.mp3",
     "src": "content/locations/stomatolog/voice/4e6522e8a2ad.mp3"
+  },
+  "content/locations/stomatolog/voice/4e92c3145367.mp3": {
+    "file": "assets/4e92c3145367-B24R2oNh.mp3",
+    "src": "content/locations/stomatolog/voice/4e92c3145367.mp3"
   },
   "content/locations/stomatolog/voice/5001fa8ae7b1.mp3": {
     "file": "assets/5001fa8ae7b1-Dj9W789S.mp3",
@@ -27900,9 +27930,9 @@
     "file": "assets/a885ba5d8c5b-vVwMfgrk.mp3",
     "src": "content/locations/stomatolog/voice/a885ba5d8c5b.mp3"
   },
-  "content/locations/stomatolog/voice/aae60238e466.mp3": {
-    "file": "assets/aae60238e466-CKcLnv7V.mp3",
-    "src": "content/locations/stomatolog/voice/aae60238e466.mp3"
+  "content/locations/stomatolog/voice/a9101f79f3b1.mp3": {
+    "file": "assets/a9101f79f3b1-JGR1QSdd.mp3",
+    "src": "content/locations/stomatolog/voice/a9101f79f3b1.mp3"
   },
   "content/locations/stomatolog/voice/abe0c5487077.mp3": {
     "file": "assets/abe0c5487077-BGvTpcbZ.mp3",
@@ -28000,10 +28030,6 @@
     "file": "assets/d71c27238b02-CklnNCNT.mp3",
     "src": "content/locations/okeanarium/voice/d71c27238b02.mp3"
   },
-  "content/locations/stomatolog/voice/da80f2e80b20.mp3": {
-    "file": "assets/da80f2e80b20-C9HPYERx.mp3",
-    "src": "content/locations/stomatolog/voice/da80f2e80b20.mp3"
-  },
   "content/locations/stomatolog/voice/dcca0291f1eb.mp3": {
     "file": "assets/dcca0291f1eb-D16L8wiF.mp3",
     "src": "content/locations/stomatolog/voice/dcca0291f1eb.mp3"
@@ -28079,10 +28105,6 @@
   "content/locations/stomatolog/voice/f76308c85b78.mp3": {
     "file": "assets/f76308c85b78-Crxxil4i.mp3",
     "src": "content/locations/stomatolog/voice/f76308c85b78.mp3"
-  },
-  "content/locations/stomatolog/voice/f90428e2d1bf.mp3": {
-    "file": "assets/f90428e2d1bf-DIE2uNYS.mp3",
-    "src": "content/locations/stomatolog/voice/f90428e2d1bf.mp3"
   },
   "content/locations/stomatolog/voice/f9a50787e7ac.mp3": {
     "file": "assets/f9a50787e7ac-CcuVUYLP.mp3",
@@ -30488,6 +30510,10 @@
     "file": "assets/a6848e409b25-B7cwjcku.mp3",
     "src": "content/locations/vet/voice/a6848e409b25.mp3"
   },
+  "content/locations/vet/voice/a9101f79f3b1.mp3": {
+    "file": "assets/a9101f79f3b1-JGR1QSdd.mp3",
+    "src": "content/locations/stomatolog/voice/a9101f79f3b1.mp3"
+  },
   "content/locations/vet/voice/abe85df12e52.mp3": {
     "file": "assets/abe85df12e52-D_TMeRoM.mp3",
     "src": "content/locations/aurukhana/voice/abe85df12e52.mp3"
@@ -30599,10 +30625,6 @@
   "content/locations/vet/voice/d955d9e4b6bc.mp3": {
     "file": "assets/d955d9e4b6bc-DE-1J9KN.mp3",
     "src": "content/locations/vet/voice/d955d9e4b6bc.mp3"
-  },
-  "content/locations/vet/voice/da80f2e80b20.mp3": {
-    "file": "assets/da80f2e80b20-C9HPYERx.mp3",
-    "src": "content/locations/stomatolog/voice/da80f2e80b20.mp3"
   },
   "content/locations/vet/voice/dd3947a3e58b.mp3": {
     "file": "assets/dd3947a3e58b-CPyO0USu.mp3",
@@ -31998,23 +32020,26 @@
     "src": "content/stickers/words-50.webp"
   },
   "index.html": {
-    "file": "assets/game-BO5Mwh8c.js",
+    "file": "assets/game-DNKsfxnO.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_dom-Brbbo9pe.js",
+      "_dom-BoIfGjht.js",
       "_model-eh7rENuL.js",
       "_report-C6Zk0zen.js",
-      "_dialogue-C3Zsjbzn.js",
+      "_progression-C0D_wDVC.js",
       "_economy-C2_1RR1j.js",
-      "_util-DXP4mx97.js",
-      "_extra-C1-o1ggi.js",
-      "_diary-BmeLc6fA.js",
+      "_clock-BHj0ztjj.js",
+      "_extra-Bh_Jk3Ls.js",
+      "_diary-B26xVcFt.js",
       "_stickers-CgEU06aG.js",
+      "_util-DYpmEJER.js",
       "_voice-messages-x4qf9IWF.js",
+      "_dialogue-Ezmivmon.js",
       "_prefs-kp-79C7l.js",
-      "_ambience-ctpngqQq.js"
+      "_ambience-CMQ23sTb.js",
+      "_hero-BQYiIaBZ.js"
     ],
     "dynamicImports": [
       "virtual:kz-content/pack/aeroport",
@@ -32064,13 +32089,15 @@
       "virtual:kz-content/sources",
       "virtual:kz-content/lemmas",
       "src/voice/model-store.ts",
+      "src/game/look.ts",
+      "src/ui/reward-fx.ts",
       "src/ui/transition.ts",
       "src/ui/screens/world.ts",
       "src/voice/engine.ts",
       "src/ui/screens/voice.ts"
     ],
     "css": [
-      "assets/game-Cu-7V65s.css"
+      "assets/game-Bx1JNhs0.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -32132,106 +32159,119 @@
     "file": "assets/vosk-INNAC7fz.js",
     "src": "node_modules/vosk-browser/dist/vosk.js"
   },
+  "src/game/look.ts": {
+    "file": "assets/look-Lj6dcf1s.js",
+    "name": "look",
+    "src": "src/game/look.ts",
+    "isDynamicEntry": true
+  },
   "src/ui/minigames/assemble.ts": {
-    "file": "assets/assemble-DxliWQQa.js",
+    "file": "assets/assemble-DoS4ecbU.js",
     "name": "assemble",
     "src": "src/ui/minigames/assemble.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_phrase-controls-iBeaaHwg.js",
+      "_phrase-controls-5PDslxUI.js",
       "_voiceover-CujG1-KX.js",
       "_engine-CiYn_sLR.js",
-      "_dom-Brbbo9pe.js",
-      "_utterance-DaVkJbdD.js",
-      "_minigames-DdHoCgCl.js"
+      "_dom-BoIfGjht.js",
+      "_utterance-x4lzCKha.js",
+      "_minigames-BfBsaPmo.js"
     ]
   },
   "src/ui/minigames/change.ts": {
-    "file": "assets/change-CokbqQXn.js",
+    "file": "assets/change-Y2SI7z2_.js",
     "name": "change",
     "src": "src/ui/minigames/change.ts",
     "isDynamicEntry": true,
     "imports": [
       "_economy-C2_1RR1j.js",
-      "_dom-Brbbo9pe.js",
-      "_minigames-DdHoCgCl.js"
+      "_dom-BoIfGjht.js",
+      "_minigames-BfBsaPmo.js"
     ]
   },
   "src/ui/minigames/find.ts": {
-    "file": "assets/find-CnxVR15J.js",
+    "file": "assets/find-BDhzwXjJ.js",
     "name": "find",
     "src": "src/ui/minigames/find.ts",
     "isDynamicEntry": true,
     "imports": [
       "_voiceover-CujG1-KX.js",
-      "_dom-Brbbo9pe.js",
-      "_minigames-DdHoCgCl.js"
+      "_dom-BoIfGjht.js",
+      "_minigames-BfBsaPmo.js"
     ]
   },
   "src/ui/minigames/index.ts": {
-    "file": "assets/minigames-Dmpxapl1.js",
+    "file": "assets/minigames-WihyHWEr.js",
     "name": "minigames",
     "src": "src/ui/minigames/index.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_minigames-DdHoCgCl.js"
+      "_minigames-BfBsaPmo.js"
     ]
   },
+  "src/ui/reward-fx.ts": {
+    "file": "assets/reward-fx-BMppr2xg.js",
+    "name": "reward-fx",
+    "src": "src/ui/reward-fx.ts",
+    "isDynamicEntry": true
+  },
   "src/ui/screens/extra/diary/view.ts": {
-    "file": "assets/view-zkb-7XBY.js",
+    "file": "assets/view-B8iYgcaW.js",
     "name": "view",
     "src": "src/ui/screens/extra/diary/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_view-CmqZJNZe.js"
+      "_view-DB0WOnqq.js"
     ]
   },
   "src/ui/screens/extra/parents/view.ts": {
-    "file": "assets/view-BydaoY3E.js",
+    "file": "assets/view-w8-t-d0R.js",
     "name": "view",
     "src": "src/ui/screens/extra/parents/view.ts",
     "isDynamicEntry": true,
     "imports": [
       "_voiceover-CujG1-KX.js",
       "_prefs-kp-79C7l.js",
-      "_dom-Brbbo9pe.js",
-      "_words-list-CE4NIqx8.js",
+      "_dom-BoIfGjht.js",
+      "_words-list-BBcGQUsT.js",
       "_model-eh7rENuL.js",
-      "_util-DXP4mx97.js",
-      "_extra-C1-o1ggi.js"
+      "_clock-BHj0ztjj.js",
+      "_extra-Bh_Jk3Ls.js"
     ],
     "css": [
       "assets/view-CGCSwT47.css"
     ]
   },
   "src/ui/screens/extra/profile/view.ts": {
-    "file": "assets/view-Dkj1KyR2.js",
+    "file": "assets/view-Db09g0Qd.js",
     "name": "view",
     "src": "src/ui/screens/extra/profile/view.ts",
     "isDynamicEntry": true,
     "imports": [
       "_profile-DtpXJfsm.js",
-      "_dom-Brbbo9pe.js"
+      "_dom-BoIfGjht.js",
+      "_hero-BQYiIaBZ.js"
     ],
     "css": [
       "assets/view-DiVh6lfn.css"
     ]
   },
   "src/ui/screens/extra/review/view.ts": {
-    "file": "assets/view-DXUU6fnl.js",
+    "file": "assets/view-DAKeuLIF.js",
     "name": "view",
     "src": "src/ui/screens/extra/review/view.ts",
     "isDynamicEntry": true,
     "imports": [
       "_voiceover-CujG1-KX.js",
-      "_phrase-controls-iBeaaHwg.js",
+      "_phrase-controls-5PDslxUI.js",
       "_model-eh7rENuL.js",
-      "_util-DXP4mx97.js",
+      "_clock-BHj0ztjj.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
-      "_dom-Brbbo9pe.js",
-      "_extra-C1-o1ggi.js",
-      "_utterance-DaVkJbdD.js",
+      "_dom-BoIfGjht.js",
+      "_extra-Bh_Jk3Ls.js",
+      "_utterance-x4lzCKha.js",
       "_voice-messages-x4qf9IWF.js"
     ],
     "dynamicImports": [
@@ -32246,13 +32286,13 @@
     ]
   },
   "src/ui/screens/extra/stickers/view.ts": {
-    "file": "assets/view-D6A68wRp.js",
+    "file": "assets/view-C3nYxABY.js",
     "name": "view",
     "src": "src/ui/screens/extra/stickers/view.ts",
     "isDynamicEntry": true,
     "imports": [
       "_stickers-CgEU06aG.js",
-      "_dom-Brbbo9pe.js"
+      "_dom-BoIfGjht.js"
     ],
     "css": [
       "assets/view-C6dRgFc_.css"
@@ -32285,26 +32325,26 @@
     ]
   },
   "src/ui/screens/extra/words/view.ts": {
-    "file": "assets/view-CRLLI4Mg.js",
+    "file": "assets/view-lxinQXEV.js",
     "name": "view",
     "src": "src/ui/screens/extra/words/view.ts",
     "isDynamicEntry": true,
     "imports": [
       "_voiceover-CujG1-KX.js",
       "_model-eh7rENuL.js",
-      "_util-DXP4mx97.js",
+      "_clock-BHj0ztjj.js",
       "_prefs-kp-79C7l.js",
-      "_dom-Brbbo9pe.js",
-      "_extra-C1-o1ggi.js",
-      "_utterance-DaVkJbdD.js",
-      "_words-list-CE4NIqx8.js"
+      "_dom-BoIfGjht.js",
+      "_extra-Bh_Jk3Ls.js",
+      "_utterance-x4lzCKha.js",
+      "_words-list-BBcGQUsT.js"
     ],
     "css": [
       "assets/view-CgscqwtG.css"
     ]
   },
   "src/ui/screens/voice.ts": {
-    "file": "assets/voice-B5ieKBVL.js",
+    "file": "assets/voice-Xj88A1mM.js",
     "name": "voice",
     "src": "src/ui/screens/voice.ts",
     "isDynamicEntry": true,
@@ -32312,51 +32352,52 @@
       "_model-store-DkCAfyOm.js",
       "_capture-D3dxxvJU.js",
       "_engine-CiYn_sLR.js",
-      "_dom-Brbbo9pe.js",
+      "_dom-BoIfGjht.js",
       "_voice-messages-x4qf9IWF.js"
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-CNkQSuGA.js",
+    "file": "assets/world-B6G1rz1y.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
       "_model-eh7rENuL.js",
-      "_dialogue-C3Zsjbzn.js",
+      "_progression-C0D_wDVC.js",
       "_voiceover-CujG1-KX.js",
-      "_phrase-controls-iBeaaHwg.js",
+      "_phrase-controls-5PDslxUI.js",
       "_prefs-kp-79C7l.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
-      "_dom-Brbbo9pe.js",
+      "_dialogue-Ezmivmon.js",
+      "_dom-BoIfGjht.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-x4qf9IWF.js",
-      "_utterance-DaVkJbdD.js",
-      "_words-list-CE4NIqx8.js",
-      "_view-CmqZJNZe.js",
-      "_extra-C1-o1ggi.js",
-      "_util-DXP4mx97.js"
+      "_utterance-x4lzCKha.js",
+      "_words-list-BBcGQUsT.js",
+      "_view-DB0WOnqq.js",
+      "_extra-Bh_Jk3Ls.js",
+      "_clock-BHj0ztjj.js"
     ],
     "dynamicImports": [
       "src/ui/minigames/index.ts"
     ],
     "css": [
-      "assets/world-CPPGNQJb.css"
+      "assets/world-CSO2kUc_.css"
     ]
   },
   "src/ui/transition.ts": {
-    "file": "assets/transition-BUxjTY79.js",
+    "file": "assets/transition-DYoUgi50.js",
     "name": "transition",
     "src": "src/ui/transition.ts",
     "isDynamicEntry": true,
     "imports": [
       "_economy-C2_1RR1j.js",
       "_report-C6Zk0zen.js",
-      "_dom-Brbbo9pe.js"
+      "_dom-BoIfGjht.js"
     ],
     "css": [
-      "assets/transition-C2kz9iLi.css"
+      "assets/transition-Bjucp_HT.css"
     ]
   },
   "src/voice/engine.ts": {
@@ -32555,6 +32596,10 @@
     "file": "assets/back-BFhc6wT-.webp",
     "src": "ui-assets/icons/back.webp"
   },
+  "ui-assets/icons/birge.webp": {
+    "file": "assets/birge-50Ou34qR.webp",
+    "src": "ui-assets/icons/birge.webp"
+  },
   "ui-assets/icons/diary.webp": {
     "file": "assets/diary-DzgEK3Je.webp",
     "src": "ui-assets/icons/diary.webp"
@@ -32562,6 +32607,10 @@
   "ui-assets/icons/family.webp": {
     "file": "assets/family-EA7Y6UMb.webp",
     "src": "ui-assets/icons/family.webp"
+  },
+  "ui-assets/icons/flame.webp": {
+    "file": "assets/flame-DnNnU4rG.webp",
+    "src": "ui-assets/icons/flame.webp"
   },
   "ui-assets/icons/hall.webp": {
     "file": "assets/hall-DXRCjSCU.webp",
@@ -32598,6 +32647,10 @@
   "ui-assets/icons/parents.webp": {
     "file": "assets/parents-kdvgx5Ht.webp",
     "src": "ui-assets/icons/parents.webp"
+  },
+  "ui-assets/icons/path.webp": {
+    "file": "assets/path-BwqYpytj.webp",
+    "src": "ui-assets/icons/path.webp"
   },
   "ui-assets/icons/play.webp": {
     "file": "assets/play-DIJeMMLT.webp",
@@ -32655,6 +32708,10 @@
     "file": "assets/rewards-BDRGLxje.webp",
     "src": "ui-assets/icons/rewards.webp"
   },
+  "ui-assets/icons/room.webp": {
+    "file": "assets/room-PSI80hLt.webp",
+    "src": "ui-assets/icons/room.webp"
+  },
   "ui-assets/icons/stickers.webp": {
     "file": "assets/stickers-DpWCVLFN.webp",
     "src": "ui-assets/icons/stickers.webp"
@@ -32680,7 +32737,7 @@
     "src": "ui-assets/splash-portrait.webp"
   },
   "virtual:kz-content/lemmas": {
-    "file": "assets/lemmas-_U9kOags.js",
+    "file": "assets/lemmas-BXURqigj.js",
     "name": "lemmas",
     "src": "virtual:kz-content/lemmas",
     "isDynamicEntry": true,
@@ -33515,7 +33572,7 @@
     ]
   },
   "virtual:kz-content/pack/aeroport": {
-    "file": "assets/aeroport-BbBgUIRc.js",
+    "file": "assets/aeroport-fpEJoOIm.js",
     "name": "aeroport",
     "src": "virtual:kz-content/pack/aeroport",
     "isDynamicEntry": true,
@@ -33540,11 +33597,11 @@
       "assets/17-posadochnyy-talon-lnzHb1A_.webp",
       "assets/18-spasibo-za-registraciyu-B-inuJ2U.webp",
       "assets/19-k-dosmotru-DAG4IUK_.webp",
-      "assets/aeroport-texts-b6dde68033f0.json"
+      "assets/aeroport-texts-97826d9ec970.json"
     ]
   },
   "virtual:kz-content/pack/asxana": {
-    "file": "assets/asxana-AXBThILJ.js",
+    "file": "assets/asxana-D7YAtu1I.js",
     "name": "asxana",
     "src": "virtual:kz-content/pack/asxana",
     "isDynamicEntry": true,
@@ -33567,11 +33624,11 @@
       "assets/16-net-soka-Cqs645l1.webp",
       "assets/17-prines-BiZeU-y0.webp",
       "assets/18-vse-pravilno-CGDFtoy0.webp",
-      "assets/asxana-texts-b9e1592b443c.json"
+      "assets/asxana-texts-b20e966c22c9.json"
     ]
   },
   "virtual:kz-content/pack/aurukhana": {
-    "file": "assets/aurukhana-CQUUXcw5.js",
+    "file": "assets/aurukhana-CVdXizDe.js",
     "name": "aurukhana",
     "src": "virtual:kz-content/pack/aurukhana",
     "isDynamicEntry": true,
@@ -33593,11 +33650,11 @@
       "assets/15-get-well-C8r7zBW0.webp",
       "assets/16-father-ThhXgMZq.webp",
       "assets/17-farewell-BrwDLfdu.webp",
-      "assets/aurukhana-texts-61cc28d97a13.json"
+      "assets/aurukhana-texts-0d4448e3dd97.json"
     ]
   },
   "virtual:kz-content/pack/avtobus": {
-    "file": "assets/avtobus-VuwTak5r.js",
+    "file": "assets/avtobus-SQ39eBeb.js",
     "name": "avtobus",
     "src": "virtual:kz-content/pack/avtobus",
     "isDynamicEntry": true,
@@ -33626,11 +33683,11 @@
       "assets/22-obyavlenie-ostanovki-CBwYb31s.webp",
       "assets/23-ostanovka-tsirk-DxiY1juN.webp",
       "assets/24-ostanovka-arena-DnFInv-B.webp",
-      "assets/avtobus-texts-61162acc026e.json"
+      "assets/avtobus-texts-8ff5831677df.json"
     ]
   },
   "virtual:kz-content/pack/balabaqsha": {
-    "file": "assets/balabaqsha-S9PtP69F.js",
+    "file": "assets/balabaqsha-Ce0egBJM.js",
     "name": "balabaqsha",
     "src": "virtual:kz-content/pack/balabaqsha",
     "isDynamicEntry": true,
@@ -33653,11 +33710,11 @@
       "assets/16-eshche-poigrayu-DWuDccwg.webp",
       "assets/17-gruppa-BKzpos5G.webp",
       "assets/18-rano-CoaEshtI.webp",
-      "assets/balabaqsha-texts-d7ddf2c0b7d5.json"
+      "assets/balabaqsha-texts-03ed82394a44.json"
     ]
   },
   "virtual:kz-content/pack/bank": {
-    "file": "assets/bank-FBjWrOPh.js",
+    "file": "assets/bank-8Ad6AHa6.js",
     "name": "bank",
     "src": "virtual:kz-content/pack/bank",
     "isDynamicEntry": true,
@@ -33682,11 +33739,11 @@
       "assets/18-drugoy-bankomat-Daa3xi3d.webp",
       "assets/19-poluchilos-C3-qXSFH.webp",
       "assets/20-vyhod-bankomat-DtyFgov0.webp",
-      "assets/bank-texts-9161f60e5f09.json"
+      "assets/bank-texts-8f9fbc6f373e.json"
     ]
   },
   "virtual:kz-content/pack/bassein": {
-    "file": "assets/bassein-DWqb-IDa.js",
+    "file": "assets/bassein-BfLk-hiL.js",
     "name": "bassein",
     "src": "virtual:kz-content/pack/bassein",
     "isDynamicEntry": true,
@@ -33712,11 +33769,11 @@
       "assets/19-u-vtoroy-dorozhki-CWY9O-Nt.webp",
       "assets/20-zhdat-trenera-BqKAoeWO.webp",
       "assets/21-trener-prishyol-C9wB7QqX.webp",
-      "assets/bassein-texts-b6a9160e1805.json"
+      "assets/bassein-texts-fcafecf13ecf.json"
     ]
   },
   "virtual:kz-content/pack/batut": {
-    "file": "assets/batut-BiZziw3X.js",
+    "file": "assets/batut-BS2DnPfP.js",
     "name": "batut",
     "src": "virtual:kz-content/pack/batut",
     "isDynamicEntry": true,
@@ -33740,11 +33797,11 @@
       "assets/17-butylka-vody-DQT4aXz8.webp",
       "assets/18-snova-prygaem-B0J5FfCl.webp",
       "assets/19-dai-pyat-DIMqgKXI.webp",
-      "assets/batut-texts-14991d7a0e1b.json"
+      "assets/batut-texts-c39682b44637.json"
     ]
   },
   "virtual:kz-content/pack/bayterek": {
-    "file": "assets/bayterek-CBrwTbkh.js",
+    "file": "assets/bayterek-jhCqiy3g.js",
     "name": "bayterek",
     "src": "virtual:kz-content/pack/bayterek",
     "isDynamicEntry": true,
@@ -33766,11 +33823,11 @@
       "assets/15-foto-u-okna-CIQ0Uvum.webp",
       "assets/16-lift-vniz-DEWt7sDX.webp",
       "assets/17-u-podnozhiya-Drin-MFT.webp",
-      "assets/bayterek-texts-222f6fa340c0.json"
+      "assets/bayterek-texts-d1be3f275830.json"
     ]
   },
   "virtual:kz-content/pack/bazar": {
-    "file": "assets/bazar-0izqTkSr.js",
+    "file": "assets/bazar-ClwWxNqw.js",
     "name": "bazar",
     "src": "virtual:kz-content/pack/bazar",
     "isDynamicEntry": true,
@@ -33794,11 +33851,11 @@
       "assets/17-paket-yablok-BtLzhYyR.webp",
       "assets/18-babushka-s-yablokami-BujqDwdx.webp",
       "assets/19-ryady-bazara-MQ00hUq6.webp",
-      "assets/bazar-texts-6beaf9351964.json"
+      "assets/bazar-texts-836ef2da4929.json"
     ]
   },
   "virtual:kz-content/pack/botanika": {
-    "file": "assets/botanika-8D10eXD_.js",
+    "file": "assets/botanika-BLH2Ag9_.js",
     "name": "botanika",
     "src": "virtual:kz-content/pack/botanika",
     "isDynamicEntry": true,
@@ -33825,11 +33882,11 @@
       "assets/20-eshche-raz-B-LlQKpw.webp",
       "assets/21-kafe-sada-BbtXKUKb.webp",
       "assets/22-net-deneg-morozhenoe-F7yLmgi9.webp",
-      "assets/botanika-texts-5b41120cd70e.json"
+      "assets/botanika-texts-9d0577526eb1.json"
     ]
   },
   "virtual:kz-content/pack/darihana": {
-    "file": "assets/darihana-BEHgnrmS.js",
+    "file": "assets/darihana-DrMFBmgh.js",
     "name": "darihana",
     "src": "virtual:kz-content/pack/darihana",
     "isDynamicEntry": true,
@@ -33854,11 +33911,11 @@
       "assets/18-cena-siropa-Q8h6HP2V.webp",
       "assets/19-oplata-siropa-Bjy8545Y.webp",
       "assets/20-s-siropom-CVa6rBip.webp",
-      "assets/darihana-texts-0f1b822d2a56.json"
+      "assets/darihana-texts-c31b5b8efc58.json"
     ]
   },
   "virtual:kz-content/pack/dvor": {
-    "file": "assets/dvor-DdNJlPO4.js",
+    "file": "assets/dvor-CJs_SD2Y.js",
     "name": "dvor",
     "src": "virtual:kz-content/pack/dvor",
     "isDynamicEntry": true,
@@ -33891,11 +33948,11 @@
       "assets/26-miska-dlya-kota-DqEKFLQZ.webp",
       "assets/27-ryzhiy-kot-AP6wblWr.webp",
       "assets/28-sosedka-blagodarit-ihjM9cab.webp",
-      "assets/dvor-texts-0ea026b71dfa.json"
+      "assets/dvor-texts-a72592918e15.json"
     ]
   },
   "virtual:kz-content/pack/emhana": {
-    "file": "assets/emhana-z4903jj4.js",
+    "file": "assets/emhana-XqspP_kq.js",
     "name": "emhana",
     "src": "virtual:kz-content/pack/emhana",
     "isDynamicEntry": true,
@@ -33917,11 +33974,11 @@
       "assets/15-vtoroy-etazh-Bdz8QR2_.webp",
       "assets/16-talon-ByM8FWS5.webp",
       "assets/17-vyhod-s-talonom-BWJ5M1QN.webp",
-      "assets/emhana-texts-09140098e0dc.json"
+      "assets/emhana-texts-3f17330f22c3.json"
     ]
   },
   "virtual:kz-content/pack/expo": {
-    "file": "assets/expo-O4fnn8NR.js",
+    "file": "assets/expo-T7Tdwq5k.js",
     "name": "expo",
     "src": "virtual:kz-content/pack/expo",
     "isDynamicEntry": true,
@@ -33944,11 +34001,11 @@
       "assets/16-vystavka-q-XM3UVy.webp",
       "assets/17-tretiy-etazh-1G61a9qP.webp",
       "assets/18-audiogid-CzpH7mQ8.webp",
-      "assets/expo-texts-b94123761b1d.json"
+      "assets/expo-texts-9fb4137e2476.json"
     ]
   },
   "virtual:kz-content/pack/futbol-match": {
-    "file": "assets/futbol-match-4HzDsa-S.js",
+    "file": "assets/futbol-match-DPDX5srA.js",
     "name": "futbol-match",
     "src": "virtual:kz-content/pack/futbol-match",
     "isDynamicEntry": true,
@@ -33985,11 +34042,11 @@
       "assets/30-papa-u-kioska-71i63kWY.webp",
       "assets/31-novyy-sharf-B_9lLKlw.webp",
       "assets/32-vtoroy-taym-Cl8tT4wE.webp",
-      "assets/futbol-match-texts-a276184ec890.json"
+      "assets/futbol-match-texts-668d0051b1fc.json"
     ]
   },
   "virtual:kz-content/pack/gul-dukeni": {
-    "file": "assets/gul-dukeni-BpXROSYp.js",
+    "file": "assets/gul-dukeni-D7xyWxFi.js",
     "name": "gul-dukeni",
     "src": "virtual:kz-content/pack/gul-dukeni",
     "isDynamicEntry": true,
@@ -34011,11 +34068,11 @@
       "assets/15-belye-zheltye-CQEd4WuI.webp",
       "assets/16-tri-shtuki-C0NXCX56.webp",
       "assets/17-bez-obertki-Bl-9GjTO.webp",
-      "assets/gul-dukeni-texts-98f1bd1d2df4.json"
+      "assets/gul-dukeni-texts-5ac15d977d68.json"
     ]
   },
   "virtual:kz-content/pack/hokkei": {
-    "file": "assets/hokkei-B-JfOfCd.js",
+    "file": "assets/hokkei-CePWEJjz.js",
     "name": "hokkei",
     "src": "virtual:kz-content/pack/hokkei",
     "isDynamicEntry": true,
@@ -34038,11 +34095,11 @@
       "assets/16-snova-na-tribunu-CDuUWYoe.webp",
       "assets/17-pobeda-D4a4tzyN.webp",
       "assets/18-vyhod-iz-areny-DU5CRPic.webp",
-      "assets/hokkei-texts-f8dc2b286c98.json"
+      "assets/hokkei-texts-f458584f7502.json"
     ]
   },
   "virtual:kz-content/pack/hqko": {
-    "file": "assets/hqko-Deod8z-i.js",
+    "file": "assets/hqko-Ce5Xp-mW.js",
     "name": "hqko",
     "src": "virtual:kz-content/pack/hqko",
     "isDynamicEntry": true,
@@ -34063,11 +34120,11 @@
       "assets/14-zabyl-dokument-TW_QxYW6.webp",
       "assets/15-otec-prishel-CeAR5AtF.webp",
       "assets/16-snova-u-okna-CFLViKRF.webp",
-      "assets/hqko-texts-07906ea29e87.json"
+      "assets/hqko-texts-918ad100baf5.json"
     ]
   },
   "virtual:kz-content/pack/kafe": {
-    "file": "assets/kafe-DZNBj2L2.js",
+    "file": "assets/kafe-C44My8XT.js",
     "name": "kafe",
     "src": "virtual:kz-content/pack/kafe",
     "isDynamicEntry": true,
@@ -34089,11 +34146,11 @@
       "assets/15-novyy-podnos-2yXh7l7y.webp",
       "assets/16-edim-s-papoy-DEcU2Xrt.webp",
       "assets/17-vyhod-iz-burgernoy-C02SXTXN.webp",
-      "assets/kafe-texts-d22d7c95dd8e.json"
+      "assets/kafe-texts-cd4b568076b8.json"
     ]
   },
   "virtual:kz-content/pack/kiim-dukeni": {
-    "file": "assets/kiim-dukeni-CrDMHu7Y.js",
+    "file": "assets/kiim-dukeni-CkDv0xeD.js",
     "name": "kiim-dukeni",
     "src": "virtual:kz-content/pack/kiim-dukeni",
     "isDynamicEntry": true,
@@ -34120,11 +34177,11 @@
       "assets/20-cheaper-m9hs_BIS.webp",
       "assets/21-other-pair-hU5nuFEj.webp",
       "assets/22-shoes-farewell-CIbYRq-i.webp",
-      "assets/kiim-dukeni-texts-b82c636510a3.json"
+      "assets/kiim-dukeni-texts-b93e48facf18.json"
     ]
   },
   "virtual:kz-content/pack/kino": {
-    "file": "assets/kino-DTIfNZCh.js",
+    "file": "assets/kino-B8lsUZPt.js",
     "name": "kino",
     "src": "virtual:kz-content/pack/kino",
     "isDynamicEntry": true,
@@ -34147,11 +34204,11 @@
       "assets/16-popkorn-Bysxl2ey.webp",
       "assets/17-smotrim-film-CPbuUDtZ.webp",
       "assets/18-posle-filma-CtQo5mOo.webp",
-      "assets/kino-texts-db75e39879c5.json"
+      "assets/kino-texts-b6d693f08330.json"
     ]
   },
   "virtual:kz-content/pack/kitaphana": {
-    "file": "assets/kitaphana-BsqardZO.js",
+    "file": "assets/kitaphana-D4efDjTQ.js",
     "name": "kitaphana",
     "src": "virtual:kz-content/pack/kitaphana",
     "isDynamicEntry": true,
@@ -34179,11 +34236,11 @@
       "assets/21-vtoroy-zal-DCMJ7G20.webp",
       "assets/22-verhnyaya-polka-C0llVcem.webp",
       "assets/23-zapis-knigi-B0Pb1PL-.webp",
-      "assets/kitaphana-texts-d56da35ab5d6.json"
+      "assets/kitaphana-texts-ee76bea7d8fa.json"
     ]
   },
   "virtual:kz-content/pack/kvartira": {
-    "file": "assets/kvartira-RVHTLOxq.js",
+    "file": "assets/kvartira-CrCj-wBA.js",
     "name": "kvartira",
     "src": "virtual:kz-content/pack/kvartira",
     "isDynamicEntry": true,
@@ -34333,12 +34390,12 @@
       "assets/hall-night-DQ_wm1Sd.webp",
       "assets/map-Bb315wNf.svg",
       "assets/player-CMsGc4B_.svg",
-      "assets/kvartira-texts-b4352613b18b.json"
+      "assets/kvartira-texts-927503825255.json"
     ],
     "isHub": true
   },
   "virtual:kz-content/pack/magazin": {
-    "file": "assets/magazin-CzcOL9HQ.js",
+    "file": "assets/magazin-D_ghHEK4.js",
     "name": "magazin",
     "src": "virtual:kz-content/pack/magazin",
     "isDynamicEntry": true,
@@ -34380,11 +34437,11 @@
       "assets/35-pereschet-B2KNM7Fj.webp",
       "assets/36-sto-tenge-CFmw8WKQ.webp",
       "assets/37-vse-horosho-CGqYFFvU.webp",
-      "assets/magazin-texts-77e779aa6f86.json"
+      "assets/magazin-texts-58bb870b1f7c.json"
     ]
   },
   "virtual:kz-content/pack/mektep": {
-    "file": "assets/mektep-DbjZRKoW.js",
+    "file": "assets/mektep-BZLJ0OZt.js",
     "name": "mektep",
     "src": "virtual:kz-content/pack/mektep",
     "isDynamicEntry": true,
@@ -34412,11 +34469,11 @@
       "assets/21-fizkultura-Dqj_RLUS.webp",
       "assets/22-spasibo-apai-2wE7Qrih.webp",
       "assets/23-u-vorot-shkoly-DsV7Vgjy.webp",
-      "assets/mektep-texts-553f7902e9ab.json"
+      "assets/mektep-texts-031b7af3b6b3.json"
     ]
   },
   "virtual:kz-content/pack/muz-aidyn": {
-    "file": "assets/muz-aidyn-DU6ehdF7.js",
+    "file": "assets/muz-aidyn-DKUvQ--M.js",
     "name": "muz-aidyn",
     "src": "virtual:kz-content/pack/muz-aidyn",
     "isDynamicEntry": true,
@@ -34441,11 +34498,11 @@
       "assets/18-desyat-minut-DnqBA4Wq.webp",
       "assets/19-konets-DYaI1cOw.webp",
       "assets/20-vozvrat-Bhs3_c0C.webp",
-      "assets/muz-aidyn-texts-fe11635cb98e.json"
+      "assets/muz-aidyn-texts-980a09b792fb.json"
     ]
   },
   "virtual:kz-content/pack/muzei": {
-    "file": "assets/muzei-ClEQBxEe.js",
+    "file": "assets/muzei-C-09OMBU.js",
     "name": "muzei",
     "src": "virtual:kz-content/pack/muzei",
     "isDynamicEntry": true,
@@ -34469,11 +34526,11 @@
       "assets/17-tretiy-etazh-BQ1GlUku.webp",
       "assets/18-uchitelnica-BEIRurXc.webp",
       "assets/19-ryukzak-DovM7Zh8.webp",
-      "assets/muzei-texts-86bd97744605.json"
+      "assets/muzei-texts-e5f7552e6e76.json"
     ]
   },
   "virtual:kz-content/pack/okeanarium": {
-    "file": "assets/okeanarium-Bcy-91bs.js",
+    "file": "assets/okeanarium-3U61wdms.js",
     "name": "okeanarium",
     "src": "virtual:kz-content/pack/okeanarium",
     "isDynamicEntry": true,
@@ -34498,11 +34555,11 @@
       "assets/18-foto-4-DTNz57dC.webp",
       "assets/19-shapka-BC8IpZKp.webp",
       "assets/20-shapka-vhod-CvA6OdJC.webp",
-      "assets/okeanarium-texts-316b81d45beb.json"
+      "assets/okeanarium-texts-1b64b9cdb9b4.json"
     ]
   },
   "virtual:kz-content/pack/pochta": {
-    "file": "assets/pochta-C2lF-3DL.js",
+    "file": "assets/pochta-DQc5x7w-.js",
     "name": "pochta",
     "src": "virtual:kz-content/pack/pochta",
     "isDynamicEntry": true,
@@ -34527,11 +34584,11 @@
       "assets/18-tyazhelaya-korobka-BgLRh_bo.webp",
       "assets/19-spasibo-operatoru-DsiDEn9V.webp",
       "assets/20-s-posylkoy-3NmWoitk.webp",
-      "assets/pochta-texts-1ee963f99eb5.json"
+      "assets/pochta-texts-7dc2917c10eb.json"
     ]
   },
   "virtual:kz-content/pack/saiabaq": {
-    "file": "assets/saiabaq-Cr-0Be_d.js",
+    "file": "assets/saiabaq-uiblsiVd.js",
     "name": "saiabaq",
     "src": "virtual:kz-content/pack/saiabaq",
     "isDynamicEntry": true,
@@ -34564,11 +34621,11 @@
       "assets/26-vernut-syuda-DvLZeoDL.webp",
       "assets/27-poehali-DGVAZ1F-.webp",
       "assets/28-na-samokate-jIYM7W34.webp",
-      "assets/saiabaq-texts-db128fa8da79.json"
+      "assets/saiabaq-texts-7ba84f01cf8b.json"
     ]
   },
   "virtual:kz-content/pack/sana": {
-    "file": "assets/sana-CBf_Y0Vt.js",
+    "file": "assets/sana-DnxM66aW.js",
     "name": "sana",
     "src": "virtual:kz-content/pack/sana",
     "isDynamicEntry": true,
@@ -34592,11 +34649,11 @@
       "assets/17-kuda-povernut-CyOHmp6-.webp",
       "assets/18-ekran-i-robot-CxEgBVI4.webp",
       "assets/19-sosed-za-stolom-CwEZOI6x.webp",
-      "assets/sana-texts-7c904c0f7cd6.json"
+      "assets/sana-texts-b76e78cebe8d.json"
     ]
   },
   "virtual:kz-content/pack/sauda-ortalygy": {
-    "file": "assets/sauda-ortalygy-DNRKNeHz.js",
+    "file": "assets/sauda-ortalygy-Cs5OFaPN.js",
     "name": "sauda-ortalygy",
     "src": "virtual:kz-content/pack/sauda-ortalygy",
     "isDynamicEntry": true,
@@ -34632,11 +34689,11 @@
       "assets/29-kassa-odezhdy-CCjwSPBY.webp",
       "assets/30-net-deneg-kurtka-kVZBf3Q1.webp",
       "assets/31-paket-s-kurtkoy--5Bu7Zm0.webp",
-      "assets/sauda-ortalygy-texts-5346a9a628b9.json"
+      "assets/sauda-ortalygy-texts-bdd61e43a06e.json"
     ]
   },
   "virtual:kz-content/pack/shashtaraz": {
-    "file": "assets/shashtaraz-C5Ix9l3n.js",
+    "file": "assets/shashtaraz-dh2s09EK.js",
     "name": "shashtaraz",
     "src": "virtual:kz-content/pack/shashtaraz",
     "isDynamicEntry": true,
@@ -34659,11 +34716,11 @@
       "assets/16-gotovo-BtCjt2HC.webp",
       "assets/17-oplata-strizhki-Cm_jHXY5.webp",
       "assets/18-novaya-strizhka-CnTQWMTu.webp",
-      "assets/shashtaraz-texts-70cf9a447113.json"
+      "assets/shashtaraz-texts-653a59bc833b.json"
     ]
   },
   "virtual:kz-content/pack/sirk": {
-    "file": "assets/sirk-CIKj6_X9.js",
+    "file": "assets/sirk-Ctrx4iPG.js",
     "name": "sirk",
     "src": "virtual:kz-content/pack/sirk",
     "isDynamicEntry": true,
@@ -34686,11 +34743,11 @@
       "assets/16-finale-DnIr0PB9.webp",
       "assets/17-short-Bm6xYH-1.webp",
       "assets/18-farewell-DQrF1RRW.webp",
-      "assets/sirk-texts-42a5a2f59c8d.json"
+      "assets/sirk-texts-ff43e00b81fc.json"
     ]
   },
   "virtual:kz-content/pack/sport-klub": {
-    "file": "assets/sport-klub-Bt3QGXuy.js",
+    "file": "assets/sport-klub-D6j62Nz3.js",
     "name": "sport-klub",
     "src": "virtual:kz-content/pack/sport-klub",
     "isDynamicEntry": true,
@@ -34714,11 +34771,11 @@
       "assets/17-shower-BQFQo7L0.webp",
       "assets/18-leave-CfOkDy9c.webp",
       "assets/19-farewell-eAH_t8uT.webp",
-      "assets/sport-klub-texts-82e50b75f1bb.json"
+      "assets/sport-klub-texts-0a149f42ccd6.json"
     ]
   },
   "virtual:kz-content/pack/stomatolog": {
-    "file": "assets/stomatolog-DCjYx7om.js",
+    "file": "assets/stomatolog-kkrFX2GD.js",
     "name": "stomatolog",
     "src": "virtual:kz-content/pack/stomatolog",
     "isDynamicEntry": true,
@@ -34744,11 +34801,11 @@
       "assets/19-molodec-CRD7aEwE.webp",
       "assets/20-nakleika-BG-QD-Se.webp",
       "assets/21-tomiris-raduetsya-DyIS0X1h.webp",
-      "assets/stomatolog-texts-5b223821479b.json"
+      "assets/stomatolog-texts-6a9907d0bec1.json"
     ]
   },
   "virtual:kz-content/pack/taksi": {
-    "file": "assets/taksi-BbmcdEIS.js",
+    "file": "assets/taksi-CZKvMZFZ.js",
     "name": "taksi",
     "src": "virtual:kz-content/pack/taksi",
     "isDynamicEntry": true,
@@ -34782,11 +34839,11 @@
       "assets/27-priehali-teatr-Bnc1eL8v.webp",
       "assets/28-orientir-okeanarium-oQ7415aU.webp",
       "assets/29-priehali-okeanarium-OQh_Dhtp.webp",
-      "assets/taksi-texts-9a7bf4454cc1.json"
+      "assets/taksi-texts-e163a142e0fc.json"
     ]
   },
   "virtual:kz-content/pack/teatr": {
-    "file": "assets/teatr-CUBxFw8O.js",
+    "file": "assets/teatr-Cmrcid1-.js",
     "name": "teatr",
     "src": "virtual:kz-content/pack/teatr",
     "isDynamicEntry": true,
@@ -34807,11 +34864,11 @@
       "assets/14-opozdali-CM3eyo93.webp",
       "assets/15-u-dverey-xVVBAR9c.webp",
       "assets/16-balkon-ScNrbUBV.webp",
-      "assets/teatr-texts-27e409899f5e.json"
+      "assets/teatr-texts-1abfcc0dbd90.json"
     ]
   },
   "virtual:kz-content/pack/telefon-zhondeu": {
-    "file": "assets/telefon-zhondeu-F5Z6zf0F.js",
+    "file": "assets/telefon-zhondeu-hiXxGJeP.js",
     "name": "telefon-zhondeu",
     "src": "virtual:kz-content/pack/telefon-zhondeu",
     "isDynamicEntry": true,
@@ -34835,11 +34892,11 @@
       "assets/17-vydacha-DOxWyJ0w.webp",
       "assets/18-net-deneg-0t2uLWUG.webp",
       "assets/19-papa-CTmrYOQB.webp",
-      "assets/telefon-zhondeu-texts-4500c43b3e32.json"
+      "assets/telefon-zhondeu-texts-650a7f0cd344.json"
     ]
   },
   "virtual:kz-content/pack/velo-park": {
-    "file": "assets/velo-park-DNqRwrAg.js",
+    "file": "assets/velo-park-CfzNxAhI.js",
     "name": "velo-park",
     "src": "virtual:kz-content/pack/velo-park",
     "isDynamicEntry": true,
@@ -34864,11 +34921,11 @@
       "assets/18-snova-v-puti-pDX8yfoc.webp",
       "assets/19-lyudi-na-dorozhke-BgnrCE5y.webp",
       "assets/20-zvonok-na-rule-CIqGfzck.webp",
-      "assets/velo-park-texts-d51b7d9f95e1.json"
+      "assets/velo-park-texts-7eba42ee988b.json"
     ]
   },
   "virtual:kz-content/pack/vet": {
-    "file": "assets/vet-DQJ_R2bk.js",
+    "file": "assets/vet-DSu-kuvo.js",
     "name": "vet",
     "src": "virtual:kz-content/pack/vet",
     "isDynamicEntry": true,
@@ -34891,11 +34948,11 @@
       "assets/16-cat-ointment-hTR0NTXi.webp",
       "assets/17-cat-home-D-t2xXZ9.webp",
       "assets/18-farewell-B93X6gwd.webp",
-      "assets/vet-texts-434d614a5abd.json"
+      "assets/vet-texts-824ec0761665.json"
     ]
   },
   "virtual:kz-content/pack/vokzal": {
-    "file": "assets/vokzal-BekQOBP-.js",
+    "file": "assets/vokzal-DKZEM9EP.js",
     "name": "vokzal",
     "src": "virtual:kz-content/pack/vokzal",
     "isDynamicEntry": true,
@@ -34920,11 +34977,11 @@
       "assets/18-obyavlenie-OdgNtwTQ.webp",
       "assets/19-bystro-na-platformu-CG4Tu3dR.webp",
       "assets/20-tretya-platforma-BOmH1K20.webp",
-      "assets/vokzal-texts-1bfb9ac0217b.json"
+      "assets/vokzal-texts-50620b156191.json"
     ]
   },
   "virtual:kz-content/pack/zoo-dukeni": {
-    "file": "assets/zoo-dukeni-DlO2wmP5.js",
+    "file": "assets/zoo-dukeni-BGIHy3yb.js",
     "name": "zoo-dukeni",
     "src": "virtual:kz-content/pack/zoo-dukeni",
     "isDynamicEntry": true,
@@ -34947,11 +35004,11 @@
       "assets/16-malenkii-akvarium-6oerXq2g.webp",
       "assets/17-kassa-rybka-DBPG4F7j.webp",
       "assets/18-homyaki-D-1P7Sg0.webp",
-      "assets/zoo-dukeni-texts-b3a410bbe34f.json"
+      "assets/zoo-dukeni-texts-9a053dc3cc3c.json"
     ]
   },
   "virtual:kz-content/sources": {
-    "file": "assets/sources-BExzwZV7.js",
+    "file": "assets/sources-SUONAV_n.js",
     "name": "sources",
     "src": "virtual:kz-content/sources",
     "isDynamicEntry": true
@@ -34968,7 +35025,7 @@
     ]
   },
   "voice-test.html": {
-    "file": "assets/voice-DP3gIykP.js",
+    "file": "assets/voice-CPnK5sj-.js",
     "name": "voice",
     "src": "voice-test.html",
     "isEntry": true,

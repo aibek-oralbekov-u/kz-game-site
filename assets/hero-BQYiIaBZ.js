@@ -1,0 +1,1 @@
+import{t as e}from"./progression-C0D_wDVC.js";import{m as t}from"./dom-BoIfGjht.js";function n(n,r){return t(e(n,r))}export{n as t};

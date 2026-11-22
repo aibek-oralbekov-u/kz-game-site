@@ -3,7 +3,7 @@
   "short_name": "Менің қалам",
   "start_url": "/",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "any",
   "background_color": "#201346",
   "theme_color": "#201346",
   "icons": [
