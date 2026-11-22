@@ -6,8 +6,8 @@
       "assets/pcm-worklet-BKv0oORP.js"
     ]
   },
-  "_dialogue-BCYSw57W.js": {
-    "file": "assets/dialogue-BCYSw57W.js",
+  "_dialogue-DGq32kX3.js": {
+    "file": "assets/dialogue-DGq32kX3.js",
     "name": "dialogue",
     "imports": [
       "_dom-U3MR2Mxo.js",
@@ -28380,13 +28380,13 @@
     "src": "content/locations/gul-dukeni/voice/fd55d4fe3df6.mp3"
   },
   "index.html": {
-    "file": "assets/game-CERL0wVJ.js",
+    "file": "assets/game-BqbXrRx4.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
     "imports": [
       "_dom-U3MR2Mxo.js",
-      "_dialogue-BCYSw57W.js",
+      "_dialogue-DGq32kX3.js",
       "_economy-C2_1RR1j.js",
       "_voice-messages-BIce0OlC.js"
     ],
@@ -28443,7 +28443,7 @@
       "src/ui/screens/voice.ts"
     ],
     "css": [
-      "assets/game-Bc13BDXz.css"
+      "assets/game-CRgtvPqi.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -28519,12 +28519,12 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-D8fMliBt.js",
+    "file": "assets/world-CgmA15JS.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_dialogue-BCYSw57W.js",
+      "_dialogue-DGq32kX3.js",
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-U3MR2Mxo.js",
@@ -28534,7 +28534,7 @@
       "_voice-messages-BIce0OlC.js"
     ],
     "css": [
-      "assets/world-Bg86wbSU.css"
+      "assets/world-BSrWZub8.css"
     ]
   },
   "src/ui/transition.ts": {
@@ -28839,7 +28839,7 @@
     "src": "ui-assets/splash-portrait.webp"
   },
   "virtual:kz-content/pack/aeroport": {
-    "file": "assets/aeroport-CVj4mmlC.js",
+    "file": "assets/aeroport-BbBgUIRc.js",
     "name": "aeroport",
     "src": "virtual:kz-content/pack/aeroport",
     "isDynamicEntry": true,
@@ -28864,11 +28864,11 @@
       "assets/17-posadochnyy-talon-lnzHb1A_.webp",
       "assets/18-spasibo-za-registraciyu-B-inuJ2U.webp",
       "assets/19-k-dosmotru-DAG4IUK_.webp",
-      "assets/aeroport-texts-32c60c9dcb41.json"
+      "assets/aeroport-texts-b6dde68033f0.json"
     ]
   },
   "virtual:kz-content/pack/asxana": {
-    "file": "assets/asxana-C-KG038q.js",
+    "file": "assets/asxana-AXBThILJ.js",
     "name": "asxana",
     "src": "virtual:kz-content/pack/asxana",
     "isDynamicEntry": true,
@@ -28891,11 +28891,11 @@
       "assets/16-net-soka-Cqs645l1.webp",
       "assets/17-prines-BiZeU-y0.webp",
       "assets/18-vse-pravilno-CGDFtoy0.webp",
-      "assets/asxana-texts-9b14dddbd6b2.json"
+      "assets/asxana-texts-b9e1592b443c.json"
     ]
   },
   "virtual:kz-content/pack/aurukhana": {
-    "file": "assets/aurukhana-D8xES3oD.js",
+    "file": "assets/aurukhana-CQUUXcw5.js",
     "name": "aurukhana",
     "src": "virtual:kz-content/pack/aurukhana",
     "isDynamicEntry": true,
@@ -28917,11 +28917,11 @@
       "assets/15-get-well-C8r7zBW0.webp",
       "assets/16-father-ThhXgMZq.webp",
       "assets/17-farewell-BrwDLfdu.webp",
-      "assets/aurukhana-texts-75a7973bf703.json"
+      "assets/aurukhana-texts-61cc28d97a13.json"
     ]
   },
   "virtual:kz-content/pack/avtobus": {
-    "file": "assets/avtobus-DCXRqCi1.js",
+    "file": "assets/avtobus-VuwTak5r.js",
     "name": "avtobus",
     "src": "virtual:kz-content/pack/avtobus",
     "isDynamicEntry": true,
@@ -28950,11 +28950,11 @@
       "assets/22-obyavlenie-ostanovki-CBwYb31s.webp",
       "assets/23-ostanovka-tsirk-DxiY1juN.webp",
       "assets/24-ostanovka-arena-DnFInv-B.webp",
-      "assets/avtobus-texts-68d121be57c5.json"
+      "assets/avtobus-texts-61162acc026e.json"
     ]
   },
   "virtual:kz-content/pack/balabaqsha": {
-    "file": "assets/balabaqsha-TTiEWmVs.js",
+    "file": "assets/balabaqsha-S9PtP69F.js",
     "name": "balabaqsha",
     "src": "virtual:kz-content/pack/balabaqsha",
     "isDynamicEntry": true,
@@ -28977,11 +28977,11 @@
       "assets/16-eshche-poigrayu-DWuDccwg.webp",
       "assets/17-gruppa-BKzpos5G.webp",
       "assets/18-rano-CoaEshtI.webp",
-      "assets/balabaqsha-texts-eaca1c4b77c8.json"
+      "assets/balabaqsha-texts-d7ddf2c0b7d5.json"
     ]
   },
   "virtual:kz-content/pack/bank": {
-    "file": "assets/bank-B8nPvek_.js",
+    "file": "assets/bank-FBjWrOPh.js",
     "name": "bank",
     "src": "virtual:kz-content/pack/bank",
     "isDynamicEntry": true,
@@ -29006,11 +29006,11 @@
       "assets/18-drugoy-bankomat-Daa3xi3d.webp",
       "assets/19-poluchilos-C3-qXSFH.webp",
       "assets/20-vyhod-bankomat-DtyFgov0.webp",
-      "assets/bank-texts-e889ff7c0149.json"
+      "assets/bank-texts-9161f60e5f09.json"
     ]
   },
   "virtual:kz-content/pack/bassein": {
-    "file": "assets/bassein-CQWIp0Mn.js",
+    "file": "assets/bassein-DWqb-IDa.js",
     "name": "bassein",
     "src": "virtual:kz-content/pack/bassein",
     "isDynamicEntry": true,
@@ -29036,11 +29036,11 @@
       "assets/19-u-vtoroy-dorozhki-CWY9O-Nt.webp",
       "assets/20-zhdat-trenera-BqKAoeWO.webp",
       "assets/21-trener-prishyol-C9wB7QqX.webp",
-      "assets/bassein-texts-5a743335587f.json"
+      "assets/bassein-texts-b6a9160e1805.json"
     ]
   },
   "virtual:kz-content/pack/batut": {
-    "file": "assets/batut-Bc_cgH2G.js",
+    "file": "assets/batut-BiZziw3X.js",
     "name": "batut",
     "src": "virtual:kz-content/pack/batut",
     "isDynamicEntry": true,
@@ -29064,11 +29064,11 @@
       "assets/17-butylka-vody-DQT4aXz8.webp",
       "assets/18-snova-prygaem-B0J5FfCl.webp",
       "assets/19-dai-pyat-DIMqgKXI.webp",
-      "assets/batut-texts-cbcc78dfe7eb.json"
+      "assets/batut-texts-14991d7a0e1b.json"
     ]
   },
   "virtual:kz-content/pack/bayterek": {
-    "file": "assets/bayterek-DvLZDmBC.js",
+    "file": "assets/bayterek-CBrwTbkh.js",
     "name": "bayterek",
     "src": "virtual:kz-content/pack/bayterek",
     "isDynamicEntry": true,
@@ -29090,11 +29090,11 @@
       "assets/15-foto-u-okna-CIQ0Uvum.webp",
       "assets/16-lift-vniz-DEWt7sDX.webp",
       "assets/17-u-podnozhiya-Drin-MFT.webp",
-      "assets/bayterek-texts-a8f61b7772f1.json"
+      "assets/bayterek-texts-222f6fa340c0.json"
     ]
   },
   "virtual:kz-content/pack/bazar": {
-    "file": "assets/bazar-D5oYyzCc.js",
+    "file": "assets/bazar-0izqTkSr.js",
     "name": "bazar",
     "src": "virtual:kz-content/pack/bazar",
     "isDynamicEntry": true,
@@ -29118,11 +29118,11 @@
       "assets/17-paket-yablok-BtLzhYyR.webp",
       "assets/18-babushka-s-yablokami-BujqDwdx.webp",
       "assets/19-ryady-bazara-MQ00hUq6.webp",
-      "assets/bazar-texts-d20e15bc067a.json"
+      "assets/bazar-texts-6beaf9351964.json"
     ]
   },
   "virtual:kz-content/pack/botanika": {
-    "file": "assets/botanika-b2Q8v7YR.js",
+    "file": "assets/botanika-8D10eXD_.js",
     "name": "botanika",
     "src": "virtual:kz-content/pack/botanika",
     "isDynamicEntry": true,
@@ -29149,11 +29149,11 @@
       "assets/20-eshche-raz-B-LlQKpw.webp",
       "assets/21-kafe-sada-BbtXKUKb.webp",
       "assets/22-net-deneg-morozhenoe-F7yLmgi9.webp",
-      "assets/botanika-texts-9da72a687323.json"
+      "assets/botanika-texts-5b41120cd70e.json"
     ]
   },
   "virtual:kz-content/pack/darihana": {
-    "file": "assets/darihana-DCtihpKi.js",
+    "file": "assets/darihana-BEHgnrmS.js",
     "name": "darihana",
     "src": "virtual:kz-content/pack/darihana",
     "isDynamicEntry": true,
@@ -29178,11 +29178,11 @@
       "assets/18-cena-siropa-Q8h6HP2V.webp",
       "assets/19-oplata-siropa-Bjy8545Y.webp",
       "assets/20-s-siropom-CVa6rBip.webp",
-      "assets/darihana-texts-72f2754830cc.json"
+      "assets/darihana-texts-0f1b822d2a56.json"
     ]
   },
   "virtual:kz-content/pack/dvor": {
-    "file": "assets/dvor-DSXvp0AW.js",
+    "file": "assets/dvor-DdNJlPO4.js",
     "name": "dvor",
     "src": "virtual:kz-content/pack/dvor",
     "isDynamicEntry": true,
@@ -29215,11 +29215,11 @@
       "assets/26-miska-dlya-kota-DqEKFLQZ.webp",
       "assets/27-ryzhiy-kot-AP6wblWr.webp",
       "assets/28-sosedka-blagodarit-ihjM9cab.webp",
-      "assets/dvor-texts-8b7966f5723a.json"
+      "assets/dvor-texts-0ea026b71dfa.json"
     ]
   },
   "virtual:kz-content/pack/emhana": {
-    "file": "assets/emhana-CHrV2Mb1.js",
+    "file": "assets/emhana-z4903jj4.js",
     "name": "emhana",
     "src": "virtual:kz-content/pack/emhana",
     "isDynamicEntry": true,
@@ -29241,11 +29241,11 @@
       "assets/15-vtoroy-etazh-Bdz8QR2_.webp",
       "assets/16-talon-ByM8FWS5.webp",
       "assets/17-vyhod-s-talonom-BWJ5M1QN.webp",
-      "assets/emhana-texts-9b1f4ef05b88.json"
+      "assets/emhana-texts-09140098e0dc.json"
     ]
   },
   "virtual:kz-content/pack/expo": {
-    "file": "assets/expo-BejzBYpx.js",
+    "file": "assets/expo-O4fnn8NR.js",
     "name": "expo",
     "src": "virtual:kz-content/pack/expo",
     "isDynamicEntry": true,
@@ -29268,11 +29268,11 @@
       "assets/16-vystavka-q-XM3UVy.webp",
       "assets/17-tretiy-etazh-1G61a9qP.webp",
       "assets/18-audiogid-CzpH7mQ8.webp",
-      "assets/expo-texts-d85f4097c16e.json"
+      "assets/expo-texts-b94123761b1d.json"
     ]
   },
   "virtual:kz-content/pack/futbol-match": {
-    "file": "assets/futbol-match-D40DZUfj.js",
+    "file": "assets/futbol-match-4HzDsa-S.js",
     "name": "futbol-match",
     "src": "virtual:kz-content/pack/futbol-match",
     "isDynamicEntry": true,
@@ -29309,11 +29309,11 @@
       "assets/30-papa-u-kioska-71i63kWY.webp",
       "assets/31-novyy-sharf-B_9lLKlw.webp",
       "assets/32-vtoroy-taym-Cl8tT4wE.webp",
-      "assets/futbol-match-texts-329eb61a31a3.json"
+      "assets/futbol-match-texts-a276184ec890.json"
     ]
   },
   "virtual:kz-content/pack/gul-dukeni": {
-    "file": "assets/gul-dukeni-CvWgMQYI.js",
+    "file": "assets/gul-dukeni-BpXROSYp.js",
     "name": "gul-dukeni",
     "src": "virtual:kz-content/pack/gul-dukeni",
     "isDynamicEntry": true,
@@ -29335,11 +29335,11 @@
       "assets/15-belye-zheltye-CQEd4WuI.webp",
       "assets/16-tri-shtuki-C0NXCX56.webp",
       "assets/17-bez-obertki-Bl-9GjTO.webp",
-      "assets/gul-dukeni-texts-397aafdc61c7.json"
+      "assets/gul-dukeni-texts-98f1bd1d2df4.json"
     ]
   },
   "virtual:kz-content/pack/hokkei": {
-    "file": "assets/hokkei-DHMYuzYb.js",
+    "file": "assets/hokkei-B-JfOfCd.js",
     "name": "hokkei",
     "src": "virtual:kz-content/pack/hokkei",
     "isDynamicEntry": true,
@@ -29362,11 +29362,11 @@
       "assets/16-snova-na-tribunu-CDuUWYoe.webp",
       "assets/17-pobeda-D4a4tzyN.webp",
       "assets/18-vyhod-iz-areny-DU5CRPic.webp",
-      "assets/hokkei-texts-3f585271f437.json"
+      "assets/hokkei-texts-f8dc2b286c98.json"
     ]
   },
   "virtual:kz-content/pack/hqko": {
-    "file": "assets/hqko-DlgyO0c9.js",
+    "file": "assets/hqko-Deod8z-i.js",
     "name": "hqko",
     "src": "virtual:kz-content/pack/hqko",
     "isDynamicEntry": true,
@@ -29387,11 +29387,11 @@
       "assets/14-zabyl-dokument-TW_QxYW6.webp",
       "assets/15-otec-prishel-CeAR5AtF.webp",
       "assets/16-snova-u-okna-CFLViKRF.webp",
-      "assets/hqko-texts-9f27b069e883.json"
+      "assets/hqko-texts-07906ea29e87.json"
     ]
   },
   "virtual:kz-content/pack/kafe": {
-    "file": "assets/kafe-Dxtsl3yn.js",
+    "file": "assets/kafe-DZNBj2L2.js",
     "name": "kafe",
     "src": "virtual:kz-content/pack/kafe",
     "isDynamicEntry": true,
@@ -29413,11 +29413,11 @@
       "assets/15-novyy-podnos-2yXh7l7y.webp",
       "assets/16-edim-s-papoy-DEcU2Xrt.webp",
       "assets/17-vyhod-iz-burgernoy-C02SXTXN.webp",
-      "assets/kafe-texts-ac353d13b276.json"
+      "assets/kafe-texts-d22d7c95dd8e.json"
     ]
   },
   "virtual:kz-content/pack/kiim-dukeni": {
-    "file": "assets/kiim-dukeni-DxqOtMqb.js",
+    "file": "assets/kiim-dukeni-CrDMHu7Y.js",
     "name": "kiim-dukeni",
     "src": "virtual:kz-content/pack/kiim-dukeni",
     "isDynamicEntry": true,
@@ -29444,11 +29444,11 @@
       "assets/20-cheaper-m9hs_BIS.webp",
       "assets/21-other-pair-hU5nuFEj.webp",
       "assets/22-shoes-farewell-CIbYRq-i.webp",
-      "assets/kiim-dukeni-texts-362053b49e3e.json"
+      "assets/kiim-dukeni-texts-b82c636510a3.json"
     ]
   },
   "virtual:kz-content/pack/kino": {
-    "file": "assets/kino-CcWqMpfo.js",
+    "file": "assets/kino-DTIfNZCh.js",
     "name": "kino",
     "src": "virtual:kz-content/pack/kino",
     "isDynamicEntry": true,
@@ -29471,11 +29471,11 @@
       "assets/16-popkorn-Bysxl2ey.webp",
       "assets/17-smotrim-film-CPbuUDtZ.webp",
       "assets/18-posle-filma-CtQo5mOo.webp",
-      "assets/kino-texts-a03ac0d91dc4.json"
+      "assets/kino-texts-db75e39879c5.json"
     ]
   },
   "virtual:kz-content/pack/kitaphana": {
-    "file": "assets/kitaphana-to9A6ssP.js",
+    "file": "assets/kitaphana-BsqardZO.js",
     "name": "kitaphana",
     "src": "virtual:kz-content/pack/kitaphana",
     "isDynamicEntry": true,
@@ -29503,11 +29503,11 @@
       "assets/21-vtoroy-zal-DCMJ7G20.webp",
       "assets/22-verhnyaya-polka-C0llVcem.webp",
       "assets/23-zapis-knigi-B0Pb1PL-.webp",
-      "assets/kitaphana-texts-68fa036644e2.json"
+      "assets/kitaphana-texts-d56da35ab5d6.json"
     ]
   },
   "virtual:kz-content/pack/kvartira": {
-    "file": "assets/kvartira-6-hNhnN_.js",
+    "file": "assets/kvartira-RVHTLOxq.js",
     "name": "kvartira",
     "src": "virtual:kz-content/pack/kvartira",
     "isDynamicEntry": true,
@@ -29657,12 +29657,12 @@
       "assets/hall-night-DQ_wm1Sd.webp",
       "assets/map-Bb315wNf.svg",
       "assets/player-CMsGc4B_.svg",
-      "assets/kvartira-texts-23291c425f07.json"
+      "assets/kvartira-texts-b4352613b18b.json"
     ],
     "isHub": true
   },
   "virtual:kz-content/pack/magazin": {
-    "file": "assets/magazin-BNW0npPT.js",
+    "file": "assets/magazin-CzcOL9HQ.js",
     "name": "magazin",
     "src": "virtual:kz-content/pack/magazin",
     "isDynamicEntry": true,
@@ -29704,11 +29704,11 @@
       "assets/35-pereschet-B2KNM7Fj.webp",
       "assets/36-sto-tenge-CFmw8WKQ.webp",
       "assets/37-vse-horosho-CGqYFFvU.webp",
-      "assets/magazin-texts-a06f699c7e81.json"
+      "assets/magazin-texts-77e779aa6f86.json"
     ]
   },
   "virtual:kz-content/pack/mektep": {
-    "file": "assets/mektep-C_T5asOo.js",
+    "file": "assets/mektep-DbjZRKoW.js",
     "name": "mektep",
     "src": "virtual:kz-content/pack/mektep",
     "isDynamicEntry": true,
@@ -29736,11 +29736,11 @@
       "assets/21-fizkultura-Dqj_RLUS.webp",
       "assets/22-spasibo-apai-2wE7Qrih.webp",
       "assets/23-u-vorot-shkoly-DsV7Vgjy.webp",
-      "assets/mektep-texts-a7710a2578e6.json"
+      "assets/mektep-texts-553f7902e9ab.json"
     ]
   },
   "virtual:kz-content/pack/muz-aidyn": {
-    "file": "assets/muz-aidyn-CN7R7UEK.js",
+    "file": "assets/muz-aidyn-DU6ehdF7.js",
     "name": "muz-aidyn",
     "src": "virtual:kz-content/pack/muz-aidyn",
     "isDynamicEntry": true,
@@ -29765,11 +29765,11 @@
       "assets/18-desyat-minut-DnqBA4Wq.webp",
       "assets/19-konets-DYaI1cOw.webp",
       "assets/20-vozvrat-Bhs3_c0C.webp",
-      "assets/muz-aidyn-texts-a674fb20df3e.json"
+      "assets/muz-aidyn-texts-fe11635cb98e.json"
     ]
   },
   "virtual:kz-content/pack/muzei": {
-    "file": "assets/muzei-B8Omfly7.js",
+    "file": "assets/muzei-ClEQBxEe.js",
     "name": "muzei",
     "src": "virtual:kz-content/pack/muzei",
     "isDynamicEntry": true,
@@ -29793,11 +29793,11 @@
       "assets/17-tretiy-etazh-BQ1GlUku.webp",
       "assets/18-uchitelnica-BEIRurXc.webp",
       "assets/19-ryukzak-DovM7Zh8.webp",
-      "assets/muzei-texts-ba1ac4b91ad0.json"
+      "assets/muzei-texts-86bd97744605.json"
     ]
   },
   "virtual:kz-content/pack/okeanarium": {
-    "file": "assets/okeanarium-DtCPt3DR.js",
+    "file": "assets/okeanarium-Bcy-91bs.js",
     "name": "okeanarium",
     "src": "virtual:kz-content/pack/okeanarium",
     "isDynamicEntry": true,
@@ -29822,11 +29822,11 @@
       "assets/18-foto-4-DTNz57dC.webp",
       "assets/19-shapka-BC8IpZKp.webp",
       "assets/20-shapka-vhod-CvA6OdJC.webp",
-      "assets/okeanarium-texts-ba96e9c46d6f.json"
+      "assets/okeanarium-texts-316b81d45beb.json"
     ]
   },
   "virtual:kz-content/pack/pochta": {
-    "file": "assets/pochta-x0FbHus6.js",
+    "file": "assets/pochta-C2lF-3DL.js",
     "name": "pochta",
     "src": "virtual:kz-content/pack/pochta",
     "isDynamicEntry": true,
@@ -29851,11 +29851,11 @@
       "assets/18-tyazhelaya-korobka-BgLRh_bo.webp",
       "assets/19-spasibo-operatoru-DsiDEn9V.webp",
       "assets/20-s-posylkoy-3NmWoitk.webp",
-      "assets/pochta-texts-9e70ade450d0.json"
+      "assets/pochta-texts-1ee963f99eb5.json"
     ]
   },
   "virtual:kz-content/pack/saiabaq": {
-    "file": "assets/saiabaq-QGNvVWMe.js",
+    "file": "assets/saiabaq-Cr-0Be_d.js",
     "name": "saiabaq",
     "src": "virtual:kz-content/pack/saiabaq",
     "isDynamicEntry": true,
@@ -29888,11 +29888,11 @@
       "assets/26-vernut-syuda-DvLZeoDL.webp",
       "assets/27-poehali-DGVAZ1F-.webp",
       "assets/28-na-samokate-jIYM7W34.webp",
-      "assets/saiabaq-texts-2866ab422f35.json"
+      "assets/saiabaq-texts-db128fa8da79.json"
     ]
   },
   "virtual:kz-content/pack/sana": {
-    "file": "assets/sana-CFbond3p.js",
+    "file": "assets/sana-CBf_Y0Vt.js",
     "name": "sana",
     "src": "virtual:kz-content/pack/sana",
     "isDynamicEntry": true,
@@ -29916,11 +29916,11 @@
       "assets/17-kuda-povernut-CyOHmp6-.webp",
       "assets/18-ekran-i-robot-CxEgBVI4.webp",
       "assets/19-sosed-za-stolom-CwEZOI6x.webp",
-      "assets/sana-texts-6412f4c72351.json"
+      "assets/sana-texts-7c904c0f7cd6.json"
     ]
   },
   "virtual:kz-content/pack/sauda-ortalygy": {
-    "file": "assets/sauda-ortalygy-yal-Lk2E.js",
+    "file": "assets/sauda-ortalygy-DNRKNeHz.js",
     "name": "sauda-ortalygy",
     "src": "virtual:kz-content/pack/sauda-ortalygy",
     "isDynamicEntry": true,
@@ -29956,11 +29956,11 @@
       "assets/29-kassa-odezhdy-CCjwSPBY.webp",
       "assets/30-net-deneg-kurtka-kVZBf3Q1.webp",
       "assets/31-paket-s-kurtkoy--5Bu7Zm0.webp",
-      "assets/sauda-ortalygy-texts-5ff04680ed34.json"
+      "assets/sauda-ortalygy-texts-5346a9a628b9.json"
     ]
   },
   "virtual:kz-content/pack/shashtaraz": {
-    "file": "assets/shashtaraz-DtlPX99q.js",
+    "file": "assets/shashtaraz-C5Ix9l3n.js",
     "name": "shashtaraz",
     "src": "virtual:kz-content/pack/shashtaraz",
     "isDynamicEntry": true,
@@ -29983,11 +29983,11 @@
       "assets/16-gotovo-BtCjt2HC.webp",
       "assets/17-oplata-strizhki-Cm_jHXY5.webp",
       "assets/18-novaya-strizhka-CnTQWMTu.webp",
-      "assets/shashtaraz-texts-9411418c4cdb.json"
+      "assets/shashtaraz-texts-70cf9a447113.json"
     ]
   },
   "virtual:kz-content/pack/sirk": {
-    "file": "assets/sirk-Bt_S7KWk.js",
+    "file": "assets/sirk-CIKj6_X9.js",
     "name": "sirk",
     "src": "virtual:kz-content/pack/sirk",
     "isDynamicEntry": true,
@@ -30010,11 +30010,11 @@
       "assets/16-finale-DnIr0PB9.webp",
       "assets/17-short-Bm6xYH-1.webp",
       "assets/18-farewell-DQrF1RRW.webp",
-      "assets/sirk-texts-83e3986437c7.json"
+      "assets/sirk-texts-42a5a2f59c8d.json"
     ]
   },
   "virtual:kz-content/pack/sport-klub": {
-    "file": "assets/sport-klub-D0Kaxg5S.js",
+    "file": "assets/sport-klub-Bt3QGXuy.js",
     "name": "sport-klub",
     "src": "virtual:kz-content/pack/sport-klub",
     "isDynamicEntry": true,
@@ -30038,11 +30038,11 @@
       "assets/17-shower-BQFQo7L0.webp",
       "assets/18-leave-CfOkDy9c.webp",
       "assets/19-farewell-eAH_t8uT.webp",
-      "assets/sport-klub-texts-62b76c5d5826.json"
+      "assets/sport-klub-texts-82e50b75f1bb.json"
     ]
   },
   "virtual:kz-content/pack/stomatolog": {
-    "file": "assets/stomatolog-P2ypKO_0.js",
+    "file": "assets/stomatolog-DCjYx7om.js",
     "name": "stomatolog",
     "src": "virtual:kz-content/pack/stomatolog",
     "isDynamicEntry": true,
@@ -30068,11 +30068,11 @@
       "assets/19-molodec-CRD7aEwE.webp",
       "assets/20-nakleika-BG-QD-Se.webp",
       "assets/21-tomiris-raduetsya-DyIS0X1h.webp",
-      "assets/stomatolog-texts-c0c0975c5dd6.json"
+      "assets/stomatolog-texts-5b223821479b.json"
     ]
   },
   "virtual:kz-content/pack/taksi": {
-    "file": "assets/taksi-D3p6_zDo.js",
+    "file": "assets/taksi-BbmcdEIS.js",
     "name": "taksi",
     "src": "virtual:kz-content/pack/taksi",
     "isDynamicEntry": true,
@@ -30106,11 +30106,11 @@
       "assets/27-priehali-teatr-Bnc1eL8v.webp",
       "assets/28-orientir-okeanarium-oQ7415aU.webp",
       "assets/29-priehali-okeanarium-OQh_Dhtp.webp",
-      "assets/taksi-texts-2755732b4273.json"
+      "assets/taksi-texts-9a7bf4454cc1.json"
     ]
   },
   "virtual:kz-content/pack/teatr": {
-    "file": "assets/teatr-JLRRRYQG.js",
+    "file": "assets/teatr-CUBxFw8O.js",
     "name": "teatr",
     "src": "virtual:kz-content/pack/teatr",
     "isDynamicEntry": true,
@@ -30131,11 +30131,11 @@
       "assets/14-opozdali-CM3eyo93.webp",
       "assets/15-u-dverey-xVVBAR9c.webp",
       "assets/16-balkon-ScNrbUBV.webp",
-      "assets/teatr-texts-4420a3df1981.json"
+      "assets/teatr-texts-27e409899f5e.json"
     ]
   },
   "virtual:kz-content/pack/telefon-zhondeu": {
-    "file": "assets/telefon-zhondeu-CkZDmmQR.js",
+    "file": "assets/telefon-zhondeu-F5Z6zf0F.js",
     "name": "telefon-zhondeu",
     "src": "virtual:kz-content/pack/telefon-zhondeu",
     "isDynamicEntry": true,
@@ -30159,11 +30159,11 @@
       "assets/17-vydacha-DOxWyJ0w.webp",
       "assets/18-net-deneg-0t2uLWUG.webp",
       "assets/19-papa-CTmrYOQB.webp",
-      "assets/telefon-zhondeu-texts-5867212428d1.json"
+      "assets/telefon-zhondeu-texts-4500c43b3e32.json"
     ]
   },
   "virtual:kz-content/pack/velo-park": {
-    "file": "assets/velo-park-DiaegiiL.js",
+    "file": "assets/velo-park-DNqRwrAg.js",
     "name": "velo-park",
     "src": "virtual:kz-content/pack/velo-park",
     "isDynamicEntry": true,
@@ -30188,11 +30188,11 @@
       "assets/18-snova-v-puti-pDX8yfoc.webp",
       "assets/19-lyudi-na-dorozhke-BgnrCE5y.webp",
       "assets/20-zvonok-na-rule-CIqGfzck.webp",
-      "assets/velo-park-texts-e6a5d0a05d67.json"
+      "assets/velo-park-texts-d51b7d9f95e1.json"
     ]
   },
   "virtual:kz-content/pack/vet": {
-    "file": "assets/vet-CI5LARaM.js",
+    "file": "assets/vet-DQJ_R2bk.js",
     "name": "vet",
     "src": "virtual:kz-content/pack/vet",
     "isDynamicEntry": true,
@@ -30215,11 +30215,11 @@
       "assets/16-cat-ointment-hTR0NTXi.webp",
       "assets/17-cat-home-D-t2xXZ9.webp",
       "assets/18-farewell-B93X6gwd.webp",
-      "assets/vet-texts-c16953d35302.json"
+      "assets/vet-texts-434d614a5abd.json"
     ]
   },
   "virtual:kz-content/pack/vokzal": {
-    "file": "assets/vokzal-9WmStfED.js",
+    "file": "assets/vokzal-BekQOBP-.js",
     "name": "vokzal",
     "src": "virtual:kz-content/pack/vokzal",
     "isDynamicEntry": true,
@@ -30244,11 +30244,11 @@
       "assets/18-obyavlenie-OdgNtwTQ.webp",
       "assets/19-bystro-na-platformu-CG4Tu3dR.webp",
       "assets/20-tretya-platforma-BOmH1K20.webp",
-      "assets/vokzal-texts-a744baafcef1.json"
+      "assets/vokzal-texts-1bfb9ac0217b.json"
     ]
   },
   "virtual:kz-content/pack/zoo-dukeni": {
-    "file": "assets/zoo-dukeni-Cm0IH6Un.js",
+    "file": "assets/zoo-dukeni-DlO2wmP5.js",
     "name": "zoo-dukeni",
     "src": "virtual:kz-content/pack/zoo-dukeni",
     "isDynamicEntry": true,
@@ -30271,7 +30271,7 @@
       "assets/16-malenkii-akvarium-6oerXq2g.webp",
       "assets/17-kassa-rybka-DBPG4F7j.webp",
       "assets/18-homyaki-D-1P7Sg0.webp",
-      "assets/zoo-dukeni-texts-724a536f470c.json"
+      "assets/zoo-dukeni-texts-b3a410bbe34f.json"
     ]
   },
   "virtual:kz-content/sources": {
