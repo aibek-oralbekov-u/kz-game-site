@@ -1,1 +1,0 @@
-var e={ә:`а`,қ:`к`,ұ:`у`,ү:`у`,і:`и`,ө:`о`,ң:`н`,ғ:`г`,һ:`х`};function t(e){return e.normalize(`NFC`).toLowerCase().replace(/[^\p{L}\p{N}]+/gu,` `).trim()}function n(n){return t(n).replace(/[әқұүіөңғһ]/g,t=>e[t])}function r(e,n=`words`){let r=e.map(t);return JSON.stringify([...new Set((n===`phrases`?r:r.flatMap(e=>e.split(` `))).filter(Boolean)),`[unk]`])}export{n,r as t};
