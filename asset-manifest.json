@@ -20686,10 +20686,6 @@
     "file": "assets/8f67c719f6b6-HyaWVn4a.mp3",
     "src": "content/locations/magazin/voice/8f67c719f6b6.mp3"
   },
-  "content/locations/magazin/voice/90f5b49b7db4.mp3": {
-    "file": "assets/90f5b49b7db4-UdkEHcXK.mp3",
-    "src": "content/locations/magazin/voice/90f5b49b7db4.mp3"
-  },
   "content/locations/magazin/voice/92b48c7633cf.mp3": {
     "file": "assets/92b48c7633cf-DPf8DBQZ.mp3",
     "src": "content/locations/magazin/voice/92b48c7633cf.mp3"
@@ -32352,7 +32348,7 @@
     "src": "content/stickers/words-50.webp"
   },
   "index.html": {
-    "file": "assets/game-4tCgBeeA.js",
+    "file": "assets/game-C-0m3-1z.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -34869,7 +34865,7 @@
     "isHub": true
   },
   "virtual:kz-content/pack/magazin": {
-    "file": "assets/magazin-CFmxgb5n.js",
+    "file": "assets/magazin-CFj99HsD.js",
     "name": "magazin",
     "src": "virtual:kz-content/pack/magazin",
     "isDynamicEntry": true,
@@ -34911,7 +34907,7 @@
       "assets/35-pereschet-B2KNM7Fj.webp",
       "assets/36-sto-tenge-CFmw8WKQ.webp",
       "assets/37-vse-horosho-CGqYFFvU.webp",
-      "assets/magazin-texts-58bb870b1f7c.json"
+      "assets/magazin-texts-5e5a2ff5301f.json"
     ]
   },
   "virtual:kz-content/pack/mektep": {
@@ -35499,7 +35495,7 @@
     ]
   },
   "voice-test.html": {
-    "file": "assets/voice-8I0-simh.js",
+    "file": "assets/voice-CX-RsUVf.js",
     "name": "voice",
     "src": "voice-test.html",
     "isEntry": true,
