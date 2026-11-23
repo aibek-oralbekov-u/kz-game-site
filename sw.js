@@ -1,5 +1,5 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}d692feaf8daa`;
+const CACHE = `${PREFIX}d164f978cf89`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';
@@ -13,7 +13,7 @@ const MEDIA = /\.(?:mp3|webp)$/i;
 // KZ-40e: background loops (public/ambience, names without a build hash) — runtime cache on first play; not listed in any
 // manifest, so the activation of the next build prunes them with the other unlisted media and they are fetched again.
 const ambience = path => path.startsWith('/ambience/') && /\.mp3$/i.test(path);
-const PRECACHE = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg', PRECACHE_MANIFEST, '/voice-engine/'];
+const PRECACHE = ['/', '/index.html', '/manifest.webmanifest', PRECACHE_MANIFEST, '/voice-engine/'];
 const localRequest = path => new Request(path, { cache: 'reload', credentials: 'omit', mode: 'same-origin', redirect: 'error' });
 const accepted = response => response.status === 200 && (response.type === 'basic' || response.type === 'default');
 const buildFiles = manifest => new Set(Object.values(manifest).map(entry => entry.file).filter(Boolean));

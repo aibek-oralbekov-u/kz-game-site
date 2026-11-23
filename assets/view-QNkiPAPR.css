@@ -1,0 +1,1 @@
+@layer screens{.install{align-items:flex-start;gap:var(--space-m);padding:var(--space-m);border:var(--border) solid var(--outline);border-radius:var(--radius-card);background:var(--panel);flex-direction:column;display:flex}.install p{font-size:var(--font-body);margin:0}}
