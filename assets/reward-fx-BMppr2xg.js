@@ -1,1 +1,0 @@
-var e;function t(){return e?.isConnected||(e=document.createElement(`div`),e.className=`rewards-layer`,e.setAttribute(`aria-live`,`polite`),document.body.append(e)),e}function n(e){t()}export{n as showRewards};

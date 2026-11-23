@@ -1,0 +1,1 @@
+import{a as e,i as t,n,o as r,r as i,t as a}from"./outfit-winter-K1DJPhXR.js";var o=Object.assign({"./outfit-astronaut.webp":r,"./outfit-festive.webp":e,"./outfit-football.webp":t,"./outfit-school.webp":i,"./outfit-sport.webp":n,"./outfit-winter.webp":a});export{o as outfitPictures};
