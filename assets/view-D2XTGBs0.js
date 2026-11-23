@@ -1,0 +1,1 @@
+export{t as render}from"./view-chNmw2My.js";
