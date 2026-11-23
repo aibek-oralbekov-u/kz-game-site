@@ -1,5 +1,5 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}b15805f19e25`;
+const CACHE = `${PREFIX}181c2b9cfd19`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';

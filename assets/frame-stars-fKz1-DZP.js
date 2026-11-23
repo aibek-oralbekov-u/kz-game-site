@@ -1,0 +1,1 @@
+var e=`/assets/frame-gold-DbqX4VIf.webp`,t=`/assets/frame-ornament-DjOXp7aA.webp`,n=`/assets/frame-stars-_YQibjUa.webp`;export{t as n,e as r,n as t};
