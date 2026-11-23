@@ -182,8 +182,8 @@
       "_protocol-OMAyVYds.js"
     ]
   },
-  "_extra-C6mRx8v4.js": {
-    "file": "assets/extra-C6mRx8v4.js",
+  "_extra-CDZvIDSF.js": {
+    "file": "assets/extra-CDZvIDSF.js",
     "name": "extra",
     "imports": [
       "_rolldown-runtime-DK3Fl9T5.js",
@@ -247,8 +247,8 @@
     "file": "assets/minigames-1Ym_Oal4.css",
     "src": "_minigames-1Ym_Oal4.css"
   },
-  "_minigames-CwR8EIUz.js": {
-    "file": "assets/minigames-CwR8EIUz.js",
+  "_minigames-CYzNn_nn.js": {
+    "file": "assets/minigames-CYzNn_nn.js",
     "name": "minigames",
     "imports": [
       "_clock-CX7K9-gc.js",
@@ -424,8 +424,8 @@
     "file": "assets/view-DsOJnRmm.css",
     "src": "_view-DsOJnRmm.css"
   },
-  "_view-vyBv8srF.js": {
-    "file": "assets/view-vyBv8srF.js",
+  "_view-_PHF-Fgm.js": {
+    "file": "assets/view-_PHF-Fgm.js",
     "name": "view",
     "imports": [
       "_voiceover-CujG1-KX.js",
@@ -434,8 +434,8 @@
       "_prefs-kp-79C7l.js",
       "_diary-BLctmVPO.js",
       "_dom-0oGlWoiE.js",
-      "_extra-C6mRx8v4.js",
-      "_words-list-2arkDmLb.js"
+      "_extra-CDZvIDSF.js",
+      "_words-list-Bt1oJVy-.js"
     ],
     "css": [
       "assets/view-DsOJnRmm.css"
@@ -511,11 +511,11 @@
       "assets/words-50-U1MJzhAh.webp"
     ]
   },
-  "_words-list-2arkDmLb.js": {
-    "file": "assets/words-list-2arkDmLb.js",
+  "_words-list-Bt1oJVy-.js": {
+    "file": "assets/words-list-Bt1oJVy-.js",
     "name": "words-list",
     "imports": [
-      "_extra-C6mRx8v4.js"
+      "_extra-CDZvIDSF.js"
     ]
   },
   "_world-D-dm9AO7.js": {
@@ -4018,10 +4018,6 @@
     "file": "assets/0dfc0a50ece6-xRGhXhTq.mp3",
     "src": "content/locations/aeroport/voice/0dfc0a50ece6.mp3"
   },
-  "content/locations/aeroport/voice/0e331a3ab097.mp3": {
-    "file": "assets/0e331a3ab097-DmMIS7TV.mp3",
-    "src": "content/locations/aeroport/voice/0e331a3ab097.mp3"
-  },
   "content/locations/aeroport/voice/117738b7ca0a.mp3": {
     "file": "assets/117738b7ca0a-jBKiM-jf.mp3",
     "src": "content/locations/aeroport/voice/117738b7ca0a.mp3"
@@ -4054,6 +4050,10 @@
     "file": "assets/1e27f12638ea-BtX9eSJb.mp3",
     "src": "content/locations/aeroport/voice/1e27f12638ea.mp3"
   },
+  "content/locations/aeroport/voice/1f7462f5e80d.mp3": {
+    "file": "assets/1f7462f5e80d-D-GEDsBb.mp3",
+    "src": "content/locations/aeroport/voice/1f7462f5e80d.mp3"
+  },
   "content/locations/aeroport/voice/1fbf7105ecec.mp3": {
     "file": "assets/1fbf7105ecec-mGfCJLSZ.mp3",
     "src": "content/locations/aeroport/voice/1fbf7105ecec.mp3"
@@ -4061,10 +4061,6 @@
   "content/locations/aeroport/voice/23d862d36543.mp3": {
     "file": "assets/23d862d36543-XrT3F0qC.mp3",
     "src": "content/locations/aeroport/voice/23d862d36543.mp3"
-  },
-  "content/locations/aeroport/voice/240c33844427.mp3": {
-    "file": "assets/240c33844427-V_j7Ri71.mp3",
-    "src": "content/locations/aeroport/voice/240c33844427.mp3"
   },
   "content/locations/aeroport/voice/24b674a99396.mp3": {
     "file": "assets/24b674a99396-BRYpy2qX.mp3",
@@ -4113,10 +4109,6 @@
   "content/locations/aeroport/voice/3e7ea0563dc1.mp3": {
     "file": "assets/3e7ea0563dc1-hJmfxTxY.mp3",
     "src": "content/locations/aeroport/voice/3e7ea0563dc1.mp3"
-  },
-  "content/locations/aeroport/voice/4153ac3f5b40.mp3": {
-    "file": "assets/4153ac3f5b40-BtS2iyP0.mp3",
-    "src": "content/locations/aeroport/voice/4153ac3f5b40.mp3"
   },
   "content/locations/aeroport/voice/4221ec606bf3.mp3": {
     "file": "assets/4221ec606bf3-B6WQhnvQ.mp3",
@@ -4222,17 +4214,9 @@
     "file": "assets/6bdf2d3b4381-CP7et6wZ.mp3",
     "src": "content/locations/aeroport/voice/6bdf2d3b4381.mp3"
   },
-  "content/locations/aeroport/voice/6e5cf92b0e80.mp3": {
-    "file": "assets/6e5cf92b0e80-C1kp-Pnk.mp3",
-    "src": "content/locations/aeroport/voice/6e5cf92b0e80.mp3"
-  },
   "content/locations/aeroport/voice/6f37b9fc14d4.mp3": {
     "file": "assets/6f37b9fc14d4-RlyAcxyr.mp3",
     "src": "content/locations/aeroport/voice/6f37b9fc14d4.mp3"
-  },
-  "content/locations/aeroport/voice/709b63fb26af.mp3": {
-    "file": "assets/709b63fb26af-qBYhzRYR.mp3",
-    "src": "content/locations/aeroport/voice/709b63fb26af.mp3"
   },
   "content/locations/aeroport/voice/72143abaad49.mp3": {
     "file": "assets/72143abaad49-CF93qCkP.mp3",
@@ -4346,10 +4330,6 @@
     "file": "assets/b2e2a8a94195-BOfcISmk.mp3",
     "src": "content/locations/aeroport/voice/b2e2a8a94195.mp3"
   },
-  "content/locations/aeroport/voice/b3fdf5dfe0ea.mp3": {
-    "file": "assets/b3fdf5dfe0ea-BCNH286X.mp3",
-    "src": "content/locations/aeroport/voice/b3fdf5dfe0ea.mp3"
-  },
   "content/locations/aeroport/voice/b6a3423f920b.mp3": {
     "file": "assets/b6a3423f920b-DEyv4YgN.mp3",
     "src": "content/locations/aeroport/voice/b6a3423f920b.mp3"
@@ -4422,10 +4402,6 @@
     "file": "assets/d5f46e5fcb87-h1py4mV_.mp3",
     "src": "content/locations/aeroport/voice/d5f46e5fcb87.mp3"
   },
-  "content/locations/aeroport/voice/d85c6cb865bb.mp3": {
-    "file": "assets/d85c6cb865bb-CsJs1P3U.mp3",
-    "src": "content/locations/aeroport/voice/d85c6cb865bb.mp3"
-  },
   "content/locations/aeroport/voice/d86c8ba8c9c7.mp3": {
     "file": "assets/d86c8ba8c9c7-Cg96h5jH.mp3",
     "src": "content/locations/aeroport/voice/d86c8ba8c9c7.mp3"
@@ -4454,10 +4430,6 @@
     "file": "assets/e35b00f67283-DzsOnHrp.mp3",
     "src": "content/locations/aeroport/voice/e35b00f67283.mp3"
   },
-  "content/locations/aeroport/voice/e5bb57912656.mp3": {
-    "file": "assets/e5bb57912656-NrsSqd7M.mp3",
-    "src": "content/locations/aeroport/voice/e5bb57912656.mp3"
-  },
   "content/locations/aeroport/voice/e663c0da3d90.mp3": {
     "file": "assets/e663c0da3d90-DBrouCf0.mp3",
     "src": "content/locations/aeroport/voice/e663c0da3d90.mp3"
@@ -4481,6 +4453,10 @@
   "content/locations/aeroport/voice/f07b34e18e12.mp3": {
     "file": "assets/f07b34e18e12-BwEzK1eY.mp3",
     "src": "content/locations/aeroport/voice/f07b34e18e12.mp3"
+  },
+  "content/locations/aeroport/voice/f3750ea3161d.mp3": {
+    "file": "assets/f3750ea3161d-D-g_qZ5B.mp3",
+    "src": "content/locations/aeroport/voice/f3750ea3161d.mp3"
   },
   "content/locations/aeroport/voice/f676036f85bd.mp3": {
     "file": "assets/f676036f85bd-B_zzwPW-.mp3",
@@ -5698,10 +5674,6 @@
     "file": "assets/preview-rOsn4GS5.webp",
     "src": "content/locations/avtobus/preview.webp"
   },
-  "content/locations/avtobus/voice/005968af3430.mp3": {
-    "file": "assets/005968af3430-JntaJuUs.mp3",
-    "src": "content/locations/avtobus/voice/005968af3430.mp3"
-  },
   "content/locations/avtobus/voice/00db731ab133.mp3": {
     "file": "assets/00db731ab133-C89kbUI3.mp3",
     "src": "content/locations/avtobus/voice/00db731ab133.mp3"
@@ -5713,10 +5685,6 @@
   "content/locations/avtobus/voice/03ea1e89fd2b.mp3": {
     "file": "assets/03ea1e89fd2b-BoQgCf6S.mp3",
     "src": "content/locations/avtobus/voice/03ea1e89fd2b.mp3"
-  },
-  "content/locations/avtobus/voice/04a720f8650f.mp3": {
-    "file": "assets/04a720f8650f-CPV5hwRn.mp3",
-    "src": "content/locations/avtobus/voice/04a720f8650f.mp3"
   },
   "content/locations/avtobus/voice/04f70f996829.mp3": {
     "file": "assets/04f70f996829-BlVOAElw.mp3",
@@ -5766,10 +5734,6 @@
     "file": "assets/1d1f0e8184a4-ny-pOASy.mp3",
     "src": "content/locations/avtobus/voice/1d1f0e8184a4.mp3"
   },
-  "content/locations/avtobus/voice/1e2ccf5074fc.mp3": {
-    "file": "assets/1e2ccf5074fc-CZTB_MsK.mp3",
-    "src": "content/locations/avtobus/voice/1e2ccf5074fc.mp3"
-  },
   "content/locations/avtobus/voice/1e4808e8a0cc.mp3": {
     "file": "assets/1e4808e8a0cc-BSzEtqpQ.mp3",
     "src": "content/locations/avtobus/voice/1e4808e8a0cc.mp3"
@@ -5782,17 +5746,9 @@
     "file": "assets/2076444d654e-CZMqnzvh.mp3",
     "src": "content/locations/avtobus/voice/2076444d654e.mp3"
   },
-  "content/locations/avtobus/voice/20ef1dd3941f.mp3": {
-    "file": "assets/20ef1dd3941f-BWNxgqwN.mp3",
-    "src": "content/locations/avtobus/voice/20ef1dd3941f.mp3"
-  },
   "content/locations/avtobus/voice/23d9be0eb806.mp3": {
     "file": "assets/23d9be0eb806-BxchbroS.mp3",
     "src": "content/locations/avtobus/voice/23d9be0eb806.mp3"
-  },
-  "content/locations/avtobus/voice/25903076229c.mp3": {
-    "file": "assets/25903076229c-6Mwzsf46.mp3",
-    "src": "content/locations/avtobus/voice/25903076229c.mp3"
   },
   "content/locations/avtobus/voice/2af382d04c7f.mp3": {
     "file": "assets/2af382d04c7f-Fbzw_AWP.mp3",
@@ -5805,10 +5761,6 @@
   "content/locations/avtobus/voice/34084193c78d.mp3": {
     "file": "assets/34084193c78d-BNrCkbc3.mp3",
     "src": "content/locations/avtobus/voice/34084193c78d.mp3"
-  },
-  "content/locations/avtobus/voice/34d25967a8cb.mp3": {
-    "file": "assets/34d25967a8cb-DvM7Kib5.mp3",
-    "src": "content/locations/avtobus/voice/34d25967a8cb.mp3"
   },
   "content/locations/avtobus/voice/364672f384fa.mp3": {
     "file": "assets/364672f384fa-BnA7A5dn.mp3",
@@ -5890,10 +5842,6 @@
     "file": "assets/5b8620226231-DBkOwoSp.mp3",
     "src": "content/locations/avtobus/voice/5b8620226231.mp3"
   },
-  "content/locations/avtobus/voice/5bbfa163d46c.mp3": {
-    "file": "assets/5bbfa163d46c-CeeKVZ6K.mp3",
-    "src": "content/locations/avtobus/voice/5bbfa163d46c.mp3"
-  },
   "content/locations/avtobus/voice/63a883d72b36.mp3": {
     "file": "assets/63a883d72b36-By8UE0br.mp3",
     "src": "content/locations/avtobus/voice/63a883d72b36.mp3"
@@ -5958,13 +5906,13 @@
     "file": "assets/8953dfd37a02-tkutB5J4.mp3",
     "src": "content/locations/avtobus/voice/8953dfd37a02.mp3"
   },
-  "content/locations/avtobus/voice/89bd43f784d1.mp3": {
-    "file": "assets/89bd43f784d1-C4dCIoVk.mp3",
-    "src": "content/locations/avtobus/voice/89bd43f784d1.mp3"
-  },
   "content/locations/avtobus/voice/8b074c2cfd99.mp3": {
     "file": "assets/8b074c2cfd99-NKlTxBPn.mp3",
     "src": "content/locations/avtobus/voice/8b074c2cfd99.mp3"
+  },
+  "content/locations/avtobus/voice/8b232341a76d.mp3": {
+    "file": "assets/8b232341a76d-BzOPSJlJ.mp3",
+    "src": "content/locations/aurukhana/voice/8b232341a76d.mp3"
   },
   "content/locations/avtobus/voice/8ca9608f0dfa.mp3": {
     "file": "assets/8ca9608f0dfa-B1OKfsk1.mp3",
@@ -5977,10 +5925,6 @@
   "content/locations/avtobus/voice/8d76dc8843b1.mp3": {
     "file": "assets/8d76dc8843b1-MSBvVArG.mp3",
     "src": "content/locations/avtobus/voice/8d76dc8843b1.mp3"
-  },
-  "content/locations/avtobus/voice/907cb140f875.mp3": {
-    "file": "assets/907cb140f875-DH8rT3re.mp3",
-    "src": "content/locations/avtobus/voice/907cb140f875.mp3"
   },
   "content/locations/avtobus/voice/90c7a3a60050.mp3": {
     "file": "assets/90c7a3a60050-DR-wWjrX.mp3",
@@ -6001,14 +5945,6 @@
   "content/locations/avtobus/voice/997ad39a1136.mp3": {
     "file": "assets/997ad39a1136-CZJ5ytE0.mp3",
     "src": "content/locations/avtobus/voice/997ad39a1136.mp3"
-  },
-  "content/locations/avtobus/voice/997dc86f3bca.mp3": {
-    "file": "assets/997dc86f3bca-BdOk04Ik.mp3",
-    "src": "content/locations/avtobus/voice/997dc86f3bca.mp3"
-  },
-  "content/locations/avtobus/voice/9a29899f531a.mp3": {
-    "file": "assets/9a29899f531a-qOGdeKqM.mp3",
-    "src": "content/locations/avtobus/voice/9a29899f531a.mp3"
   },
   "content/locations/avtobus/voice/9a2c5aaf520d.mp3": {
     "file": "assets/9a2c5aaf520d-Xw5Qotgw.mp3",
@@ -6070,17 +6006,9 @@
     "file": "assets/ac3d2af753f0-CSTQwZUf.mp3",
     "src": "content/locations/avtobus/voice/ac3d2af753f0.mp3"
   },
-  "content/locations/avtobus/voice/ac448bee66ec.mp3": {
-    "file": "assets/ac448bee66ec-BCJG6h17.mp3",
-    "src": "content/locations/avtobus/voice/ac448bee66ec.mp3"
-  },
   "content/locations/avtobus/voice/acde02298dce.mp3": {
     "file": "assets/acde02298dce-DH5Sog-w.mp3",
     "src": "content/locations/avtobus/voice/acde02298dce.mp3"
-  },
-  "content/locations/avtobus/voice/ad43378f510c.mp3": {
-    "file": "assets/ad43378f510c-6fYKsEr_.mp3",
-    "src": "content/locations/avtobus/voice/ad43378f510c.mp3"
   },
   "content/locations/avtobus/voice/af2176debea6.mp3": {
     "file": "assets/af2176debea6-BlD5QR4R.mp3",
@@ -6090,17 +6018,13 @@
     "file": "assets/b1018e487f21-Dx42A4PP.mp3",
     "src": "content/locations/avtobus/voice/b1018e487f21.mp3"
   },
-  "content/locations/avtobus/voice/b2429d1ab3ed.mp3": {
-    "file": "assets/b2429d1ab3ed-Br8pNl6Y.mp3",
-    "src": "content/locations/avtobus/voice/b2429d1ab3ed.mp3"
-  },
   "content/locations/avtobus/voice/b3874fbfb9b6.mp3": {
     "file": "assets/b3874fbfb9b6-DjKpeW0a.mp3",
     "src": "content/locations/avtobus/voice/b3874fbfb9b6.mp3"
   },
-  "content/locations/avtobus/voice/b620e9eb3f3a.mp3": {
-    "file": "assets/b620e9eb3f3a-W1Hu3b19.mp3",
-    "src": "content/locations/avtobus/voice/b620e9eb3f3a.mp3"
+  "content/locations/avtobus/voice/b5fe0817f836.mp3": {
+    "file": "assets/b5fe0817f836-BQEPxwkP.mp3",
+    "src": "content/locations/aurukhana/voice/b5fe0817f836.mp3"
   },
   "content/locations/avtobus/voice/b9001c5ec004.mp3": {
     "file": "assets/b9001c5ec004-CFxqHcoq.mp3",
@@ -6118,6 +6042,10 @@
     "file": "assets/bb9dfab3dc01-CQR1yotb.mp3",
     "src": "content/locations/avtobus/voice/bb9dfab3dc01.mp3"
   },
+  "content/locations/avtobus/voice/bc18b639faea.mp3": {
+    "file": "assets/bc18b639faea-Bp21i7Jn.mp3",
+    "src": "content/locations/aurukhana/voice/bc18b639faea.mp3"
+  },
   "content/locations/avtobus/voice/be6babe18ee7.mp3": {
     "file": "assets/be6babe18ee7-DahQQfK1.mp3",
     "src": "content/locations/avtobus/voice/be6babe18ee7.mp3"
@@ -6134,17 +6062,9 @@
     "file": "assets/c3adc663186f-GdearF42.mp3",
     "src": "content/locations/avtobus/voice/c3adc663186f.mp3"
   },
-  "content/locations/avtobus/voice/c3cdf0436290.mp3": {
-    "file": "assets/c3cdf0436290-C1eYTPO0.mp3",
-    "src": "content/locations/avtobus/voice/c3cdf0436290.mp3"
-  },
   "content/locations/avtobus/voice/c50c638238c9.mp3": {
     "file": "assets/c50c638238c9-6B1g3EVP.mp3",
     "src": "content/locations/avtobus/voice/c50c638238c9.mp3"
-  },
-  "content/locations/avtobus/voice/cbffc216110e.mp3": {
-    "file": "assets/cbffc216110e-CnS_hRBj.mp3",
-    "src": "content/locations/avtobus/voice/cbffc216110e.mp3"
   },
   "content/locations/avtobus/voice/cdc783eb8aa6.mp3": {
     "file": "assets/cdc783eb8aa6-DhitVQ4T.mp3",
@@ -6162,21 +6082,17 @@
     "file": "assets/cf727e751425-BR-foFBQ.mp3",
     "src": "content/locations/avtobus/voice/cf727e751425.mp3"
   },
+  "content/locations/avtobus/voice/d0ff36943204.mp3": {
+    "file": "assets/d0ff36943204-nlvzO67Z.mp3",
+    "src": "content/locations/avtobus/voice/d0ff36943204.mp3"
+  },
   "content/locations/avtobus/voice/d13bedf9ea39.mp3": {
     "file": "assets/d13bedf9ea39-fEtmSgdd.mp3",
     "src": "content/locations/avtobus/voice/d13bedf9ea39.mp3"
   },
-  "content/locations/avtobus/voice/d270f1455e4b.mp3": {
-    "file": "assets/d270f1455e4b-DVwrwm4z.mp3",
-    "src": "content/locations/avtobus/voice/d270f1455e4b.mp3"
-  },
   "content/locations/avtobus/voice/d5afe9b284c4.mp3": {
     "file": "assets/d5afe9b284c4-I_CS2iC4.mp3",
     "src": "content/locations/avtobus/voice/d5afe9b284c4.mp3"
-  },
-  "content/locations/avtobus/voice/d78e1bf77e72.mp3": {
-    "file": "assets/d78e1bf77e72-DTye0YK2.mp3",
-    "src": "content/locations/avtobus/voice/d78e1bf77e72.mp3"
   },
   "content/locations/avtobus/voice/d7d2b5573403.mp3": {
     "file": "assets/d7d2b5573403-DtFm1Aib.mp3",
@@ -6201,10 +6117,6 @@
   "content/locations/avtobus/voice/dcf2c7fae57e.mp3": {
     "file": "assets/dcf2c7fae57e-BNX3p6pe.mp3",
     "src": "content/locations/avtobus/voice/dcf2c7fae57e.mp3"
-  },
-  "content/locations/avtobus/voice/debccb0e1081.mp3": {
-    "file": "assets/debccb0e1081-BV1e0Nct.mp3",
-    "src": "content/locations/avtobus/voice/debccb0e1081.mp3"
   },
   "content/locations/avtobus/voice/e227c690eb19.mp3": {
     "file": "assets/e227c690eb19-CH5r8lWd.mp3",
@@ -6241,10 +6153,6 @@
   "content/locations/avtobus/voice/f0091d182459.mp3": {
     "file": "assets/f0091d182459-DjwQBjvU.mp3",
     "src": "content/locations/avtobus/voice/f0091d182459.mp3"
-  },
-  "content/locations/avtobus/voice/f01207bfef16.mp3": {
-    "file": "assets/f01207bfef16-BvYXAJwB.mp3",
-    "src": "content/locations/avtobus/voice/f01207bfef16.mp3"
   },
   "content/locations/avtobus/voice/f0f16b21b242.mp3": {
     "file": "assets/f0f16b21b242-CM9ir9U_.mp3",
@@ -6784,7 +6692,7 @@
   },
   "content/locations/balabaqsha/voice/d0ff36943204.mp3": {
     "file": "assets/d0ff36943204-nlvzO67Z.mp3",
-    "src": "content/locations/balabaqsha/voice/d0ff36943204.mp3"
+    "src": "content/locations/avtobus/voice/d0ff36943204.mp3"
   },
   "content/locations/balabaqsha/voice/d466fe55dd97.mp3": {
     "file": "assets/d466fe55dd97-CNRib9jG.mp3",
@@ -10526,10 +10434,6 @@
     "file": "assets/05b2afd500f4-Uxr-eTnE.mp3",
     "src": "content/locations/darihana/voice/05b2afd500f4.mp3"
   },
-  "content/locations/darihana/voice/05cb1cabf0c7.mp3": {
-    "file": "assets/05cb1cabf0c7-DIaJejeN.mp3",
-    "src": "content/locations/darihana/voice/05cb1cabf0c7.mp3"
-  },
   "content/locations/darihana/voice/06eb7cc6bccc.mp3": {
     "file": "assets/06eb7cc6bccc-CflK_m7-.mp3",
     "src": "content/locations/darihana/voice/06eb7cc6bccc.mp3"
@@ -10610,14 +10514,6 @@
     "file": "assets/30797a0855d9-9c3AHifV.mp3",
     "src": "content/locations/darihana/voice/30797a0855d9.mp3"
   },
-  "content/locations/darihana/voice/30aaef48e2d6.mp3": {
-    "file": "assets/30aaef48e2d6-AYQd3QVq.mp3",
-    "src": "content/locations/darihana/voice/30aaef48e2d6.mp3"
-  },
-  "content/locations/darihana/voice/3126a7dd1f23.mp3": {
-    "file": "assets/3126a7dd1f23-xs-Jc1iv.mp3",
-    "src": "content/locations/darihana/voice/3126a7dd1f23.mp3"
-  },
   "content/locations/darihana/voice/3363185be65a.mp3": {
     "file": "assets/3363185be65a-B8dNIY_9.mp3",
     "src": "content/locations/bassein/voice/3363185be65a.mp3"
@@ -10653,10 +10549,6 @@
   "content/locations/darihana/voice/456a355a6d2d.mp3": {
     "file": "assets/456a355a6d2d-CGLku0Uu.mp3",
     "src": "content/locations/darihana/voice/456a355a6d2d.mp3"
-  },
-  "content/locations/darihana/voice/459902c5306d.mp3": {
-    "file": "assets/459902c5306d-DASI-uk2.mp3",
-    "src": "content/locations/darihana/voice/459902c5306d.mp3"
   },
   "content/locations/darihana/voice/4682e13c2038.mp3": {
     "file": "assets/4682e13c2038-CE-cLQqY.mp3",
@@ -10814,10 +10706,6 @@
     "file": "assets/ad74741eed20-DtSfzpi4.mp3",
     "src": "content/locations/darihana/voice/ad74741eed20.mp3"
   },
-  "content/locations/darihana/voice/ae4bc4ae6cab.mp3": {
-    "file": "assets/ae4bc4ae6cab-DO6WvD8A.mp3",
-    "src": "content/locations/darihana/voice/ae4bc4ae6cab.mp3"
-  },
   "content/locations/darihana/voice/afb1835cc00c.mp3": {
     "file": "assets/afb1835cc00c-DFROehLM.mp3",
     "src": "content/locations/darihana/voice/afb1835cc00c.mp3"
@@ -10870,13 +10758,13 @@
     "file": "assets/c87c2a8d0b4c-CreG54WB.mp3",
     "src": "content/locations/bazar/voice/c87c2a8d0b4c.mp3"
   },
-  "content/locations/darihana/voice/c9b36f14bbe9.mp3": {
-    "file": "assets/c9b36f14bbe9-PlqXXKiZ.mp3",
-    "src": "content/locations/darihana/voice/c9b36f14bbe9.mp3"
-  },
   "content/locations/darihana/voice/cab2189df2cc.mp3": {
     "file": "assets/cab2189df2cc-D8iw7HY9.mp3",
     "src": "content/locations/darihana/voice/cab2189df2cc.mp3"
+  },
+  "content/locations/darihana/voice/d0ff36943204.mp3": {
+    "file": "assets/d0ff36943204-nlvzO67Z.mp3",
+    "src": "content/locations/avtobus/voice/d0ff36943204.mp3"
   },
   "content/locations/darihana/voice/d26ab945d0fc.mp3": {
     "file": "assets/d26ab945d0fc-dJYBW4A-.mp3",
@@ -10886,13 +10774,13 @@
     "file": "assets/d5c3eb58c81b-C6jBOdZI.mp3",
     "src": "content/locations/darihana/voice/d5c3eb58c81b.mp3"
   },
-  "content/locations/darihana/voice/d6d189aafd4a.mp3": {
-    "file": "assets/d6d189aafd4a-CLGe_mYp.mp3",
-    "src": "content/locations/darihana/voice/d6d189aafd4a.mp3"
-  },
   "content/locations/darihana/voice/d78c21dcec4d.mp3": {
     "file": "assets/d78c21dcec4d-Cu5FIFId.mp3",
     "src": "content/locations/darihana/voice/d78c21dcec4d.mp3"
+  },
+  "content/locations/darihana/voice/d9385315f83a.mp3": {
+    "file": "assets/d9385315f83a-c0ollivn.mp3",
+    "src": "content/locations/darihana/voice/d9385315f83a.mp3"
   },
   "content/locations/darihana/voice/d9a98635b9ab.mp3": {
     "file": "assets/d9a98635b9ab-A6XTGo8v.mp3",
@@ -10926,9 +10814,9 @@
     "file": "assets/e48cc60e1a36-5rMaCM7i.mp3",
     "src": "content/locations/darihana/voice/e48cc60e1a36.mp3"
   },
-  "content/locations/darihana/voice/e9abad72547e.mp3": {
-    "file": "assets/e9abad72547e-BXg2NQQf.mp3",
-    "src": "content/locations/asxana/voice/e9abad72547e.mp3"
+  "content/locations/darihana/voice/e94724a068d8.mp3": {
+    "file": "assets/e94724a068d8-BLNnpV_7.mp3",
+    "src": "content/locations/darihana/voice/e94724a068d8.mp3"
   },
   "content/locations/darihana/voice/ee955c9c6ae5.mp3": {
     "file": "assets/ee955c9c6ae5-yOMIDSem.mp3",
@@ -10938,9 +10826,9 @@
     "file": "assets/efcaaaf85ebd-BqB9vucg.mp3",
     "src": "content/locations/darihana/voice/efcaaaf85ebd.mp3"
   },
-  "content/locations/darihana/voice/f2471a7c21b7.mp3": {
-    "file": "assets/f2471a7c21b7-zs1rP5OI.mp3",
-    "src": "content/locations/darihana/voice/f2471a7c21b7.mp3"
+  "content/locations/darihana/voice/f9532bfa2a13.mp3": {
+    "file": "assets/f9532bfa2a13-ChGUwz1m.mp3",
+    "src": "content/locations/botanika/voice/f9532bfa2a13.mp3"
   },
   "content/locations/darihana/voice/fa22d59d0208.mp3": {
     "file": "assets/fa22d59d0208-BOamFwk_.mp3",
@@ -11118,6 +11006,10 @@
     "file": "assets/11e2915d9512-702kEcnC.mp3",
     "src": "content/locations/dvor/voice/11e2915d9512.mp3"
   },
+  "content/locations/dvor/voice/11ee147f2525.mp3": {
+    "file": "assets/11ee147f2525-CMry_dnY.mp3",
+    "src": "content/locations/dvor/voice/11ee147f2525.mp3"
+  },
   "content/locations/dvor/voice/126ab025fe25.mp3": {
     "file": "assets/126ab025fe25-D2KC1Afj.mp3",
     "src": "content/locations/dvor/voice/126ab025fe25.mp3"
@@ -11214,6 +11106,10 @@
     "file": "assets/3bee12ecf15c-Bqmeu6oA.mp3",
     "src": "content/locations/dvor/voice/3bee12ecf15c.mp3"
   },
+  "content/locations/dvor/voice/3e21a7ce8a6e.mp3": {
+    "file": "assets/3e21a7ce8a6e-BvkBbyfQ.mp3",
+    "src": "content/locations/dvor/voice/3e21a7ce8a6e.mp3"
+  },
   "content/locations/dvor/voice/3e3aaf3908d0.mp3": {
     "file": "assets/3e3aaf3908d0-DC8xKHW9.mp3",
     "src": "content/locations/dvor/voice/3e3aaf3908d0.mp3"
@@ -11234,6 +11130,10 @@
     "file": "assets/423ef1f6351f-BLYLl-pD.mp3",
     "src": "content/locations/dvor/voice/423ef1f6351f.mp3"
   },
+  "content/locations/dvor/voice/4685d7f1d447.mp3": {
+    "file": "assets/4685d7f1d447-CC1R9Ww_.mp3",
+    "src": "content/locations/dvor/voice/4685d7f1d447.mp3"
+  },
   "content/locations/dvor/voice/4a66d3b1f8ef.mp3": {
     "file": "assets/4a66d3b1f8ef-Dy4Oeed2.mp3",
     "src": "content/locations/dvor/voice/4a66d3b1f8ef.mp3"
@@ -11242,9 +11142,9 @@
     "file": "assets/4f28932b0e9f-DxVt9C_H.mp3",
     "src": "content/locations/dvor/voice/4f28932b0e9f.mp3"
   },
-  "content/locations/dvor/voice/5249c79ddd97.mp3": {
-    "file": "assets/5249c79ddd97-OmlGIBfk.mp3",
-    "src": "content/locations/dvor/voice/5249c79ddd97.mp3"
+  "content/locations/dvor/voice/53061eb2ed07.mp3": {
+    "file": "assets/53061eb2ed07-NhvFnwuE.mp3",
+    "src": "content/locations/dvor/voice/53061eb2ed07.mp3"
   },
   "content/locations/dvor/voice/5309dc99a4b0.mp3": {
     "file": "assets/5309dc99a4b0-Dwa75BvO.mp3",
@@ -11314,6 +11214,10 @@
     "file": "assets/70e78ddc0f89-Bdj4CfV7.mp3",
     "src": "content/locations/dvor/voice/70e78ddc0f89.mp3"
   },
+  "content/locations/dvor/voice/7146509a1e02.mp3": {
+    "file": "assets/7146509a1e02-DPdNa6ia.mp3",
+    "src": "content/locations/batut/voice/7146509a1e02.mp3"
+  },
   "content/locations/dvor/voice/74216b30f420.mp3": {
     "file": "assets/74216b30f420-Cv1DctiD.mp3",
     "src": "content/locations/dvor/voice/74216b30f420.mp3"
@@ -11346,10 +11250,6 @@
     "file": "assets/7b1ca2ab00e4-r8cAg07W.mp3",
     "src": "content/locations/dvor/voice/7b1ca2ab00e4.mp3"
   },
-  "content/locations/dvor/voice/7e88bb3ba70a.mp3": {
-    "file": "assets/7e88bb3ba70a-pSo_VzyD.mp3",
-    "src": "content/locations/dvor/voice/7e88bb3ba70a.mp3"
-  },
   "content/locations/dvor/voice/81d6c49ce453.mp3": {
     "file": "assets/81d6c49ce453-BIaNIqti.mp3",
     "src": "content/locations/balabaqsha/voice/81d6c49ce453.mp3"
@@ -11369,6 +11269,10 @@
   "content/locations/dvor/voice/8969e8ef1960.mp3": {
     "file": "assets/8969e8ef1960-CiyQp6al.mp3",
     "src": "content/locations/dvor/voice/8969e8ef1960.mp3"
+  },
+  "content/locations/dvor/voice/89ee100da103.mp3": {
+    "file": "assets/89ee100da103-DnGKsh4C.mp3",
+    "src": "content/locations/dvor/voice/89ee100da103.mp3"
   },
   "content/locations/dvor/voice/8bf4f79e143c.mp3": {
     "file": "assets/8bf4f79e143c-Bno7qtPx.mp3",
@@ -11397,6 +11301,10 @@
   "content/locations/dvor/voice/9b2b18f57fbe.mp3": {
     "file": "assets/9b2b18f57fbe-C5JrX8Nf.mp3",
     "src": "content/locations/dvor/voice/9b2b18f57fbe.mp3"
+  },
+  "content/locations/dvor/voice/9bcb128c6ab6.mp3": {
+    "file": "assets/9bcb128c6ab6-BLMqLi3i.mp3",
+    "src": "content/locations/asxana/voice/9bcb128c6ab6.mp3"
   },
   "content/locations/dvor/voice/a8bd2f9555f4.mp3": {
     "file": "assets/a8bd2f9555f4-B7URzDVO.mp3",
@@ -11430,13 +11338,17 @@
     "file": "assets/b4811f812142-CzCx3zwl.mp3",
     "src": "content/locations/dvor/voice/b4811f812142.mp3"
   },
+  "content/locations/dvor/voice/b5fe0817f836.mp3": {
+    "file": "assets/b5fe0817f836-BQEPxwkP.mp3",
+    "src": "content/locations/aurukhana/voice/b5fe0817f836.mp3"
+  },
+  "content/locations/dvor/voice/b62dadf5b33a.mp3": {
+    "file": "assets/b62dadf5b33a-BZdzupfo.mp3",
+    "src": "content/locations/asxana/voice/b62dadf5b33a.mp3"
+  },
   "content/locations/dvor/voice/b67ffcdb1420.mp3": {
     "file": "assets/b67ffcdb1420-DCV5eAge.mp3",
     "src": "content/locations/dvor/voice/b67ffcdb1420.mp3"
-  },
-  "content/locations/dvor/voice/b80b3d3a651a.mp3": {
-    "file": "assets/b80b3d3a651a-CNQyOHxa.mp3",
-    "src": "content/locations/dvor/voice/b80b3d3a651a.mp3"
   },
   "content/locations/dvor/voice/b89ef603c509.mp3": {
     "file": "assets/b89ef603c509-BRYkAEd5.mp3",
@@ -11486,6 +11398,10 @@
     "file": "assets/c820f39d9c6c-C9w6aAyq.mp3",
     "src": "content/locations/dvor/voice/c820f39d9c6c.mp3"
   },
+  "content/locations/dvor/voice/c84fc16456df.mp3": {
+    "file": "assets/c84fc16456df-BXRJ2f9l.mp3",
+    "src": "content/locations/dvor/voice/c84fc16456df.mp3"
+  },
   "content/locations/dvor/voice/ca49a69a5e19.mp3": {
     "file": "assets/ca49a69a5e19-_YnOF0MR.mp3",
     "src": "content/locations/asxana/voice/ca49a69a5e19.mp3"
@@ -11501,6 +11417,10 @@
   "content/locations/dvor/voice/cbc4e1410458.mp3": {
     "file": "assets/cbc4e1410458-COVu5bPo.mp3",
     "src": "content/locations/dvor/voice/cbc4e1410458.mp3"
+  },
+  "content/locations/dvor/voice/d0ff36943204.mp3": {
+    "file": "assets/d0ff36943204-nlvzO67Z.mp3",
+    "src": "content/locations/avtobus/voice/d0ff36943204.mp3"
   },
   "content/locations/dvor/voice/d2795befb7a4.mp3": {
     "file": "assets/d2795befb7a4-BNsRgZ0K.mp3",
@@ -11538,10 +11458,6 @@
     "file": "assets/e0da97673ab8-Dp0qsESy.mp3",
     "src": "content/locations/dvor/voice/e0da97673ab8.mp3"
   },
-  "content/locations/dvor/voice/e2e37d7a50a3.mp3": {
-    "file": "assets/e2e37d7a50a3-VfShGlDc.mp3",
-    "src": "content/locations/dvor/voice/e2e37d7a50a3.mp3"
-  },
   "content/locations/dvor/voice/e52ad37f2823.mp3": {
     "file": "assets/e52ad37f2823-BD3KViwb.mp3",
     "src": "content/locations/dvor/voice/e52ad37f2823.mp3"
@@ -11569,10 +11485,6 @@
   "content/locations/dvor/voice/e7d64dd34295.mp3": {
     "file": "assets/e7d64dd34295-DoIeiiCv.mp3",
     "src": "content/locations/dvor/voice/e7d64dd34295.mp3"
-  },
-  "content/locations/dvor/voice/eaa3bd83e379.mp3": {
-    "file": "assets/eaa3bd83e379-CbqoB1I5.mp3",
-    "src": "content/locations/dvor/voice/eaa3bd83e379.mp3"
   },
   "content/locations/dvor/voice/ec4cd6f54e1f.mp3": {
     "file": "assets/ec4cd6f54e1f-rIVl6L1S.mp3",
@@ -11614,6 +11526,10 @@
     "file": "assets/f5f88dfbf809-DRhghecL.mp3",
     "src": "content/locations/dvor/voice/f5f88dfbf809.mp3"
   },
+  "content/locations/dvor/voice/f63eff031d34.mp3": {
+    "file": "assets/f63eff031d34-kZl_2sU8.mp3",
+    "src": "content/locations/batut/voice/f63eff031d34.mp3"
+  },
   "content/locations/dvor/voice/f705976ec1b8.mp3": {
     "file": "assets/f705976ec1b8-DzfoOynh.mp3",
     "src": "content/locations/dvor/voice/f705976ec1b8.mp3"
@@ -11630,10 +11546,6 @@
     "file": "assets/fbf48cefd0f9-BNIQHlHN.mp3",
     "src": "content/locations/dvor/voice/fbf48cefd0f9.mp3"
   },
-  "content/locations/dvor/voice/fc1aeee0e1bd.mp3": {
-    "file": "assets/fc1aeee0e1bd-B3v8q5OJ.mp3",
-    "src": "content/locations/dvor/voice/fc1aeee0e1bd.mp3"
-  },
   "content/locations/dvor/voice/fc58e65ee23a.mp3": {
     "file": "assets/fc58e65ee23a-C0UCU3LS.mp3",
     "src": "content/locations/dvor/voice/fc58e65ee23a.mp3"
@@ -11641,6 +11553,10 @@
   "content/locations/dvor/voice/fe9e758a4fbc.mp3": {
     "file": "assets/fe9e758a4fbc-C99IcRWJ.mp3",
     "src": "content/locations/dvor/voice/fe9e758a4fbc.mp3"
+  },
+  "content/locations/dvor/voice/ff7ca1b05b79.mp3": {
+    "file": "assets/ff7ca1b05b79-DOvUJm_U.mp3",
+    "src": "content/locations/dvor/voice/ff7ca1b05b79.mp3"
   },
   "content/locations/emhana/assets/01-registratura-2.webp": {
     "file": "assets/01-registratura-2-I6aXiE3m.webp",
@@ -11802,10 +11718,6 @@
     "file": "assets/3239d7d9ba2f-Br7xeb9o.mp3",
     "src": "content/locations/emhana/voice/3239d7d9ba2f.mp3"
   },
-  "content/locations/emhana/voice/3343b3c0b0dc.mp3": {
-    "file": "assets/3343b3c0b0dc-BGqUDeLO.mp3",
-    "src": "content/locations/emhana/voice/3343b3c0b0dc.mp3"
-  },
   "content/locations/emhana/voice/3363185be65a.mp3": {
     "file": "assets/3363185be65a-B8dNIY_9.mp3",
     "src": "content/locations/bassein/voice/3363185be65a.mp3"
@@ -11833,10 +11745,6 @@
   "content/locations/emhana/voice/40050e59024e.mp3": {
     "file": "assets/40050e59024e-C85sVLG_.mp3",
     "src": "content/locations/emhana/voice/40050e59024e.mp3"
-  },
-  "content/locations/emhana/voice/4017bc64db61.mp3": {
-    "file": "assets/4017bc64db61-BDtyyBao.mp3",
-    "src": "content/locations/emhana/voice/4017bc64db61.mp3"
   },
   "content/locations/emhana/voice/48d80d580208.mp3": {
     "file": "assets/48d80d580208-CzoqR5br.mp3",
@@ -11981,6 +11889,10 @@
   "content/locations/emhana/voice/a3c7aa867ddc.mp3": {
     "file": "assets/a3c7aa867ddc-CHcUNw75.mp3",
     "src": "content/locations/emhana/voice/a3c7aa867ddc.mp3"
+  },
+  "content/locations/emhana/voice/a50f1f4196b3.mp3": {
+    "file": "assets/a50f1f4196b3-DnRGX2og.mp3",
+    "src": "content/locations/emhana/voice/a50f1f4196b3.mp3"
   },
   "content/locations/emhana/voice/a57a7751a3a0.mp3": {
     "file": "assets/a57a7751a3a0-FfXNeAwQ.mp3",
@@ -12776,7 +12688,7 @@
   },
   "content/locations/futbol-match/voice/005968af3430.mp3": {
     "file": "assets/005968af3430-JntaJuUs.mp3",
-    "src": "content/locations/avtobus/voice/005968af3430.mp3"
+    "src": "content/locations/futbol-match/voice/005968af3430.mp3"
   },
   "content/locations/futbol-match/voice/05044d514663.mp3": {
     "file": "assets/05044d514663-B7EAW5Xo.mp3",
@@ -12794,13 +12706,13 @@
     "file": "assets/06cd50ec3581-D-MxLNz8.mp3",
     "src": "content/locations/futbol-match/voice/06cd50ec3581.mp3"
   },
+  "content/locations/futbol-match/voice/08a1f6fe4721.mp3": {
+    "file": "assets/08a1f6fe4721-BV3zW4HS.mp3",
+    "src": "content/locations/bayterek/voice/08a1f6fe4721.mp3"
+  },
   "content/locations/futbol-match/voice/0945b9b52e9f.mp3": {
     "file": "assets/0945b9b52e9f-CxToonwb.mp3",
     "src": "content/locations/futbol-match/voice/0945b9b52e9f.mp3"
-  },
-  "content/locations/futbol-match/voice/0dad87621c92.mp3": {
-    "file": "assets/0dad87621c92-C38u9mX2.mp3",
-    "src": "content/locations/futbol-match/voice/0dad87621c92.mp3"
   },
   "content/locations/futbol-match/voice/0e949f175d1f.mp3": {
     "file": "assets/0e949f175d1f-DUWiZYwA.mp3",
@@ -12825,10 +12737,6 @@
   "content/locations/futbol-match/voice/11bd08958c9d.mp3": {
     "file": "assets/11bd08958c9d-CNNN6nqk.mp3",
     "src": "content/locations/futbol-match/voice/11bd08958c9d.mp3"
-  },
-  "content/locations/futbol-match/voice/14c4467d20df.mp3": {
-    "file": "assets/14c4467d20df-Df52sjzV.mp3",
-    "src": "content/locations/futbol-match/voice/14c4467d20df.mp3"
   },
   "content/locations/futbol-match/voice/1627e88c5e13.mp3": {
     "file": "assets/1627e88c5e13-DQJukK2I.mp3",
@@ -12898,10 +12806,6 @@
     "file": "assets/22354b656b5f-VXpfYgvW.mp3",
     "src": "content/locations/futbol-match/voice/22354b656b5f.mp3"
   },
-  "content/locations/futbol-match/voice/239468bd5161.mp3": {
-    "file": "assets/239468bd5161-DxL1igtE.mp3",
-    "src": "content/locations/futbol-match/voice/239468bd5161.mp3"
-  },
   "content/locations/futbol-match/voice/270f0137584c.mp3": {
     "file": "assets/270f0137584c-D2vuQ_8x.mp3",
     "src": "content/locations/futbol-match/voice/270f0137584c.mp3"
@@ -12937,10 +12841,6 @@
   "content/locations/futbol-match/voice/2ead24f7a27e.mp3": {
     "file": "assets/2ead24f7a27e-DR3X_CSl.mp3",
     "src": "content/locations/futbol-match/voice/2ead24f7a27e.mp3"
-  },
-  "content/locations/futbol-match/voice/2ebcc88264a3.mp3": {
-    "file": "assets/2ebcc88264a3-vvuZ8bFL.mp3",
-    "src": "content/locations/futbol-match/voice/2ebcc88264a3.mp3"
   },
   "content/locations/futbol-match/voice/2fe89f190011.mp3": {
     "file": "assets/2fe89f190011-CPzQhiE8.mp3",
@@ -13034,10 +12934,6 @@
     "file": "assets/48024bfc1294-Cg76Tz3B.mp3",
     "src": "content/locations/futbol-match/voice/48024bfc1294.mp3"
   },
-  "content/locations/futbol-match/voice/49d8558e9900.mp3": {
-    "file": "assets/49d8558e9900-B8Jgrloq.mp3",
-    "src": "content/locations/futbol-match/voice/49d8558e9900.mp3"
-  },
   "content/locations/futbol-match/voice/4ad0aad86f4f.mp3": {
     "file": "assets/4ad0aad86f4f-fD0hfHXJ.mp3",
     "src": "content/locations/futbol-match/voice/4ad0aad86f4f.mp3"
@@ -13086,6 +12982,10 @@
     "file": "assets/5bfe6ddf7ce5-byWNGYk2.mp3",
     "src": "content/locations/futbol-match/voice/5bfe6ddf7ce5.mp3"
   },
+  "content/locations/futbol-match/voice/5c1ff372e6ad.mp3": {
+    "file": "assets/5c1ff372e6ad-CLMVXGW0.mp3",
+    "src": "content/locations/futbol-match/voice/5c1ff372e6ad.mp3"
+  },
   "content/locations/futbol-match/voice/5c9ca6dc124c.mp3": {
     "file": "assets/5c9ca6dc124c-BZjr_O2E.mp3",
     "src": "content/locations/futbol-match/voice/5c9ca6dc124c.mp3"
@@ -13113,6 +13013,10 @@
   "content/locations/futbol-match/voice/62857b1e352c.mp3": {
     "file": "assets/62857b1e352c-B_iU2Xej.mp3",
     "src": "content/locations/futbol-match/voice/62857b1e352c.mp3"
+  },
+  "content/locations/futbol-match/voice/6413a2cab742.mp3": {
+    "file": "assets/6413a2cab742-DQvuoO4d.mp3",
+    "src": "content/locations/futbol-match/voice/6413a2cab742.mp3"
   },
   "content/locations/futbol-match/voice/67409c5be366.mp3": {
     "file": "assets/67409c5be366-BD0B2z8L.mp3",
@@ -13166,10 +13070,6 @@
     "file": "assets/729df0261b94-L1gh8dS2.mp3",
     "src": "content/locations/futbol-match/voice/729df0261b94.mp3"
   },
-  "content/locations/futbol-match/voice/7332f6b6bbf5.mp3": {
-    "file": "assets/7332f6b6bbf5-BcFM1Oxm.mp3",
-    "src": "content/locations/futbol-match/voice/7332f6b6bbf5.mp3"
-  },
   "content/locations/futbol-match/voice/7334ec174455.mp3": {
     "file": "assets/7334ec174455-DejtjXcR.mp3",
     "src": "content/locations/futbol-match/voice/7334ec174455.mp3"
@@ -13185,10 +13085,6 @@
   "content/locations/futbol-match/voice/767ba7e4686f.mp3": {
     "file": "assets/767ba7e4686f-BIOw7yaa.mp3",
     "src": "content/locations/futbol-match/voice/767ba7e4686f.mp3"
-  },
-  "content/locations/futbol-match/voice/768865cf72ca.mp3": {
-    "file": "assets/768865cf72ca-DQ8exkVz.mp3",
-    "src": "content/locations/futbol-match/voice/768865cf72ca.mp3"
   },
   "content/locations/futbol-match/voice/7777d87c81c9.mp3": {
     "file": "assets/7777d87c81c9-BoCA_89F.mp3",
@@ -13266,10 +13162,6 @@
     "file": "assets/86b7096ae1d7-5NI1Pthy.mp3",
     "src": "content/locations/futbol-match/voice/86b7096ae1d7.mp3"
   },
-  "content/locations/futbol-match/voice/878120052c19.mp3": {
-    "file": "assets/878120052c19-CsbnhoQm.mp3",
-    "src": "content/locations/futbol-match/voice/878120052c19.mp3"
-  },
   "content/locations/futbol-match/voice/8974910bf3bf.mp3": {
     "file": "assets/8974910bf3bf-zWzmdCMc.mp3",
     "src": "content/locations/futbol-match/voice/8974910bf3bf.mp3"
@@ -13341,10 +13233,6 @@
   "content/locations/futbol-match/voice/a0b1d9d416ea.mp3": {
     "file": "assets/a0b1d9d416ea-4asTWZsk.mp3",
     "src": "content/locations/futbol-match/voice/a0b1d9d416ea.mp3"
-  },
-  "content/locations/futbol-match/voice/a17ca12c2edc.mp3": {
-    "file": "assets/a17ca12c2edc-F72n9Hzn.mp3",
-    "src": "content/locations/futbol-match/voice/a17ca12c2edc.mp3"
   },
   "content/locations/futbol-match/voice/a4a6f6a5bfc2.mp3": {
     "file": "assets/a4a6f6a5bfc2-__kVT0u4.mp3",
@@ -13434,17 +13322,9 @@
     "file": "assets/c53b7cd6e95a-DoSKi4Qu.mp3",
     "src": "content/locations/futbol-match/voice/c53b7cd6e95a.mp3"
   },
-  "content/locations/futbol-match/voice/c5f7d8c96774.mp3": {
-    "file": "assets/c5f7d8c96774-BKn89ar3.mp3",
-    "src": "content/locations/futbol-match/voice/c5f7d8c96774.mp3"
-  },
   "content/locations/futbol-match/voice/c647a6b5f490.mp3": {
     "file": "assets/c647a6b5f490-DW6eKXW4.mp3",
     "src": "content/locations/futbol-match/voice/c647a6b5f490.mp3"
-  },
-  "content/locations/futbol-match/voice/c84e2690fcd5.mp3": {
-    "file": "assets/c84e2690fcd5-DcP--FOS.mp3",
-    "src": "content/locations/futbol-match/voice/c84e2690fcd5.mp3"
   },
   "content/locations/futbol-match/voice/c8841fa5b01f.mp3": {
     "file": "assets/c8841fa5b01f-niWxbnX9.mp3",
@@ -13526,17 +13406,9 @@
     "file": "assets/d970963bbd09-Bw1XEoPb.mp3",
     "src": "content/locations/futbol-match/voice/d970963bbd09.mp3"
   },
-  "content/locations/futbol-match/voice/dba4ac24bb0b.mp3": {
-    "file": "assets/dba4ac24bb0b-DaHLsoWa.mp3",
-    "src": "content/locations/futbol-match/voice/dba4ac24bb0b.mp3"
-  },
   "content/locations/futbol-match/voice/e0e4f8536c80.mp3": {
     "file": "assets/e0e4f8536c80-Csn2miYk.mp3",
     "src": "content/locations/futbol-match/voice/e0e4f8536c80.mp3"
-  },
-  "content/locations/futbol-match/voice/e1b9da3c122d.mp3": {
-    "file": "assets/e1b9da3c122d-BAc48TUU.mp3",
-    "src": "content/locations/futbol-match/voice/e1b9da3c122d.mp3"
   },
   "content/locations/futbol-match/voice/e2a06c923ef4.mp3": {
     "file": "assets/e2a06c923ef4-BrptXMdS.mp3",
@@ -13645,6 +13517,10 @@
   "content/locations/futbol-match/voice/fdd3ef87ebc7.mp3": {
     "file": "assets/fdd3ef87ebc7-oq2Qormg.mp3",
     "src": "content/locations/futbol-match/voice/fdd3ef87ebc7.mp3"
+  },
+  "content/locations/futbol-match/voice/fe68931fb82d.mp3": {
+    "file": "assets/fe68931fb82d-B6cFInme.mp3",
+    "src": "content/locations/bayterek/voice/fe68931fb82d.mp3"
   },
   "content/locations/gul-dukeni/assets/01-vhod.webp": {
     "file": "assets/01-vhod-CGyOXn7S.webp",
@@ -15248,11 +15124,11 @@
   },
   "content/locations/kafe/voice/005968af3430.mp3": {
     "file": "assets/005968af3430-JntaJuUs.mp3",
-    "src": "content/locations/avtobus/voice/005968af3430.mp3"
+    "src": "content/locations/futbol-match/voice/005968af3430.mp3"
   },
   "content/locations/kafe/voice/04a720f8650f.mp3": {
     "file": "assets/04a720f8650f-CPV5hwRn.mp3",
-    "src": "content/locations/avtobus/voice/04a720f8650f.mp3"
+    "src": "content/locations/kafe/voice/04a720f8650f.mp3"
   },
   "content/locations/kafe/voice/061d4be6e6b5.mp3": {
     "file": "assets/061d4be6e6b5-D3_2BFJb.mp3",
@@ -15276,7 +15152,7 @@
   },
   "content/locations/kafe/voice/11ee147f2525.mp3": {
     "file": "assets/11ee147f2525-CMry_dnY.mp3",
-    "src": "content/locations/kafe/voice/11ee147f2525.mp3"
+    "src": "content/locations/dvor/voice/11ee147f2525.mp3"
   },
   "content/locations/kafe/voice/12157664c281.mp3": {
     "file": "assets/12157664c281-Wsdj2VQG.mp3",
@@ -16342,10 +16218,6 @@
     "file": "assets/10320a432658-C7KBtRW0.mp3",
     "src": "content/locations/kino/voice/10320a432658.mp3"
   },
-  "content/locations/kino/voice/109bd6bf31fb.mp3": {
-    "file": "assets/109bd6bf31fb-4Mfa7UNN.mp3",
-    "src": "content/locations/kino/voice/109bd6bf31fb.mp3"
-  },
   "content/locations/kino/voice/12e7fe9fe6fa.mp3": {
     "file": "assets/12e7fe9fe6fa-C0VZKZRs.mp3",
     "src": "content/locations/kino/voice/12e7fe9fe6fa.mp3"
@@ -16353,10 +16225,6 @@
   "content/locations/kino/voice/131ce779e1dc.mp3": {
     "file": "assets/131ce779e1dc-Dq55zLPI.mp3",
     "src": "content/locations/kino/voice/131ce779e1dc.mp3"
-  },
-  "content/locations/kino/voice/13af7b5cab55.mp3": {
-    "file": "assets/13af7b5cab55-D_cH0ew6.mp3",
-    "src": "content/locations/kino/voice/13af7b5cab55.mp3"
   },
   "content/locations/kino/voice/1479fdc8ff2f.mp3": {
     "file": "assets/1479fdc8ff2f-CkmUPIg6.mp3",
@@ -16366,6 +16234,10 @@
     "file": "assets/17fc7189ddbd-K2RLJtIw.mp3",
     "src": "content/locations/darihana/voice/17fc7189ddbd.mp3"
   },
+  "content/locations/kino/voice/186a052e8f5c.mp3": {
+    "file": "assets/186a052e8f5c-DdCg0OWh.mp3",
+    "src": "content/locations/futbol-match/voice/186a052e8f5c.mp3"
+  },
   "content/locations/kino/voice/18dab67701d0.mp3": {
     "file": "assets/18dab67701d0-oYaNieAw.mp3",
     "src": "content/locations/expo/voice/18dab67701d0.mp3"
@@ -16373,10 +16245,6 @@
   "content/locations/kino/voice/1a53ad4e453d.mp3": {
     "file": "assets/1a53ad4e453d-D91Asv88.mp3",
     "src": "content/locations/kino/voice/1a53ad4e453d.mp3"
-  },
-  "content/locations/kino/voice/1aa7a3aaf2a2.mp3": {
-    "file": "assets/1aa7a3aaf2a2-DoQq8DlF.mp3",
-    "src": "content/locations/kino/voice/1aa7a3aaf2a2.mp3"
   },
   "content/locations/kino/voice/1c1d76bc724a.mp3": {
     "file": "assets/1c1d76bc724a-BYo6F66J.mp3",
@@ -16406,6 +16274,10 @@
     "file": "assets/387a7f10215b-Ba-1OH3j.mp3",
     "src": "content/locations/kino/voice/387a7f10215b.mp3"
   },
+  "content/locations/kino/voice/389f72d26188.mp3": {
+    "file": "assets/389f72d26188-B0eCDu6A.mp3",
+    "src": "content/locations/hokkei/voice/389f72d26188.mp3"
+  },
   "content/locations/kino/voice/39cda8d7e5bf.mp3": {
     "file": "assets/39cda8d7e5bf-CD4c4N-r.mp3",
     "src": "content/locations/kino/voice/39cda8d7e5bf.mp3"
@@ -16413,10 +16285,6 @@
   "content/locations/kino/voice/39d80cb19313.mp3": {
     "file": "assets/39d80cb19313-CDoYEvI3.mp3",
     "src": "content/locations/kino/voice/39d80cb19313.mp3"
-  },
-  "content/locations/kino/voice/3f2366adf81d.mp3": {
-    "file": "assets/3f2366adf81d-B7V7c6PG.mp3",
-    "src": "content/locations/kino/voice/3f2366adf81d.mp3"
   },
   "content/locations/kino/voice/3f6fbc7a3977.mp3": {
     "file": "assets/3f6fbc7a3977-B8jY9DTi.mp3",
@@ -16458,10 +16326,6 @@
     "file": "assets/4ea226b3e82f-BOa2mMBi.mp3",
     "src": "content/locations/kino/voice/4ea226b3e82f.mp3"
   },
-  "content/locations/kino/voice/4ee7f3f18324.mp3": {
-    "file": "assets/4ee7f3f18324-CW1jC23w.mp3",
-    "src": "content/locations/kino/voice/4ee7f3f18324.mp3"
-  },
   "content/locations/kino/voice/51c0a309d62e.mp3": {
     "file": "assets/51c0a309d62e-RXe2HKWN.mp3",
     "src": "content/locations/kino/voice/51c0a309d62e.mp3"
@@ -16484,7 +16348,7 @@
   },
   "content/locations/kino/voice/5c1ff372e6ad.mp3": {
     "file": "assets/5c1ff372e6ad-CLMVXGW0.mp3",
-    "src": "content/locations/kino/voice/5c1ff372e6ad.mp3"
+    "src": "content/locations/futbol-match/voice/5c1ff372e6ad.mp3"
   },
   "content/locations/kino/voice/5c5ae4f129f3.mp3": {
     "file": "assets/5c5ae4f129f3-C0yM7U0x.mp3",
@@ -16498,10 +16362,6 @@
     "file": "assets/5c9ca6dc124c-BZjr_O2E.mp3",
     "src": "content/locations/futbol-match/voice/5c9ca6dc124c.mp3"
   },
-  "content/locations/kino/voice/5e305cccbc3e.mp3": {
-    "file": "assets/5e305cccbc3e-f72GRKxD.mp3",
-    "src": "content/locations/kino/voice/5e305cccbc3e.mp3"
-  },
   "content/locations/kino/voice/5f0a22de9ae7.mp3": {
     "file": "assets/5f0a22de9ae7-DAqpUdOl.mp3",
     "src": "content/locations/kino/voice/5f0a22de9ae7.mp3"
@@ -16512,19 +16372,15 @@
   },
   "content/locations/kino/voice/6413a2cab742.mp3": {
     "file": "assets/6413a2cab742-DQvuoO4d.mp3",
-    "src": "content/locations/kino/voice/6413a2cab742.mp3"
+    "src": "content/locations/futbol-match/voice/6413a2cab742.mp3"
+  },
+  "content/locations/kino/voice/67fdba69c17b.mp3": {
+    "file": "assets/67fdba69c17b-B0vxtZPd.mp3",
+    "src": "content/locations/futbol-match/voice/67fdba69c17b.mp3"
   },
   "content/locations/kino/voice/6979a5ef4e90.mp3": {
     "file": "assets/6979a5ef4e90-DAH7NJzh.mp3",
     "src": "content/locations/kino/voice/6979a5ef4e90.mp3"
-  },
-  "content/locations/kino/voice/6cf8fb752353.mp3": {
-    "file": "assets/6cf8fb752353-DDnPuVgR.mp3",
-    "src": "content/locations/kino/voice/6cf8fb752353.mp3"
-  },
-  "content/locations/kino/voice/6f03fe1c6b31.mp3": {
-    "file": "assets/6f03fe1c6b31-ThErvZzg.mp3",
-    "src": "content/locations/kino/voice/6f03fe1c6b31.mp3"
   },
   "content/locations/kino/voice/7609313c84b9.mp3": {
     "file": "assets/7609313c84b9-BjnCXwyA.mp3",
@@ -16594,10 +16450,6 @@
     "file": "assets/9b07fcf4bbcd-COr57u1V.mp3",
     "src": "content/locations/kino/voice/9b07fcf4bbcd.mp3"
   },
-  "content/locations/kino/voice/9b255ea515e6.mp3": {
-    "file": "assets/9b255ea515e6-DwEi5csU.mp3",
-    "src": "content/locations/kino/voice/9b255ea515e6.mp3"
-  },
   "content/locations/kino/voice/9bfb1acc1c28.mp3": {
     "file": "assets/9bfb1acc1c28-Ppcz2UN7.mp3",
     "src": "content/locations/bassein/voice/9bfb1acc1c28.mp3"
@@ -16634,10 +16486,6 @@
     "file": "assets/a751d2ea01db-Cu1fe1vK.mp3",
     "src": "content/locations/kino/voice/a751d2ea01db.mp3"
   },
-  "content/locations/kino/voice/a80bc6712ff0.mp3": {
-    "file": "assets/a80bc6712ff0-zxGOOUZn.mp3",
-    "src": "content/locations/kino/voice/a80bc6712ff0.mp3"
-  },
   "content/locations/kino/voice/a9c69f0dc408.mp3": {
     "file": "assets/a9c69f0dc408-Be3GwKVx.mp3",
     "src": "content/locations/kino/voice/a9c69f0dc408.mp3"
@@ -16657,14 +16505,6 @@
   "content/locations/kino/voice/b4269ab625f5.mp3": {
     "file": "assets/b4269ab625f5-1IZ8Y4ro.mp3",
     "src": "content/locations/kino/voice/b4269ab625f5.mp3"
-  },
-  "content/locations/kino/voice/b42909d8f1f5.mp3": {
-    "file": "assets/b42909d8f1f5-Bp9Baaod.mp3",
-    "src": "content/locations/kino/voice/b42909d8f1f5.mp3"
-  },
-  "content/locations/kino/voice/b4c7b41b6390.mp3": {
-    "file": "assets/b4c7b41b6390-Bmi8d7k_.mp3",
-    "src": "content/locations/kino/voice/b4c7b41b6390.mp3"
   },
   "content/locations/kino/voice/b9bc90f00fc0.mp3": {
     "file": "assets/b9bc90f00fc0-q-RBnzYC.mp3",
@@ -16760,7 +16600,7 @@
   },
   "content/locations/kino/voice/f01207bfef16.mp3": {
     "file": "assets/f01207bfef16-BvYXAJwB.mp3",
-    "src": "content/locations/avtobus/voice/f01207bfef16.mp3"
+    "src": "content/locations/kino/voice/f01207bfef16.mp3"
   },
   "content/locations/kino/voice/f0ba7021b684.mp3": {
     "file": "assets/f0ba7021b684-BJ3PRipx.mp3",
@@ -16769,14 +16609,6 @@
   "content/locations/kino/voice/f396b9e9160f.mp3": {
     "file": "assets/f396b9e9160f-C14g7TqQ.mp3",
     "src": "content/locations/kino/voice/f396b9e9160f.mp3"
-  },
-  "content/locations/kino/voice/f4c9fffc0cbb.mp3": {
-    "file": "assets/f4c9fffc0cbb-B7KDSDP8.mp3",
-    "src": "content/locations/kino/voice/f4c9fffc0cbb.mp3"
-  },
-  "content/locations/kino/voice/f96230923782.mp3": {
-    "file": "assets/f96230923782-Dij90Pj2.mp3",
-    "src": "content/locations/kino/voice/f96230923782.mp3"
   },
   "content/locations/kino/voice/fce9066cdca7.mp3": {
     "file": "assets/fce9066cdca7-C3FRQmMH.mp3",
@@ -16914,6 +16746,10 @@
     "file": "assets/17101afd738a-Di66J-jF.mp3",
     "src": "content/locations/kitaphana/voice/17101afd738a.mp3"
   },
+  "content/locations/kitaphana/voice/1b51e1f96217.mp3": {
+    "file": "assets/1b51e1f96217-DeOkE39X.mp3",
+    "src": "content/locations/emhana/voice/1b51e1f96217.mp3"
+  },
   "content/locations/kitaphana/voice/1c4dd27e9854.mp3": {
     "file": "assets/1c4dd27e9854-D455Y-SS.mp3",
     "src": "content/locations/kitaphana/voice/1c4dd27e9854.mp3"
@@ -16929,10 +16765,6 @@
   "content/locations/kitaphana/voice/20e4ec46f339.mp3": {
     "file": "assets/20e4ec46f339-Ck5750Nf.mp3",
     "src": "content/locations/kitaphana/voice/20e4ec46f339.mp3"
-  },
-  "content/locations/kitaphana/voice/23dfda413413.mp3": {
-    "file": "assets/23dfda413413-PGxzATIY.mp3",
-    "src": "content/locations/kitaphana/voice/23dfda413413.mp3"
   },
   "content/locations/kitaphana/voice/2a097e131609.mp3": {
     "file": "assets/2a097e131609-JnnQ1nVI.mp3",
@@ -17030,10 +16862,6 @@
     "file": "assets/49ed80bbddc9-C-iBjjwT.mp3",
     "src": "content/locations/kitaphana/voice/49ed80bbddc9.mp3"
   },
-  "content/locations/kitaphana/voice/4cd63b966ba2.mp3": {
-    "file": "assets/4cd63b966ba2-B0eN2FUN.mp3",
-    "src": "content/locations/kitaphana/voice/4cd63b966ba2.mp3"
-  },
   "content/locations/kitaphana/voice/4de93c2246b0.mp3": {
     "file": "assets/4de93c2246b0-zVLzcF1P.mp3",
     "src": "content/locations/kitaphana/voice/4de93c2246b0.mp3"
@@ -17050,10 +16878,6 @@
     "file": "assets/595dda40c149-DrbvpG6P.mp3",
     "src": "content/locations/kitaphana/voice/595dda40c149.mp3"
   },
-  "content/locations/kitaphana/voice/5a2a4d846e48.mp3": {
-    "file": "assets/5a2a4d846e48-DwckUZDv.mp3",
-    "src": "content/locations/kitaphana/voice/5a2a4d846e48.mp3"
-  },
   "content/locations/kitaphana/voice/5c21c817aac7.mp3": {
     "file": "assets/5c21c817aac7-B76p86Gs.mp3",
     "src": "content/locations/kitaphana/voice/5c21c817aac7.mp3"
@@ -17065,10 +16889,6 @@
   "content/locations/kitaphana/voice/5ea85a5287e3.mp3": {
     "file": "assets/5ea85a5287e3-BA6qIPWj.mp3",
     "src": "content/locations/kitaphana/voice/5ea85a5287e3.mp3"
-  },
-  "content/locations/kitaphana/voice/5ecc925ada08.mp3": {
-    "file": "assets/5ecc925ada08-AZw5PCfX.mp3",
-    "src": "content/locations/kitaphana/voice/5ecc925ada08.mp3"
   },
   "content/locations/kitaphana/voice/61817a2c653d.mp3": {
     "file": "assets/61817a2c653d-CoPI3A5M.mp3",
@@ -17105,14 +16925,6 @@
   "content/locations/kitaphana/voice/6b6696d0fcb5.mp3": {
     "file": "assets/6b6696d0fcb5-uOoh9k_5.mp3",
     "src": "content/locations/kitaphana/voice/6b6696d0fcb5.mp3"
-  },
-  "content/locations/kitaphana/voice/6ed4f6c1df3a.mp3": {
-    "file": "assets/6ed4f6c1df3a-DTeS9kQM.mp3",
-    "src": "content/locations/kitaphana/voice/6ed4f6c1df3a.mp3"
-  },
-  "content/locations/kitaphana/voice/6f11d35ff4ef.mp3": {
-    "file": "assets/6f11d35ff4ef-DduXADyd.mp3",
-    "src": "content/locations/kitaphana/voice/6f11d35ff4ef.mp3"
   },
   "content/locations/kitaphana/voice/7462dcf0a93b.mp3": {
     "file": "assets/7462dcf0a93b-CbVAO7G0.mp3",
@@ -17182,6 +16994,10 @@
     "file": "assets/932c7d49007b-DjyEUryC.mp3",
     "src": "content/locations/kitaphana/voice/932c7d49007b.mp3"
   },
+  "content/locations/kitaphana/voice/936725c07f3f.mp3": {
+    "file": "assets/936725c07f3f-HSTOeCqI.mp3",
+    "src": "content/locations/kitaphana/voice/936725c07f3f.mp3"
+  },
   "content/locations/kitaphana/voice/944fdd032911.mp3": {
     "file": "assets/944fdd032911-BNqqm7cE.mp3",
     "src": "content/locations/kitaphana/voice/944fdd032911.mp3"
@@ -17250,10 +17066,6 @@
     "file": "assets/b0f1041a948c-C0BNwWWA.mp3",
     "src": "content/locations/kitaphana/voice/b0f1041a948c.mp3"
   },
-  "content/locations/kitaphana/voice/b1a0e3e2d3c7.mp3": {
-    "file": "assets/b1a0e3e2d3c7-D9zu8oJE.mp3",
-    "src": "content/locations/kitaphana/voice/b1a0e3e2d3c7.mp3"
-  },
   "content/locations/kitaphana/voice/b2426d64a7e0.mp3": {
     "file": "assets/b2426d64a7e0-Bjc3vOE8.mp3",
     "src": "content/locations/kitaphana/voice/b2426d64a7e0.mp3"
@@ -17273,10 +17085,6 @@
   "content/locations/kitaphana/voice/bc14ef4ece3b.mp3": {
     "file": "assets/bc14ef4ece3b-luavFEYF.mp3",
     "src": "content/locations/kitaphana/voice/bc14ef4ece3b.mp3"
-  },
-  "content/locations/kitaphana/voice/bd1e14d73492.mp3": {
-    "file": "assets/bd1e14d73492-C18gqkhk.mp3",
-    "src": "content/locations/kitaphana/voice/bd1e14d73492.mp3"
   },
   "content/locations/kitaphana/voice/bd2aca970f70.mp3": {
     "file": "assets/bd2aca970f70-D8hR2UNk.mp3",
@@ -17322,10 +17130,6 @@
     "file": "assets/d6a37d0ac69f-YH_k3ZKY.mp3",
     "src": "content/locations/kitaphana/voice/d6a37d0ac69f.mp3"
   },
-  "content/locations/kitaphana/voice/d880cb500f89.mp3": {
-    "file": "assets/d880cb500f89-i2HLcZCs.mp3",
-    "src": "content/locations/kitaphana/voice/d880cb500f89.mp3"
-  },
   "content/locations/kitaphana/voice/d89fe04cef12.mp3": {
     "file": "assets/d89fe04cef12-BUfGRfdH.mp3",
     "src": "content/locations/kitaphana/voice/d89fe04cef12.mp3"
@@ -17336,7 +17140,7 @@
   },
   "content/locations/kitaphana/voice/d9385315f83a.mp3": {
     "file": "assets/d9385315f83a-c0ollivn.mp3",
-    "src": "content/locations/kitaphana/voice/d9385315f83a.mp3"
+    "src": "content/locations/darihana/voice/d9385315f83a.mp3"
   },
   "content/locations/kitaphana/voice/db8aac53f056.mp3": {
     "file": "assets/db8aac53f056-CBvNI9zD.mp3",
@@ -17382,14 +17186,6 @@
     "file": "assets/ebc95adc1494-D__RaQQd.mp3",
     "src": "content/locations/kitaphana/voice/ebc95adc1494.mp3"
   },
-  "content/locations/kitaphana/voice/ecd0d2b85287.mp3": {
-    "file": "assets/ecd0d2b85287-D_XiaiM4.mp3",
-    "src": "content/locations/kitaphana/voice/ecd0d2b85287.mp3"
-  },
-  "content/locations/kitaphana/voice/f0f6cc3ca4e8.mp3": {
-    "file": "assets/f0f6cc3ca4e8-CWbgud48.mp3",
-    "src": "content/locations/kitaphana/voice/f0f6cc3ca4e8.mp3"
-  },
   "content/locations/kitaphana/voice/f1cbaaa3521c.mp3": {
     "file": "assets/f1cbaaa3521c-ad2IOfc1.mp3",
     "src": "content/locations/kitaphana/voice/f1cbaaa3521c.mp3"
@@ -17398,10 +17194,6 @@
     "file": "assets/f7fa7291f2b0-DOq3AMDk.mp3",
     "src": "content/locations/kitaphana/voice/f7fa7291f2b0.mp3"
   },
-  "content/locations/kitaphana/voice/f98d6e2bd7ac.mp3": {
-    "file": "assets/f98d6e2bd7ac-hH0yFvka.mp3",
-    "src": "content/locations/kafe/voice/f98d6e2bd7ac.mp3"
-  },
   "content/locations/kitaphana/voice/fa2c2a2b03ab.mp3": {
     "file": "assets/fa2c2a2b03ab-1aqvxHMn.mp3",
     "src": "content/locations/kitaphana/voice/fa2c2a2b03ab.mp3"
@@ -17409,10 +17201,6 @@
   "content/locations/kitaphana/voice/fc29c83873ed.mp3": {
     "file": "assets/fc29c83873ed-BTUBxZiV.mp3",
     "src": "content/locations/kitaphana/voice/fc29c83873ed.mp3"
-  },
-  "content/locations/kitaphana/voice/fc7b891bfe95.mp3": {
-    "file": "assets/fc7b891bfe95-B2NNsWOp.mp3",
-    "src": "content/locations/kitaphana/voice/fc7b891bfe95.mp3"
   },
   "content/locations/kitaphana/voice/fcfe65e7d3d7.mp3": {
     "file": "assets/fcfe65e7d3d7-BaKZSpr5.mp3",
@@ -18156,7 +17944,7 @@
   },
   "content/locations/kvartira/voice/0dad87621c92.mp3": {
     "file": "assets/0dad87621c92-C38u9mX2.mp3",
-    "src": "content/locations/futbol-match/voice/0dad87621c92.mp3"
+    "src": "content/locations/kvartira/voice/0dad87621c92.mp3"
   },
   "content/locations/kvartira/voice/0dccbfae40b5.mp3": {
     "file": "assets/0dccbfae40b5-CHNXQXJE.mp3",
@@ -19988,7 +19776,7 @@
   },
   "content/locations/kvartira/voice/e1b9da3c122d.mp3": {
     "file": "assets/e1b9da3c122d-BAc48TUU.mp3",
-    "src": "content/locations/futbol-match/voice/e1b9da3c122d.mp3"
+    "src": "content/locations/kvartira/voice/e1b9da3c122d.mp3"
   },
   "content/locations/kvartira/voice/e24812818358.mp3": {
     "file": "assets/e24812818358-D_Ak0T7S.mp3",
@@ -20410,10 +20198,6 @@
     "file": "assets/016dff33e645-Uiw7Lwlr.mp3",
     "src": "content/locations/magazin/voice/016dff33e645.mp3"
   },
-  "content/locations/magazin/voice/02fac9c67c54.mp3": {
-    "file": "assets/02fac9c67c54-CqP86gvT.mp3",
-    "src": "content/locations/magazin/voice/02fac9c67c54.mp3"
-  },
   "content/locations/magazin/voice/03c6a63a32a5.mp3": {
     "file": "assets/03c6a63a32a5-bkB5wG52.mp3",
     "src": "content/locations/magazin/voice/03c6a63a32a5.mp3"
@@ -20442,13 +20226,13 @@
     "file": "assets/0f122d4dca79-BM2sg2Ka.mp3",
     "src": "content/locations/magazin/voice/0f122d4dca79.mp3"
   },
-  "content/locations/magazin/voice/1019f40b4067.mp3": {
-    "file": "assets/1019f40b4067-AKR5FJdF.mp3",
-    "src": "content/locations/magazin/voice/1019f40b4067.mp3"
-  },
   "content/locations/magazin/voice/11a0497e5909.mp3": {
     "file": "assets/11a0497e5909-CdqsmPhL.mp3",
     "src": "content/locations/magazin/voice/11a0497e5909.mp3"
+  },
+  "content/locations/magazin/voice/11ee147f2525.mp3": {
+    "file": "assets/11ee147f2525-CMry_dnY.mp3",
+    "src": "content/locations/dvor/voice/11ee147f2525.mp3"
   },
   "content/locations/magazin/voice/1271c7640afa.mp3": {
     "file": "assets/1271c7640afa-xV8UlVD_.mp3",
@@ -20457,10 +20241,6 @@
   "content/locations/magazin/voice/16fb12c2115a.mp3": {
     "file": "assets/16fb12c2115a-yaLlA3t5.mp3",
     "src": "content/locations/magazin/voice/16fb12c2115a.mp3"
-  },
-  "content/locations/magazin/voice/180cdf84874d.mp3": {
-    "file": "assets/180cdf84874d-Bi34p0Tp.mp3",
-    "src": "content/locations/magazin/voice/180cdf84874d.mp3"
   },
   "content/locations/magazin/voice/18dab67701d0.mp3": {
     "file": "assets/18dab67701d0-oYaNieAw.mp3",
@@ -20498,10 +20278,6 @@
     "file": "assets/230285f29e61-BLyodsp5.mp3",
     "src": "content/locations/magazin/voice/230285f29e61.mp3"
   },
-  "content/locations/magazin/voice/2398a6ef1e9b.mp3": {
-    "file": "assets/2398a6ef1e9b-DWIkPxOH.mp3",
-    "src": "content/locations/magazin/voice/2398a6ef1e9b.mp3"
-  },
   "content/locations/magazin/voice/26dd8965e900.mp3": {
     "file": "assets/26dd8965e900-Djrl0enz.mp3",
     "src": "content/locations/bazar/voice/26dd8965e900.mp3"
@@ -20513,10 +20289,6 @@
   "content/locations/magazin/voice/2a09c6dcd314.mp3": {
     "file": "assets/2a09c6dcd314-BGAU-AdS.mp3",
     "src": "content/locations/magazin/voice/2a09c6dcd314.mp3"
-  },
-  "content/locations/magazin/voice/2b160e3cf89f.mp3": {
-    "file": "assets/2b160e3cf89f-DRvMW7a3.mp3",
-    "src": "content/locations/magazin/voice/2b160e3cf89f.mp3"
   },
   "content/locations/magazin/voice/2ec2e39ce8a4.mp3": {
     "file": "assets/2ec2e39ce8a4-BJvwBR2U.mp3",
@@ -20532,7 +20304,7 @@
   },
   "content/locations/magazin/voice/3343b3c0b0dc.mp3": {
     "file": "assets/3343b3c0b0dc-BGqUDeLO.mp3",
-    "src": "content/locations/emhana/voice/3343b3c0b0dc.mp3"
+    "src": "content/locations/magazin/voice/3343b3c0b0dc.mp3"
   },
   "content/locations/magazin/voice/3363185be65a.mp3": {
     "file": "assets/3363185be65a-B8dNIY_9.mp3",
@@ -20622,10 +20394,6 @@
     "file": "assets/5b1f4f5c00eb-Bu54yF2a.mp3",
     "src": "content/locations/magazin/voice/5b1f4f5c00eb.mp3"
   },
-  "content/locations/magazin/voice/5b68791a8fce.mp3": {
-    "file": "assets/5b68791a8fce-D2H7FXDe.mp3",
-    "src": "content/locations/magazin/voice/5b68791a8fce.mp3"
-  },
   "content/locations/magazin/voice/5e2eed73220f.mp3": {
     "file": "assets/5e2eed73220f-B9Dm8AqJ.mp3",
     "src": "content/locations/magazin/voice/5e2eed73220f.mp3"
@@ -20646,13 +20414,13 @@
     "file": "assets/61aff5f5d482-BhHkSaEf.mp3",
     "src": "content/locations/magazin/voice/61aff5f5d482.mp3"
   },
+  "content/locations/magazin/voice/6459105c0818.mp3": {
+    "file": "assets/6459105c0818-B_lB1gIF.mp3",
+    "src": "content/locations/magazin/voice/6459105c0818.mp3"
+  },
   "content/locations/magazin/voice/651bc9cba3c9.mp3": {
     "file": "assets/651bc9cba3c9-CkhgCeW1.mp3",
     "src": "content/locations/magazin/voice/651bc9cba3c9.mp3"
-  },
-  "content/locations/magazin/voice/682d6e6a8b57.mp3": {
-    "file": "assets/682d6e6a8b57-CNrvsNRV.mp3",
-    "src": "content/locations/magazin/voice/682d6e6a8b57.mp3"
   },
   "content/locations/magazin/voice/687fbf4152f5.mp3": {
     "file": "assets/687fbf4152f5-Cp9rp8Oh.mp3",
@@ -20682,10 +20450,6 @@
     "file": "assets/733bf766cf1c-BI6ebl03.mp3",
     "src": "content/locations/magazin/voice/733bf766cf1c.mp3"
   },
-  "content/locations/magazin/voice/748d833119c1.mp3": {
-    "file": "assets/748d833119c1-CVm0eHCo.mp3",
-    "src": "content/locations/magazin/voice/748d833119c1.mp3"
-  },
   "content/locations/magazin/voice/754493fd35de.mp3": {
     "file": "assets/754493fd35de-JUUwVvJu.mp3",
     "src": "content/locations/magazin/voice/754493fd35de.mp3"
@@ -20701,10 +20465,6 @@
   "content/locations/magazin/voice/7b5df46206d7.mp3": {
     "file": "assets/7b5df46206d7-DsWY0H58.mp3",
     "src": "content/locations/magazin/voice/7b5df46206d7.mp3"
-  },
-  "content/locations/magazin/voice/7db7462c9f4a.mp3": {
-    "file": "assets/7db7462c9f4a-BvkGwqTk.mp3",
-    "src": "content/locations/magazin/voice/7db7462c9f4a.mp3"
   },
   "content/locations/magazin/voice/7f9c1cbd8920.mp3": {
     "file": "assets/7f9c1cbd8920-Ds-1_-DE.mp3",
@@ -20796,7 +20556,7 @@
   },
   "content/locations/magazin/voice/ae4bc4ae6cab.mp3": {
     "file": "assets/ae4bc4ae6cab-DO6WvD8A.mp3",
-    "src": "content/locations/darihana/voice/ae4bc4ae6cab.mp3"
+    "src": "content/locations/magazin/voice/ae4bc4ae6cab.mp3"
   },
   "content/locations/magazin/voice/aefc572fe870.mp3": {
     "file": "assets/aefc572fe870-BDFZVR-v.mp3",
@@ -20817,10 +20577,6 @@
   "content/locations/magazin/voice/b673c481150b.mp3": {
     "file": "assets/b673c481150b-BKZtGnml.mp3",
     "src": "content/locations/magazin/voice/b673c481150b.mp3"
-  },
-  "content/locations/magazin/voice/b94f6a6c0ffb.mp3": {
-    "file": "assets/b94f6a6c0ffb-DZr3zai9.mp3",
-    "src": "content/locations/magazin/voice/b94f6a6c0ffb.mp3"
   },
   "content/locations/magazin/voice/b9bc90f00fc0.mp3": {
     "file": "assets/b9bc90f00fc0-q-RBnzYC.mp3",
@@ -20878,6 +20634,10 @@
     "file": "assets/cfb3fb0988c8-Bjc4XdFG.mp3",
     "src": "content/locations/asxana/voice/cfb3fb0988c8.mp3"
   },
+  "content/locations/magazin/voice/d0ff36943204.mp3": {
+    "file": "assets/d0ff36943204-nlvzO67Z.mp3",
+    "src": "content/locations/avtobus/voice/d0ff36943204.mp3"
+  },
   "content/locations/magazin/voice/d2649a176a63.mp3": {
     "file": "assets/d2649a176a63-Ctsu68PJ.mp3",
     "src": "content/locations/magazin/voice/d2649a176a63.mp3"
@@ -20901,14 +20661,6 @@
   "content/locations/magazin/voice/d887395b7717.mp3": {
     "file": "assets/d887395b7717--L6QzWyX.mp3",
     "src": "content/locations/magazin/voice/d887395b7717.mp3"
-  },
-  "content/locations/magazin/voice/d8ab8d2dfe21.mp3": {
-    "file": "assets/d8ab8d2dfe21-BqZG7ebB.mp3",
-    "src": "content/locations/magazin/voice/d8ab8d2dfe21.mp3"
-  },
-  "content/locations/magazin/voice/d9d344f9f43f.mp3": {
-    "file": "assets/d9d344f9f43f-BmhnyzwY.mp3",
-    "src": "content/locations/magazin/voice/d9d344f9f43f.mp3"
   },
   "content/locations/magazin/voice/dd9565fcafad.mp3": {
     "file": "assets/dd9565fcafad-B9uN0Tw6.mp3",
@@ -20998,9 +20750,9 @@
     "file": "assets/f8c7fcaf8871-DCi-IHRC.mp3",
     "src": "content/locations/magazin/voice/f8c7fcaf8871.mp3"
   },
-  "content/locations/magazin/voice/fa22d59d0208.mp3": {
-    "file": "assets/fa22d59d0208-BOamFwk_.mp3",
-    "src": "content/locations/bazar/voice/fa22d59d0208.mp3"
+  "content/locations/magazin/voice/fc16d3f633c8.mp3": {
+    "file": "assets/fc16d3f633c8-CD5me-gj.mp3",
+    "src": "content/locations/magazin/voice/fc16d3f633c8.mp3"
   },
   "content/locations/magazin/voice/ffd4db6f37a6.mp3": {
     "file": "assets/ffd4db6f37a6-BcipP2kj.mp3",
@@ -21130,10 +20882,6 @@
     "file": "assets/0fd956c109d2-ParkPEe6.mp3",
     "src": "content/locations/mektep/voice/0fd956c109d2.mp3"
   },
-  "content/locations/mektep/voice/11cc0568f4a5.mp3": {
-    "file": "assets/11cc0568f4a5-Bh_rpH2y.mp3",
-    "src": "content/locations/mektep/voice/11cc0568f4a5.mp3"
-  },
   "content/locations/mektep/voice/12e44706d794.mp3": {
     "file": "assets/12e44706d794-DBzB3MVV.mp3",
     "src": "content/locations/mektep/voice/12e44706d794.mp3"
@@ -21204,7 +20952,7 @@
   },
   "content/locations/mektep/voice/3e21a7ce8a6e.mp3": {
     "file": "assets/3e21a7ce8a6e-BvkBbyfQ.mp3",
-    "src": "content/locations/mektep/voice/3e21a7ce8a6e.mp3"
+    "src": "content/locations/dvor/voice/3e21a7ce8a6e.mp3"
   },
   "content/locations/mektep/voice/42a6a7498567.mp3": {
     "file": "assets/42a6a7498567-B5O4xcLe.mp3",
@@ -21270,10 +21018,6 @@
     "file": "assets/561d2549e223-CarHPP-9.mp3",
     "src": "content/locations/mektep/voice/561d2549e223.mp3"
   },
-  "content/locations/mektep/voice/57ff808b93da.mp3": {
-    "file": "assets/57ff808b93da-ZQi55No6.mp3",
-    "src": "content/locations/mektep/voice/57ff808b93da.mp3"
-  },
   "content/locations/mektep/voice/580608818066.mp3": {
     "file": "assets/580608818066-DTnpTZx2.mp3",
     "src": "content/locations/asxana/voice/580608818066.mp3"
@@ -21286,17 +21030,9 @@
     "file": "assets/5b905f4e9d5a-GDdsJIYP.mp3",
     "src": "content/locations/mektep/voice/5b905f4e9d5a.mp3"
   },
-  "content/locations/mektep/voice/5bdce40ce80a.mp3": {
-    "file": "assets/5bdce40ce80a-D4wfw_ZU.mp3",
-    "src": "content/locations/mektep/voice/5bdce40ce80a.mp3"
-  },
   "content/locations/mektep/voice/5c9b208b32cc.mp3": {
     "file": "assets/5c9b208b32cc-nm0jA-xf.mp3",
     "src": "content/locations/mektep/voice/5c9b208b32cc.mp3"
-  },
-  "content/locations/mektep/voice/5dde105c1de7.mp3": {
-    "file": "assets/5dde105c1de7-C_LJq42N.mp3",
-    "src": "content/locations/mektep/voice/5dde105c1de7.mp3"
   },
   "content/locations/mektep/voice/5ed1e453c0de.mp3": {
     "file": "assets/5ed1e453c0de-BZRSQVWl.mp3",
@@ -21406,10 +21142,6 @@
     "file": "assets/9ad0a49221a8-BWDC3FcA.mp3",
     "src": "content/locations/mektep/voice/9ad0a49221a8.mp3"
   },
-  "content/locations/mektep/voice/9b6e87da1102.mp3": {
-    "file": "assets/9b6e87da1102-BxzsVsEQ.mp3",
-    "src": "content/locations/mektep/voice/9b6e87da1102.mp3"
-  },
   "content/locations/mektep/voice/9d596c2cfc27.mp3": {
     "file": "assets/9d596c2cfc27-Z6xdrgcu.mp3",
     "src": "content/locations/mektep/voice/9d596c2cfc27.mp3"
@@ -21425,10 +21157,6 @@
   "content/locations/mektep/voice/a04c402c3ba0.mp3": {
     "file": "assets/a04c402c3ba0-CkHq1bKB.mp3",
     "src": "content/locations/mektep/voice/a04c402c3ba0.mp3"
-  },
-  "content/locations/mektep/voice/a9743b1d383e.mp3": {
-    "file": "assets/a9743b1d383e-BsyiqJkB.mp3",
-    "src": "content/locations/mektep/voice/a9743b1d383e.mp3"
   },
   "content/locations/mektep/voice/aec5a64fd55c.mp3": {
     "file": "assets/aec5a64fd55c-DAzgX223.mp3",
@@ -21529,10 +21257,6 @@
   "content/locations/mektep/voice/e41a696921e5.mp3": {
     "file": "assets/e41a696921e5-BowhPjrc.mp3",
     "src": "content/locations/mektep/voice/e41a696921e5.mp3"
-  },
-  "content/locations/mektep/voice/e4ee2027ebda.mp3": {
-    "file": "assets/e4ee2027ebda-BV40Krmy.mp3",
-    "src": "content/locations/mektep/voice/e4ee2027ebda.mp3"
   },
   "content/locations/mektep/voice/e593d012aa78.mp3": {
     "file": "assets/e593d012aa78-B7IRpbX6.mp3",
@@ -23300,7 +23024,7 @@
   },
   "content/locations/okeanarium/voice/e94724a068d8.mp3": {
     "file": "assets/e94724a068d8-BLNnpV_7.mp3",
-    "src": "content/locations/okeanarium/voice/e94724a068d8.mp3"
+    "src": "content/locations/darihana/voice/e94724a068d8.mp3"
   },
   "content/locations/okeanarium/voice/e9e5afbeaedb.mp3": {
     "file": "assets/e9e5afbeaedb-DLk7CxUW.mp3",
@@ -23458,10 +23182,6 @@
     "file": "assets/0c8822bbe109-Bn3JYyGg.mp3",
     "src": "content/locations/pochta/voice/0c8822bbe109.mp3"
   },
-  "content/locations/pochta/voice/11fbb95cd919.mp3": {
-    "file": "assets/11fbb95cd919-RCq6CjqO.mp3",
-    "src": "content/locations/pochta/voice/11fbb95cd919.mp3"
-  },
   "content/locations/pochta/voice/1627e88c5e13.mp3": {
     "file": "assets/1627e88c5e13-DQJukK2I.mp3",
     "src": "content/locations/asxana/voice/1627e88c5e13.mp3"
@@ -23473,6 +23193,10 @@
   "content/locations/pochta/voice/1dc76b21a9bc.mp3": {
     "file": "assets/1dc76b21a9bc-B6Z1uau3.mp3",
     "src": "content/locations/pochta/voice/1dc76b21a9bc.mp3"
+  },
+  "content/locations/pochta/voice/251f4317b3cd.mp3": {
+    "file": "assets/251f4317b3cd-DpzBg71-.mp3",
+    "src": "content/locations/pochta/voice/251f4317b3cd.mp3"
   },
   "content/locations/pochta/voice/259c21d1b6a9.mp3": {
     "file": "assets/259c21d1b6a9-DnRuQ1uG.mp3",
@@ -23518,10 +23242,6 @@
     "file": "assets/3a237e63cea6-C3K8ZwTs.mp3",
     "src": "content/locations/pochta/voice/3a237e63cea6.mp3"
   },
-  "content/locations/pochta/voice/3b23dbb1a767.mp3": {
-    "file": "assets/3b23dbb1a767-D6A7Wovu.mp3",
-    "src": "content/locations/pochta/voice/3b23dbb1a767.mp3"
-  },
   "content/locations/pochta/voice/3d3692c69343.mp3": {
     "file": "assets/3d3692c69343-BsYl0sqd.mp3",
     "src": "content/locations/pochta/voice/3d3692c69343.mp3"
@@ -23537,10 +23257,6 @@
   "content/locations/pochta/voice/3f6fbc7a3977.mp3": {
     "file": "assets/3f6fbc7a3977-B8jY9DTi.mp3",
     "src": "content/locations/avtobus/voice/3f6fbc7a3977.mp3"
-  },
-  "content/locations/pochta/voice/3fea40212d1b.mp3": {
-    "file": "assets/3fea40212d1b-BmdAz6Hx.mp3",
-    "src": "content/locations/pochta/voice/3fea40212d1b.mp3"
   },
   "content/locations/pochta/voice/416ee3cf22f9.mp3": {
     "file": "assets/416ee3cf22f9-Deilbc65.mp3",
@@ -23614,10 +23330,6 @@
     "file": "assets/6fe7ac05405f-DcGsN03X.mp3",
     "src": "content/locations/pochta/voice/6fe7ac05405f.mp3"
   },
-  "content/locations/pochta/voice/70c57f35c1ae.mp3": {
-    "file": "assets/70c57f35c1ae-LaTONvaE.mp3",
-    "src": "content/locations/pochta/voice/70c57f35c1ae.mp3"
-  },
   "content/locations/pochta/voice/72ac79d61ef8.mp3": {
     "file": "assets/72ac79d61ef8-DX90Cd0_.mp3",
     "src": "content/locations/pochta/voice/72ac79d61ef8.mp3"
@@ -23637,10 +23349,6 @@
   "content/locations/pochta/voice/7c47650a8fb6.mp3": {
     "file": "assets/7c47650a8fb6-C8f8EII2.mp3",
     "src": "content/locations/pochta/voice/7c47650a8fb6.mp3"
-  },
-  "content/locations/pochta/voice/7ed722b8ca53.mp3": {
-    "file": "assets/7ed722b8ca53-B8O4UULk.mp3",
-    "src": "content/locations/pochta/voice/7ed722b8ca53.mp3"
   },
   "content/locations/pochta/voice/7efc5f2a45b7.mp3": {
     "file": "assets/7efc5f2a45b7-DZYPPGHd.mp3",
@@ -23730,6 +23438,10 @@
     "file": "assets/b2d5b37299fe-DI8_1h66.mp3",
     "src": "content/locations/pochta/voice/b2d5b37299fe.mp3"
   },
+  "content/locations/pochta/voice/b366e7e693a5.mp3": {
+    "file": "assets/b366e7e693a5-Sx4_2VM_.mp3",
+    "src": "content/locations/pochta/voice/b366e7e693a5.mp3"
+  },
   "content/locations/pochta/voice/b3c364407960.mp3": {
     "file": "assets/b3c364407960-BGRH3vKr.mp3",
     "src": "content/locations/pochta/voice/b3c364407960.mp3"
@@ -23750,6 +23462,10 @@
     "file": "assets/b6a05c1b84b6-CLaexVPs.mp3",
     "src": "content/locations/pochta/voice/b6a05c1b84b6.mp3"
   },
+  "content/locations/pochta/voice/b761160f59a0.mp3": {
+    "file": "assets/b761160f59a0-Co-mqpit.mp3",
+    "src": "content/locations/pochta/voice/b761160f59a0.mp3"
+  },
   "content/locations/pochta/voice/b8f72bcc910a.mp3": {
     "file": "assets/b8f72bcc910a-DVsLgLyo.mp3",
     "src": "content/locations/pochta/voice/b8f72bcc910a.mp3"
@@ -23766,13 +23482,13 @@
     "file": "assets/bbb76dce616a-CvEmcD6X.mp3",
     "src": "content/locations/aeroport/voice/bbb76dce616a.mp3"
   },
+  "content/locations/pochta/voice/c0a064fecdb6.mp3": {
+    "file": "assets/c0a064fecdb6-FbEdYYLp.mp3",
+    "src": "content/locations/pochta/voice/c0a064fecdb6.mp3"
+  },
   "content/locations/pochta/voice/c1531026fb94.mp3": {
     "file": "assets/c1531026fb94-D9Fy0j8y.mp3",
     "src": "content/locations/pochta/voice/c1531026fb94.mp3"
-  },
-  "content/locations/pochta/voice/c37b66a1191f.mp3": {
-    "file": "assets/c37b66a1191f-DtFX02SE.mp3",
-    "src": "content/locations/pochta/voice/c37b66a1191f.mp3"
   },
   "content/locations/pochta/voice/c38141338b9d.mp3": {
     "file": "assets/c38141338b9d-hCC5CBvq.mp3",
@@ -23805,10 +23521,6 @@
   "content/locations/pochta/voice/d4dff7223d05.mp3": {
     "file": "assets/d4dff7223d05-DOyopy4d.mp3",
     "src": "content/locations/pochta/voice/d4dff7223d05.mp3"
-  },
-  "content/locations/pochta/voice/d60bc1975e31.mp3": {
-    "file": "assets/d60bc1975e31-zPM5azHE.mp3",
-    "src": "content/locations/pochta/voice/d60bc1975e31.mp3"
   },
   "content/locations/pochta/voice/d7f23b21648c.mp3": {
     "file": "assets/d7f23b21648c-DfIoc2F9.mp3",
@@ -23858,10 +23570,6 @@
     "file": "assets/f22299c92bf9-DZQXD54B.mp3",
     "src": "content/locations/pochta/voice/f22299c92bf9.mp3"
   },
-  "content/locations/pochta/voice/f353385c7442.mp3": {
-    "file": "assets/f353385c7442-BaddEPrX.mp3",
-    "src": "content/locations/pochta/voice/f353385c7442.mp3"
-  },
   "content/locations/pochta/voice/f4478d4d758a.mp3": {
     "file": "assets/f4478d4d758a-DQg-8H8r.mp3",
     "src": "content/locations/pochta/voice/f4478d4d758a.mp3"
@@ -23873,10 +23581,6 @@
   "content/locations/pochta/voice/f853b5ab6829.mp3": {
     "file": "assets/f853b5ab6829-_VRgrR1f.mp3",
     "src": "content/locations/pochta/voice/f853b5ab6829.mp3"
-  },
-  "content/locations/pochta/voice/f9a2b3051455.mp3": {
-    "file": "assets/f9a2b3051455-CYO-ADkO.mp3",
-    "src": "content/locations/pochta/voice/f9a2b3051455.mp3"
   },
   "content/locations/pochta/voice/fb7b0c557cd9.mp3": {
     "file": "assets/fb7b0c557cd9-Bl5R8L1s.mp3",
@@ -24038,10 +23742,6 @@
     "file": "assets/0bcacb577181-D9yYxH9h.mp3",
     "src": "content/locations/saiabaq/voice/0bcacb577181.mp3"
   },
-  "content/locations/saiabaq/voice/0c13a5c833cf.mp3": {
-    "file": "assets/0c13a5c833cf-7h2KGftc.mp3",
-    "src": "content/locations/balabaqsha/voice/0c13a5c833cf.mp3"
-  },
   "content/locations/saiabaq/voice/0d248e06760f.mp3": {
     "file": "assets/0d248e06760f-4tPUcVZT.mp3",
     "src": "content/locations/balabaqsha/voice/0d248e06760f.mp3"
@@ -24126,10 +23826,6 @@
     "file": "assets/21938d719523-Q4m8-vGH.mp3",
     "src": "content/locations/saiabaq/voice/21938d719523.mp3"
   },
-  "content/locations/saiabaq/voice/21a8993154b3.mp3": {
-    "file": "assets/21a8993154b3-BsqAXoE3.mp3",
-    "src": "content/locations/okeanarium/voice/21a8993154b3.mp3"
-  },
   "content/locations/saiabaq/voice/21aa318092d2.mp3": {
     "file": "assets/21aa318092d2-IC9wK0WP.mp3",
     "src": "content/locations/okeanarium/voice/21aa318092d2.mp3"
@@ -24137,10 +23833,6 @@
   "content/locations/saiabaq/voice/241f27eb8f5c.mp3": {
     "file": "assets/241f27eb8f5c-CRiz4O0C.mp3",
     "src": "content/locations/saiabaq/voice/241f27eb8f5c.mp3"
-  },
-  "content/locations/saiabaq/voice/244a71958b50.mp3": {
-    "file": "assets/244a71958b50-vgpYWLIh.mp3",
-    "src": "content/locations/saiabaq/voice/244a71958b50.mp3"
   },
   "content/locations/saiabaq/voice/2499b831114a.mp3": {
     "file": "assets/2499b831114a-B-2Ll_ce.mp3",
@@ -24181,10 +23873,6 @@
   "content/locations/saiabaq/voice/3980e7770ad6.mp3": {
     "file": "assets/3980e7770ad6-B6Fmsxv2.mp3",
     "src": "content/locations/saiabaq/voice/3980e7770ad6.mp3"
-  },
-  "content/locations/saiabaq/voice/3fea9379f1fb.mp3": {
-    "file": "assets/3fea9379f1fb-DIJX1tQq.mp3",
-    "src": "content/locations/saiabaq/voice/3fea9379f1fb.mp3"
   },
   "content/locations/saiabaq/voice/40bccdd50eb6.mp3": {
     "file": "assets/40bccdd50eb6-yJ-C7W8a.mp3",
@@ -24294,6 +23982,10 @@
     "file": "assets/7146509a1e02-VMB1vXl4.mp3",
     "src": "content/locations/saiabaq/voice/7146509a1e02.mp3"
   },
+  "content/locations/saiabaq/voice/724ce35e91a7.mp3": {
+    "file": "assets/724ce35e91a7-CQ9f89LA.mp3",
+    "src": "content/locations/saiabaq/voice/724ce35e91a7.mp3"
+  },
   "content/locations/saiabaq/voice/73e264e66c44.mp3": {
     "file": "assets/73e264e66c44-2M9iqHh4.mp3",
     "src": "content/locations/saiabaq/voice/73e264e66c44.mp3"
@@ -24302,17 +23994,9 @@
     "file": "assets/740424dea99e-C5uYFyP8.mp3",
     "src": "content/locations/saiabaq/voice/740424dea99e.mp3"
   },
-  "content/locations/saiabaq/voice/748f42d1cc79.mp3": {
-    "file": "assets/748f42d1cc79-Di-0l4u1.mp3",
-    "src": "content/locations/saiabaq/voice/748f42d1cc79.mp3"
-  },
   "content/locations/saiabaq/voice/752a4ccaee99.mp3": {
     "file": "assets/752a4ccaee99-C3CWzbAU.mp3",
     "src": "content/locations/saiabaq/voice/752a4ccaee99.mp3"
-  },
-  "content/locations/saiabaq/voice/759969b744b2.mp3": {
-    "file": "assets/759969b744b2-DAIn2C3H.mp3",
-    "src": "content/locations/saiabaq/voice/759969b744b2.mp3"
   },
   "content/locations/saiabaq/voice/762e30c7ac85.mp3": {
     "file": "assets/762e30c7ac85-CxjYmqgN.mp3",
@@ -24401,10 +24085,6 @@
   "content/locations/saiabaq/voice/979a3537f6d0.mp3": {
     "file": "assets/979a3537f6d0-C0GLCFqD.mp3",
     "src": "content/locations/saiabaq/voice/979a3537f6d0.mp3"
-  },
-  "content/locations/saiabaq/voice/9937eae3037b.mp3": {
-    "file": "assets/9937eae3037b-BOf50dCM.mp3",
-    "src": "content/locations/saiabaq/voice/9937eae3037b.mp3"
   },
   "content/locations/saiabaq/voice/9ab20708c00f.mp3": {
     "file": "assets/9ab20708c00f-Dkb5nSBk.mp3",
@@ -24620,7 +24300,7 @@
   },
   "content/locations/saiabaq/voice/eaa3bd83e379.mp3": {
     "file": "assets/eaa3bd83e379-CbqoB1I5.mp3",
-    "src": "content/locations/dvor/voice/eaa3bd83e379.mp3"
+    "src": "content/locations/saiabaq/voice/eaa3bd83e379.mp3"
   },
   "content/locations/saiabaq/voice/eb0778db2df6.mp3": {
     "file": "assets/eb0778db2df6-BOkmA9iU.mp3",
@@ -24677,10 +24357,6 @@
   "content/locations/saiabaq/voice/f63eff031d34.mp3": {
     "file": "assets/f63eff031d34-kZl_2sU8.mp3",
     "src": "content/locations/batut/voice/f63eff031d34.mp3"
-  },
-  "content/locations/saiabaq/voice/f67ac9568845.mp3": {
-    "file": "assets/f67ac9568845-hxas_JZm.mp3",
-    "src": "content/locations/saiabaq/voice/f67ac9568845.mp3"
   },
   "content/locations/saiabaq/voice/f73bbb4f1ec4.mp3": {
     "file": "assets/f73bbb4f1ec4-BPzcGdZB.mp3",
@@ -25578,10 +25254,6 @@
     "file": "assets/2a46bc8b18f0-D94FggeH.mp3",
     "src": "content/locations/bazar/voice/2a46bc8b18f0.mp3"
   },
-  "content/locations/sauda-ortalygy/voice/2bc563fcc2c1.mp3": {
-    "file": "assets/2bc563fcc2c1-WKgknPIi.mp3",
-    "src": "content/locations/kiim-dukeni/voice/2bc563fcc2c1.mp3"
-  },
   "content/locations/sauda-ortalygy/voice/2bd125ceba4e.mp3": {
     "file": "assets/2bd125ceba4e-BglZMCsN.mp3",
     "src": "content/locations/sauda-ortalygy/voice/2bd125ceba4e.mp3"
@@ -25721,10 +25393,6 @@
   "content/locations/sauda-ortalygy/voice/690152304ed3.mp3": {
     "file": "assets/690152304ed3-DAISKws-.mp3",
     "src": "content/locations/futbol-match/voice/690152304ed3.mp3"
-  },
-  "content/locations/sauda-ortalygy/voice/6cb2e1d14d11.mp3": {
-    "file": "assets/6cb2e1d14d11-Bdw4cds4.mp3",
-    "src": "content/locations/sauda-ortalygy/voice/6cb2e1d14d11.mp3"
   },
   "content/locations/sauda-ortalygy/voice/7327744a4a38.mp3": {
     "file": "assets/7327744a4a38-CkMqT3tF.mp3",
@@ -25901,6 +25569,10 @@
   "content/locations/sauda-ortalygy/voice/a4711127c155.mp3": {
     "file": "assets/a4711127c155-C1KMLwAM.mp3",
     "src": "content/locations/kiim-dukeni/voice/a4711127c155.mp3"
+  },
+  "content/locations/sauda-ortalygy/voice/a63d55fffe51.mp3": {
+    "file": "assets/a63d55fffe51-CrFf77NX.mp3",
+    "src": "content/locations/sauda-ortalygy/voice/a63d55fffe51.mp3"
   },
   "content/locations/sauda-ortalygy/voice/a858fe36b541.mp3": {
     "file": "assets/a858fe36b541-D09cy2J6.mp3",
@@ -26236,7 +25908,7 @@
   },
   "content/locations/shashtaraz/voice/11fbb95cd919.mp3": {
     "file": "assets/11fbb95cd919-RCq6CjqO.mp3",
-    "src": "content/locations/pochta/voice/11fbb95cd919.mp3"
+    "src": "content/locations/shashtaraz/voice/11fbb95cd919.mp3"
   },
   "content/locations/shashtaraz/voice/135a5fd5eee2.mp3": {
     "file": "assets/135a5fd5eee2-Dc1Co98l.mp3",
@@ -26592,7 +26264,7 @@
   },
   "content/locations/shashtaraz/voice/f01207bfef16.mp3": {
     "file": "assets/f01207bfef16-BvYXAJwB.mp3",
-    "src": "content/locations/avtobus/voice/f01207bfef16.mp3"
+    "src": "content/locations/kino/voice/f01207bfef16.mp3"
   },
   "content/locations/shashtaraz/voice/f5051c20bd50.mp3": {
     "file": "assets/f5051c20bd50-BYf4Wx8-.mp3",
@@ -26772,7 +26444,7 @@
   },
   "content/locations/sirk/voice/244a71958b50.mp3": {
     "file": "assets/244a71958b50-vgpYWLIh.mp3",
-    "src": "content/locations/saiabaq/voice/244a71958b50.mp3"
+    "src": "content/locations/sirk/voice/244a71958b50.mp3"
   },
   "content/locations/sirk/voice/285336e7e839.mp3": {
     "file": "assets/285336e7e839-ByPYjhzP.mp3",
@@ -28508,7 +28180,7 @@
   },
   "content/locations/taksi/voice/005968af3430.mp3": {
     "file": "assets/005968af3430-JntaJuUs.mp3",
-    "src": "content/locations/avtobus/voice/005968af3430.mp3"
+    "src": "content/locations/futbol-match/voice/005968af3430.mp3"
   },
   "content/locations/taksi/voice/01c56e3bbea2.mp3": {
     "file": "assets/01c56e3bbea2-DEdiGKma.mp3",
@@ -28516,7 +28188,7 @@
   },
   "content/locations/taksi/voice/04a720f8650f.mp3": {
     "file": "assets/04a720f8650f-CPV5hwRn.mp3",
-    "src": "content/locations/avtobus/voice/04a720f8650f.mp3"
+    "src": "content/locations/kafe/voice/04a720f8650f.mp3"
   },
   "content/locations/taksi/voice/053181b12000.mp3": {
     "file": "assets/053181b12000-mGanUqnC.mp3",
@@ -28589,10 +28261,6 @@
   "content/locations/taksi/voice/39249b2e8947.mp3": {
     "file": "assets/39249b2e8947-CjU0VlVF.mp3",
     "src": "content/locations/taksi/voice/39249b2e8947.mp3"
-  },
-  "content/locations/taksi/voice/3a8bc9ec61a6.mp3": {
-    "file": "assets/3a8bc9ec61a6-DtqOvawg.mp3",
-    "src": "content/locations/taksi/voice/3a8bc9ec61a6.mp3"
   },
   "content/locations/taksi/voice/3f1d1d74778b.mp3": {
     "file": "assets/3f1d1d74778b-ZS-RvIUp.mp3",
@@ -28698,10 +28366,6 @@
     "file": "assets/9df78cde9b2c-BUWLryyX.mp3",
     "src": "content/locations/taksi/voice/9df78cde9b2c.mp3"
   },
-  "content/locations/taksi/voice/9faae2c55dda.mp3": {
-    "file": "assets/9faae2c55dda-iy841sRu.mp3",
-    "src": "content/locations/taksi/voice/9faae2c55dda.mp3"
-  },
   "content/locations/taksi/voice/a174d3cfa767.mp3": {
     "file": "assets/a174d3cfa767-DxqvG1fq.mp3",
     "src": "content/locations/taksi/voice/a174d3cfa767.mp3"
@@ -28717,10 +28381,6 @@
   "content/locations/taksi/voice/af6b55e9a5f7.mp3": {
     "file": "assets/af6b55e9a5f7-DdgvmR8q.mp3",
     "src": "content/locations/taksi/voice/af6b55e9a5f7.mp3"
-  },
-  "content/locations/taksi/voice/b5b3543eb14c.mp3": {
-    "file": "assets/b5b3543eb14c-Dql959En.mp3",
-    "src": "content/locations/taksi/voice/b5b3543eb14c.mp3"
   },
   "content/locations/taksi/voice/b5c936c745d8.mp3": {
     "file": "assets/b5c936c745d8-DEjzcCnn.mp3",
@@ -28742,10 +28402,6 @@
     "file": "assets/bc18b639faea-Bp21i7Jn.mp3",
     "src": "content/locations/aurukhana/voice/bc18b639faea.mp3"
   },
-  "content/locations/taksi/voice/c101b2e23f51.mp3": {
-    "file": "assets/c101b2e23f51-CD13fpBR.mp3",
-    "src": "content/locations/avtobus/voice/c101b2e23f51.mp3"
-  },
   "content/locations/taksi/voice/c50c638238c9.mp3": {
     "file": "assets/c50c638238c9-6B1g3EVP.mp3",
     "src": "content/locations/avtobus/voice/c50c638238c9.mp3"
@@ -28757,6 +28413,10 @@
   "content/locations/taksi/voice/ce912ac1d471.mp3": {
     "file": "assets/ce912ac1d471-ChKgXdRz.mp3",
     "src": "content/locations/taksi/voice/ce912ac1d471.mp3"
+  },
+  "content/locations/taksi/voice/cea88272c417.mp3": {
+    "file": "assets/cea88272c417-DN8lY256.mp3",
+    "src": "content/locations/balabaqsha/voice/cea88272c417.mp3"
   },
   "content/locations/taksi/voice/ced46b863588.mp3": {
     "file": "assets/ced46b863588-DN7EC9Pt.mp3",
@@ -28809,10 +28469,6 @@
   "content/locations/taksi/voice/f1eb571d6780.mp3": {
     "file": "assets/f1eb571d6780-C5KS2Z1K.mp3",
     "src": "content/locations/taksi/voice/f1eb571d6780.mp3"
-  },
-  "content/locations/taksi/voice/f257815c3ab4.mp3": {
-    "file": "assets/f257815c3ab4-B8NUSIyG.mp3",
-    "src": "content/locations/taksi/voice/f257815c3ab4.mp3"
   },
   "content/locations/taksi/voice/f826440e0be7.mp3": {
     "file": "assets/f826440e0be7-k8NXHSsc.mp3",
@@ -29580,7 +29236,7 @@
   },
   "content/locations/telefon-zhondeu/voice/724ce35e91a7.mp3": {
     "file": "assets/724ce35e91a7-CQ9f89LA.mp3",
-    "src": "content/locations/telefon-zhondeu/voice/724ce35e91a7.mp3"
+    "src": "content/locations/saiabaq/voice/724ce35e91a7.mp3"
   },
   "content/locations/telefon-zhondeu/voice/731e4fdd9c23.mp3": {
     "file": "assets/731e4fdd9c23-DdMiTibl.mp3",
@@ -31042,10 +30698,6 @@
     "file": "assets/03b5837f86da-Bvuv8yM9.mp3",
     "src": "content/locations/vokzal/voice/03b5837f86da.mp3"
   },
-  "content/locations/vokzal/voice/03f67511ca62.mp3": {
-    "file": "assets/03f67511ca62-Bi_hjt4h.mp3",
-    "src": "content/locations/bayterek/voice/03f67511ca62.mp3"
-  },
   "content/locations/vokzal/voice/05e4b1422c1d.mp3": {
     "file": "assets/05e4b1422c1d-BdeSQYQn.mp3",
     "src": "content/locations/vokzal/voice/05e4b1422c1d.mp3"
@@ -31086,10 +30738,6 @@
     "file": "assets/1c31611c837c-CJMo2tKV.mp3",
     "src": "content/locations/vokzal/voice/1c31611c837c.mp3"
   },
-  "content/locations/vokzal/voice/1d1783a87fba.mp3": {
-    "file": "assets/1d1783a87fba-Dwfz7Cqg.mp3",
-    "src": "content/locations/vokzal/voice/1d1783a87fba.mp3"
-  },
   "content/locations/vokzal/voice/1dcffd88789a.mp3": {
     "file": "assets/1dcffd88789a-Dd9e8HcD.mp3",
     "src": "content/locations/vokzal/voice/1dcffd88789a.mp3"
@@ -31097,10 +30745,6 @@
   "content/locations/vokzal/voice/1dd1dd7abcdd.mp3": {
     "file": "assets/1dd1dd7abcdd-pBCFbtJn.mp3",
     "src": "content/locations/vokzal/voice/1dd1dd7abcdd.mp3"
-  },
-  "content/locations/vokzal/voice/239a868329fe.mp3": {
-    "file": "assets/239a868329fe-CkFhBjog.mp3",
-    "src": "content/locations/bayterek/voice/239a868329fe.mp3"
   },
   "content/locations/vokzal/voice/23f89d0a5484.mp3": {
     "file": "assets/23f89d0a5484-BTttoSt4.mp3",
@@ -31114,10 +30758,6 @@
     "file": "assets/24ef8838b5a7-CFWHMuqH.mp3",
     "src": "content/locations/bayterek/voice/24ef8838b5a7.mp3"
   },
-  "content/locations/vokzal/voice/25bb3eb99c02.mp3": {
-    "file": "assets/25bb3eb99c02-6VioeWtF.mp3",
-    "src": "content/locations/vokzal/voice/25bb3eb99c02.mp3"
-  },
   "content/locations/vokzal/voice/2960394ef0ed.mp3": {
     "file": "assets/2960394ef0ed-BvC56oic.mp3",
     "src": "content/locations/futbol-match/voice/2960394ef0ed.mp3"
@@ -31130,10 +30770,6 @@
     "file": "assets/2c4dee808283-C_Z52ki_.mp3",
     "src": "content/locations/vokzal/voice/2c4dee808283.mp3"
   },
-  "content/locations/vokzal/voice/31a989f40f18.mp3": {
-    "file": "assets/31a989f40f18-BKxd3LF4.mp3",
-    "src": "content/locations/vokzal/voice/31a989f40f18.mp3"
-  },
   "content/locations/vokzal/voice/31f52e9efdac.mp3": {
     "file": "assets/31f52e9efdac-BmT8QB7x.mp3",
     "src": "content/locations/vokzal/voice/31f52e9efdac.mp3"
@@ -31141,10 +30777,6 @@
   "content/locations/vokzal/voice/3309d506acb2.mp3": {
     "file": "assets/3309d506acb2-BdV6M2wQ.mp3",
     "src": "content/locations/bassein/voice/3309d506acb2.mp3"
-  },
-  "content/locations/vokzal/voice/358d833602ef.mp3": {
-    "file": "assets/358d833602ef-CvWchXGe.mp3",
-    "src": "content/locations/vokzal/voice/358d833602ef.mp3"
   },
   "content/locations/vokzal/voice/35f38be26ec4.mp3": {
     "file": "assets/35f38be26ec4-C-oVOs3P.mp3",
@@ -31202,10 +30834,6 @@
     "file": "assets/4c310cdc596f--OG-eFVg.mp3",
     "src": "content/locations/vokzal/voice/4c310cdc596f.mp3"
   },
-  "content/locations/vokzal/voice/4c8546bc76ce.mp3": {
-    "file": "assets/4c8546bc76ce-7JFYYqFz.mp3",
-    "src": "content/locations/vokzal/voice/4c8546bc76ce.mp3"
-  },
   "content/locations/vokzal/voice/4d0c91686181.mp3": {
     "file": "assets/4d0c91686181-0vp-JWSe.mp3",
     "src": "content/locations/vokzal/voice/4d0c91686181.mp3"
@@ -31234,21 +30862,21 @@
     "file": "assets/58dce04b222f-BK62H2O2.mp3",
     "src": "content/locations/bassein/voice/58dce04b222f.mp3"
   },
-  "content/locations/vokzal/voice/59aa670fca12.mp3": {
-    "file": "assets/59aa670fca12-DSFfxhDR.mp3",
-    "src": "content/locations/vokzal/voice/59aa670fca12.mp3"
-  },
   "content/locations/vokzal/voice/5beb2a9bcc7e.mp3": {
     "file": "assets/5beb2a9bcc7e-DjJyZlTf.mp3",
     "src": "content/locations/vokzal/voice/5beb2a9bcc7e.mp3"
+  },
+  "content/locations/vokzal/voice/5c1ff372e6ad.mp3": {
+    "file": "assets/5c1ff372e6ad-CLMVXGW0.mp3",
+    "src": "content/locations/futbol-match/voice/5c1ff372e6ad.mp3"
   },
   "content/locations/vokzal/voice/5cf24a433d45.mp3": {
     "file": "assets/5cf24a433d45-zMWk_7PH.mp3",
     "src": "content/locations/vokzal/voice/5cf24a433d45.mp3"
   },
-  "content/locations/vokzal/voice/5f3607ebe17a.mp3": {
-    "file": "assets/5f3607ebe17a-Dh4h_7dB.mp3",
-    "src": "content/locations/vokzal/voice/5f3607ebe17a.mp3"
+  "content/locations/vokzal/voice/6413a2cab742.mp3": {
+    "file": "assets/6413a2cab742-DQvuoO4d.mp3",
+    "src": "content/locations/futbol-match/voice/6413a2cab742.mp3"
   },
   "content/locations/vokzal/voice/6449b7415173.mp3": {
     "file": "assets/6449b7415173-C-G7T94B.mp3",
@@ -31314,10 +30942,6 @@
     "file": "assets/7b9e413d2839-D_GgJuIv.mp3",
     "src": "content/locations/bassein/voice/7b9e413d2839.mp3"
   },
-  "content/locations/vokzal/voice/7d6e9fe41484.mp3": {
-    "file": "assets/7d6e9fe41484-Ik83CGkL.mp3",
-    "src": "content/locations/vokzal/voice/7d6e9fe41484.mp3"
-  },
   "content/locations/vokzal/voice/7e3da1acd8e6.mp3": {
     "file": "assets/7e3da1acd8e6-BcvbQFTB.mp3",
     "src": "content/locations/vokzal/voice/7e3da1acd8e6.mp3"
@@ -31370,10 +30994,6 @@
     "file": "assets/a3e999ada4d4-BclWKZ-v.mp3",
     "src": "content/locations/vokzal/voice/a3e999ada4d4.mp3"
   },
-  "content/locations/vokzal/voice/a7562e62cc83.mp3": {
-    "file": "assets/a7562e62cc83-DWmYSX1-.mp3",
-    "src": "content/locations/futbol-match/voice/a7562e62cc83.mp3"
-  },
   "content/locations/vokzal/voice/a75d33f62dd6.mp3": {
     "file": "assets/a75d33f62dd6-DMtYMMjx.mp3",
     "src": "content/locations/vokzal/voice/a75d33f62dd6.mp3"
@@ -31385,10 +31005,6 @@
   "content/locations/vokzal/voice/a91fac7b1b8a.mp3": {
     "file": "assets/a91fac7b1b8a-DE0MsSp1.mp3",
     "src": "content/locations/vokzal/voice/a91fac7b1b8a.mp3"
-  },
-  "content/locations/vokzal/voice/a98d30f0f6f5.mp3": {
-    "file": "assets/a98d30f0f6f5-CRwAPXGq.mp3",
-    "src": "content/locations/vokzal/voice/a98d30f0f6f5.mp3"
   },
   "content/locations/vokzal/voice/ac2c05be126b.mp3": {
     "file": "assets/ac2c05be126b-DHmniHTT.mp3",
@@ -31426,10 +31042,6 @@
     "file": "assets/b2df48296bd4-BY1F0oUv.mp3",
     "src": "content/locations/vokzal/voice/b2df48296bd4.mp3"
   },
-  "content/locations/vokzal/voice/b738b49a5e45.mp3": {
-    "file": "assets/b738b49a5e45-CCAGIukF.mp3",
-    "src": "content/locations/aeroport/voice/b738b49a5e45.mp3"
-  },
   "content/locations/vokzal/voice/b77ce3c6abaf.mp3": {
     "file": "assets/b77ce3c6abaf-Bay2t3tR.mp3",
     "src": "content/locations/vokzal/voice/b77ce3c6abaf.mp3"
@@ -31465,10 +31077,6 @@
   "content/locations/vokzal/voice/bda57e3596d7.mp3": {
     "file": "assets/bda57e3596d7-mIkG-uBg.mp3",
     "src": "content/locations/vokzal/voice/bda57e3596d7.mp3"
-  },
-  "content/locations/vokzal/voice/bdc3ca442349.mp3": {
-    "file": "assets/bdc3ca442349-CrcQwYoJ.mp3",
-    "src": "content/locations/vokzal/voice/bdc3ca442349.mp3"
   },
   "content/locations/vokzal/voice/c01e0901928a.mp3": {
     "file": "assets/c01e0901928a-BbQhcY_p.mp3",
@@ -31506,10 +31114,6 @@
     "file": "assets/d847a4284ddb-DY2QN4AO.mp3",
     "src": "content/locations/vokzal/voice/d847a4284ddb.mp3"
   },
-  "content/locations/vokzal/voice/daf5723d8c10.mp3": {
-    "file": "assets/daf5723d8c10-DPCD0vkC.mp3",
-    "src": "content/locations/vokzal/voice/daf5723d8c10.mp3"
-  },
   "content/locations/vokzal/voice/dc22fb762e06.mp3": {
     "file": "assets/dc22fb762e06-DWqsfspV.mp3",
     "src": "content/locations/vokzal/voice/dc22fb762e06.mp3"
@@ -31525,10 +31129,6 @@
   "content/locations/vokzal/voice/e1559a8de769.mp3": {
     "file": "assets/e1559a8de769-CdTlSMOB.mp3",
     "src": "content/locations/vokzal/voice/e1559a8de769.mp3"
-  },
-  "content/locations/vokzal/voice/e608afc64d31.mp3": {
-    "file": "assets/e608afc64d31-HMor1kKT.mp3",
-    "src": "content/locations/vokzal/voice/e608afc64d31.mp3"
   },
   "content/locations/vokzal/voice/e9ed77f16c8f.mp3": {
     "file": "assets/e9ed77f16c8f-CnhrVVCV.mp3",
@@ -32388,7 +31988,7 @@
     "src": "content/stickers/words-50.webp"
   },
   "index.html": {
-    "file": "assets/game-VqBzNO00.js",
+    "file": "assets/game-C6QVTKAl.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -32403,7 +32003,7 @@
       "_store-CT5HhSz-.js",
       "_voice-messages-x4qf9IWF.js",
       "_dialogue-Bsb38wFX.js",
-      "_extra-C6mRx8v4.js",
+      "_extra-CDZvIDSF.js",
       "_prefs-kp-79C7l.js",
       "_ambience-CIJT8jMP.js",
       "_progression-CBh7q6p8.js",
@@ -32542,7 +32142,7 @@
     ]
   },
   "src/ui/minigames/assemble.ts": {
-    "file": "assets/assemble-CITGMJHY.js",
+    "file": "assets/assemble-Ctl_I1sJ.js",
     "name": "assemble",
     "src": "src/ui/minigames/assemble.ts",
     "isDynamicEntry": true,
@@ -32552,38 +32152,38 @@
       "_engine-CiYn_sLR.js",
       "_dom-0oGlWoiE.js",
       "_utterance-CTO8jJ83.js",
-      "_minigames-CwR8EIUz.js"
+      "_minigames-CYzNn_nn.js"
     ]
   },
   "src/ui/minigames/change.ts": {
-    "file": "assets/change-DH1pc7AU.js",
+    "file": "assets/change-Ce3FEM8S.js",
     "name": "change",
     "src": "src/ui/minigames/change.ts",
     "isDynamicEntry": true,
     "imports": [
       "_economy-C2_1RR1j.js",
       "_dom-0oGlWoiE.js",
-      "_minigames-CwR8EIUz.js"
+      "_minigames-CYzNn_nn.js"
     ]
   },
   "src/ui/minigames/find.ts": {
-    "file": "assets/find-Bbf_8izC.js",
+    "file": "assets/find-CiUK8SAD.js",
     "name": "find",
     "src": "src/ui/minigames/find.ts",
     "isDynamicEntry": true,
     "imports": [
       "_voiceover-CujG1-KX.js",
       "_dom-0oGlWoiE.js",
-      "_minigames-CwR8EIUz.js"
+      "_minigames-CYzNn_nn.js"
     ]
   },
   "src/ui/minigames/index.ts": {
-    "file": "assets/minigames-B2LdeUMS.js",
+    "file": "assets/minigames-CCA-rNU5.js",
     "name": "minigames",
     "src": "src/ui/minigames/index.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_minigames-CwR8EIUz.js"
+      "_minigames-CYzNn_nn.js"
     ]
   },
   "src/ui/outfit-pictures.ts": {
@@ -32607,7 +32207,7 @@
     ]
   },
   "src/ui/screens/extra/birge/play.ts": {
-    "file": "assets/play-BIVOh6Bx.js",
+    "file": "assets/play-C6T6DceV.js",
     "name": "play",
     "src": "src/ui/screens/extra/birge/play.ts",
     "isDynamicEntry": true,
@@ -32620,7 +32220,7 @@
       "_voiceover-CujG1-KX.js",
       "_phrase-controls-CaYlr90I.js",
       "_dom-0oGlWoiE.js",
-      "_extra-C6mRx8v4.js",
+      "_extra-CDZvIDSF.js",
       "_voice-messages-x4qf9IWF.js",
       "_utterance-CTO8jJ83.js",
       "_prefs-kp-79C7l.js",
@@ -32635,7 +32235,7 @@
     ]
   },
   "src/ui/screens/extra/birge/view.ts": {
-    "file": "assets/view-FD2BvXNe.js",
+    "file": "assets/view-BA_Thja9.js",
     "name": "view",
     "src": "src/ui/screens/extra/birge/view.ts",
     "isDynamicEntry": true,
@@ -32663,12 +32263,12 @@
     ]
   },
   "src/ui/screens/extra/diary/view.ts": {
-    "file": "assets/view-BcGE0-C2.js",
+    "file": "assets/view-Be7YBWC9.js",
     "name": "view",
     "src": "src/ui/screens/extra/diary/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_view-vyBv8srF.js"
+      "_view-_PHF-Fgm.js"
     ]
   },
   "src/ui/screens/extra/install/view.ts": {
@@ -32700,7 +32300,7 @@
     ]
   },
   "src/ui/screens/extra/parents/view.ts": {
-    "file": "assets/view-DNqwnOkd.js",
+    "file": "assets/view-CxJxA8uF.js",
     "name": "view",
     "src": "src/ui/screens/extra/parents/view.ts",
     "isDynamicEntry": true,
@@ -32709,9 +32309,9 @@
       "_prefs-kp-79C7l.js",
       "_dom-0oGlWoiE.js",
       "_profile-B5rPs11U.js",
-      "_words-list-2arkDmLb.js",
+      "_words-list-Bt1oJVy-.js",
       "_clock-CX7K9-gc.js",
-      "_extra-C6mRx8v4.js"
+      "_extra-CDZvIDSF.js"
     ],
     "css": [
       "assets/view-C3yDc_ii.css"
@@ -32752,7 +32352,7 @@
     ]
   },
   "src/ui/screens/extra/review/view.ts": {
-    "file": "assets/view-Ji8xzb7I.js",
+    "file": "assets/view-DCnxAoy5.js",
     "name": "view",
     "src": "src/ui/screens/extra/review/view.ts",
     "isDynamicEntry": true,
@@ -32763,7 +32363,7 @@
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-0oGlWoiE.js",
-      "_extra-C6mRx8v4.js",
+      "_extra-CDZvIDSF.js",
       "_review-cards-CHhDUctw.js",
       "_utterance-CTO8jJ83.js",
       "_voice-messages-x4qf9IWF.js",
@@ -32781,7 +32381,7 @@
     ]
   },
   "src/ui/screens/extra/room/view.ts": {
-    "file": "assets/view-A0JWaUCS.js",
+    "file": "assets/view-Bqau6OD2.js",
     "name": "view",
     "src": "src/ui/screens/extra/room/view.ts",
     "isDynamicEntry": true,
@@ -32791,7 +32391,7 @@
       "_look-DCix3vAU.js",
       "_look-Ek6gFhA4.js",
       "_budget-CfYW0pN8.js",
-      "_extra-C6mRx8v4.js",
+      "_extra-CDZvIDSF.js",
       "_dom-0oGlWoiE.js",
       "_profile-B5rPs11U.js"
     ],
@@ -32814,7 +32414,7 @@
     ]
   },
   "src/ui/screens/extra/words/view.ts": {
-    "file": "assets/view-DCrevq88.js",
+    "file": "assets/view-Cij0ILqm.js",
     "name": "view",
     "src": "src/ui/screens/extra/words/view.ts",
     "isDynamicEntry": true,
@@ -32823,9 +32423,9 @@
       "_clock-CX7K9-gc.js",
       "_prefs-kp-79C7l.js",
       "_dom-0oGlWoiE.js",
-      "_extra-C6mRx8v4.js",
+      "_extra-CDZvIDSF.js",
       "_utterance-CTO8jJ83.js",
-      "_words-list-2arkDmLb.js"
+      "_words-list-Bt1oJVy-.js"
     ],
     "css": [
       "assets/view-CgscqwtG.css"
@@ -32845,7 +32445,7 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-Czt2QYYE.js",
+    "file": "assets/world-EmjQ9y7I.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
@@ -32864,10 +32464,10 @@
       "_word-card-BKpTW3XO.js",
       "_voice-messages-x4qf9IWF.js",
       "_utterance-CTO8jJ83.js",
-      "_words-list-2arkDmLb.js",
-      "_view-vyBv8srF.js",
+      "_words-list-Bt1oJVy-.js",
+      "_view-_PHF-Fgm.js",
       "_review-cards-CHhDUctw.js",
-      "_extra-C6mRx8v4.js",
+      "_extra-CDZvIDSF.js",
       "_preload-helper-BLdHbfdN.js",
       "_conditions-CECFGVj1.js"
     ],
@@ -34094,7 +33694,7 @@
     ]
   },
   "virtual:kz-content/pack/aeroport": {
-    "file": "assets/aeroport-BFGD2mLe.js",
+    "file": "assets/aeroport-Bejsmu11.js",
     "name": "aeroport",
     "src": "virtual:kz-content/pack/aeroport",
     "isDynamicEntry": true,
@@ -34119,7 +33719,7 @@
       "assets/17-posadochnyy-talon-lnzHb1A_.webp",
       "assets/18-spasibo-za-registraciyu-B-inuJ2U.webp",
       "assets/19-k-dosmotru-DAG4IUK_.webp",
-      "assets/aeroport-texts-c69f643189b2.json"
+      "assets/aeroport-texts-1e862063e8d6.json"
     ]
   },
   "virtual:kz-content/pack/asxana": {
@@ -34176,7 +33776,7 @@
     ]
   },
   "virtual:kz-content/pack/avtobus": {
-    "file": "assets/avtobus-CNVJOE-T.js",
+    "file": "assets/avtobus-Cfzg3A7P.js",
     "name": "avtobus",
     "src": "virtual:kz-content/pack/avtobus",
     "isDynamicEntry": true,
@@ -34205,7 +33805,7 @@
       "assets/22-obyavlenie-ostanovki-CBwYb31s.webp",
       "assets/23-ostanovka-tsirk-DxiY1juN.webp",
       "assets/24-ostanovka-arena-DnFInv-B.webp",
-      "assets/avtobus-texts-4a4df2a9fd87.json"
+      "assets/avtobus-texts-2bc099c7b4f9.json"
     ]
   },
   "virtual:kz-content/pack/balabaqsha": {
@@ -34408,7 +34008,7 @@
     ]
   },
   "virtual:kz-content/pack/darihana": {
-    "file": "assets/darihana-D4W-KZP2.js",
+    "file": "assets/darihana-C_WTz6_2.js",
     "name": "darihana",
     "src": "virtual:kz-content/pack/darihana",
     "isDynamicEntry": true,
@@ -34433,11 +34033,11 @@
       "assets/18-cena-siropa-Q8h6HP2V.webp",
       "assets/19-oplata-siropa-Bjy8545Y.webp",
       "assets/20-s-siropom-CVa6rBip.webp",
-      "assets/darihana-texts-b8a664263699.json"
+      "assets/darihana-texts-48758835c0ef.json"
     ]
   },
   "virtual:kz-content/pack/dvor": {
-    "file": "assets/dvor-BcQ8SapY.js",
+    "file": "assets/dvor-BULdLfaK.js",
     "name": "dvor",
     "src": "virtual:kz-content/pack/dvor",
     "isDynamicEntry": true,
@@ -34470,11 +34070,11 @@
       "assets/26-miska-dlya-kota-DqEKFLQZ.webp",
       "assets/27-ryzhiy-kot-AP6wblWr.webp",
       "assets/28-sosedka-blagodarit-ihjM9cab.webp",
-      "assets/dvor-texts-8a56150086ac.json"
+      "assets/dvor-texts-73510333f8fe.json"
     ]
   },
   "virtual:kz-content/pack/emhana": {
-    "file": "assets/emhana-BtbF8ghn.js",
+    "file": "assets/emhana-DE7-svGB.js",
     "name": "emhana",
     "src": "virtual:kz-content/pack/emhana",
     "isDynamicEntry": true,
@@ -34496,7 +34096,7 @@
       "assets/15-vtoroy-etazh-Bdz8QR2_.webp",
       "assets/16-talon-ByM8FWS5.webp",
       "assets/17-vyhod-s-talonom-BWJ5M1QN.webp",
-      "assets/emhana-texts-902692c0d65c.json"
+      "assets/emhana-texts-e72e4a3e5ce2.json"
     ]
   },
   "virtual:kz-content/pack/expo": {
@@ -34527,7 +34127,7 @@
     ]
   },
   "virtual:kz-content/pack/futbol-match": {
-    "file": "assets/futbol-match-CR0A_sYG.js",
+    "file": "assets/futbol-match-CFk9V2lu.js",
     "name": "futbol-match",
     "src": "virtual:kz-content/pack/futbol-match",
     "isDynamicEntry": true,
@@ -34564,7 +34164,7 @@
       "assets/30-papa-u-kioska-71i63kWY.webp",
       "assets/31-novyy-sharf-B_9lLKlw.webp",
       "assets/32-vtoroy-taym-Cl8tT4wE.webp",
-      "assets/futbol-match-texts-ba328d0a82fc.json"
+      "assets/futbol-match-texts-ab5dc15f5698.json"
     ]
   },
   "virtual:kz-content/pack/gul-dukeni": {
@@ -34703,7 +34303,7 @@
     ]
   },
   "virtual:kz-content/pack/kino": {
-    "file": "assets/kino-OuS50lCV.js",
+    "file": "assets/kino-B-ZqPdg2.js",
     "name": "kino",
     "src": "virtual:kz-content/pack/kino",
     "isDynamicEntry": true,
@@ -34726,11 +34326,11 @@
       "assets/16-popkorn-Bysxl2ey.webp",
       "assets/17-smotrim-film-CPbuUDtZ.webp",
       "assets/18-posle-filma-CtQo5mOo.webp",
-      "assets/kino-texts-96d6b3249910.json"
+      "assets/kino-texts-5d5ff934891c.json"
     ]
   },
   "virtual:kz-content/pack/kitaphana": {
-    "file": "assets/kitaphana-CgjMk_VR.js",
+    "file": "assets/kitaphana-DXU_zUN4.js",
     "name": "kitaphana",
     "src": "virtual:kz-content/pack/kitaphana",
     "isDynamicEntry": true,
@@ -34758,7 +34358,7 @@
       "assets/21-vtoroy-zal-DCMJ7G20.webp",
       "assets/22-verhnyaya-polka-C0llVcem.webp",
       "assets/23-zapis-knigi-B0Pb1PL-.webp",
-      "assets/kitaphana-texts-efd64174a992.json"
+      "assets/kitaphana-texts-cb6fe4f2d557.json"
     ]
   },
   "virtual:kz-content/pack/kvartira": {
@@ -34917,7 +34517,7 @@
     "isHub": true
   },
   "virtual:kz-content/pack/magazin": {
-    "file": "assets/magazin-D2D54WF1.js",
+    "file": "assets/magazin-Bu8uYWbe.js",
     "name": "magazin",
     "src": "virtual:kz-content/pack/magazin",
     "isDynamicEntry": true,
@@ -34959,11 +34559,11 @@
       "assets/35-pereschet-B2KNM7Fj.webp",
       "assets/36-sto-tenge-CFmw8WKQ.webp",
       "assets/37-vse-horosho-CGqYFFvU.webp",
-      "assets/magazin-texts-d321f3688f92.json"
+      "assets/magazin-texts-29ab1c914391.json"
     ]
   },
   "virtual:kz-content/pack/mektep": {
-    "file": "assets/mektep-CoSJYtBY.js",
+    "file": "assets/mektep-AuFI_bef.js",
     "name": "mektep",
     "src": "virtual:kz-content/pack/mektep",
     "isDynamicEntry": true,
@@ -34991,7 +34591,7 @@
       "assets/21-fizkultura-Dqj_RLUS.webp",
       "assets/22-spasibo-apai-2wE7Qrih.webp",
       "assets/23-u-vorot-shkoly-DsV7Vgjy.webp",
-      "assets/mektep-texts-09098f02a8d1.json"
+      "assets/mektep-texts-15cc17d8dc82.json"
     ]
   },
   "virtual:kz-content/pack/muz-aidyn": {
@@ -35081,7 +34681,7 @@
     ]
   },
   "virtual:kz-content/pack/pochta": {
-    "file": "assets/pochta-C4WFRcrO.js",
+    "file": "assets/pochta-Bq6q42Qw.js",
     "name": "pochta",
     "src": "virtual:kz-content/pack/pochta",
     "isDynamicEntry": true,
@@ -35106,11 +34706,11 @@
       "assets/18-tyazhelaya-korobka-BgLRh_bo.webp",
       "assets/19-spasibo-operatoru-DsiDEn9V.webp",
       "assets/20-s-posylkoy-3NmWoitk.webp",
-      "assets/pochta-texts-1c329f77a5c7.json"
+      "assets/pochta-texts-0c38ead7e0ea.json"
     ]
   },
   "virtual:kz-content/pack/saiabaq": {
-    "file": "assets/saiabaq-EoLgNr63.js",
+    "file": "assets/saiabaq-CLmgFpam.js",
     "name": "saiabaq",
     "src": "virtual:kz-content/pack/saiabaq",
     "isDynamicEntry": true,
@@ -35143,7 +34743,7 @@
       "assets/26-vernut-syuda-DvLZeoDL.webp",
       "assets/27-poehali-DGVAZ1F-.webp",
       "assets/28-na-samokate-jIYM7W34.webp",
-      "assets/saiabaq-texts-1705a814f8b2.json"
+      "assets/saiabaq-texts-cc98d07212da.json"
     ]
   },
   "virtual:kz-content/pack/sana": {
@@ -35175,7 +34775,7 @@
     ]
   },
   "virtual:kz-content/pack/sauda-ortalygy": {
-    "file": "assets/sauda-ortalygy-DtozExVQ.js",
+    "file": "assets/sauda-ortalygy-C9iiMjWe.js",
     "name": "sauda-ortalygy",
     "src": "virtual:kz-content/pack/sauda-ortalygy",
     "isDynamicEntry": true,
@@ -35211,7 +34811,7 @@
       "assets/29-kassa-odezhdy-CCjwSPBY.webp",
       "assets/30-net-deneg-kurtka-kVZBf3Q1.webp",
       "assets/31-paket-s-kurtkoy--5Bu7Zm0.webp",
-      "assets/sauda-ortalygy-texts-df95e86cc36b.json"
+      "assets/sauda-ortalygy-texts-dd6c09cba92e.json"
     ]
   },
   "virtual:kz-content/pack/shashtaraz": {
@@ -35327,7 +34927,7 @@
     ]
   },
   "virtual:kz-content/pack/taksi": {
-    "file": "assets/taksi-B2AKiSja.js",
+    "file": "assets/taksi-DocfrqwN.js",
     "name": "taksi",
     "src": "virtual:kz-content/pack/taksi",
     "isDynamicEntry": true,
@@ -35361,7 +34961,7 @@
       "assets/27-priehali-teatr-Bnc1eL8v.webp",
       "assets/28-orientir-okeanarium-oQ7415aU.webp",
       "assets/29-priehali-okeanarium-OQh_Dhtp.webp",
-      "assets/taksi-texts-888a17aaeffc.json"
+      "assets/taksi-texts-b58fbebf4c7f.json"
     ]
   },
   "virtual:kz-content/pack/teatr": {
@@ -35474,7 +35074,7 @@
     ]
   },
   "virtual:kz-content/pack/vokzal": {
-    "file": "assets/vokzal-GCWXmA2e.js",
+    "file": "assets/vokzal-j9wEUZbx.js",
     "name": "vokzal",
     "src": "virtual:kz-content/pack/vokzal",
     "isDynamicEntry": true,
@@ -35499,7 +35099,7 @@
       "assets/18-obyavlenie-OdgNtwTQ.webp",
       "assets/19-bystro-na-platformu-CG4Tu3dR.webp",
       "assets/20-tretya-platforma-BOmH1K20.webp",
-      "assets/vokzal-texts-8d3b6b6bdde5.json"
+      "assets/vokzal-texts-22c521af61c8.json"
     ]
   },
   "virtual:kz-content/pack/zoo-dukeni": {
@@ -35547,7 +35147,7 @@
     ]
   },
   "voice-test.html": {
-    "file": "assets/voice-emIE5Ukj.js",
+    "file": "assets/voice-soSQn2B2.js",
     "name": "voice",
     "src": "voice-test.html",
     "isEntry": true,
