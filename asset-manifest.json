@@ -175,8 +175,8 @@
       "_protocol-OMAyVYds.js"
     ]
   },
-  "_extra-t_njrhhJ.js": {
-    "file": "assets/extra-t_njrhhJ.js",
+  "_extra-PksIQM9l.js": {
+    "file": "assets/extra-PksIQM9l.js",
     "name": "extra",
     "imports": [
       "_rolldown-runtime-DK3Fl9T5.js",
@@ -387,12 +387,8 @@
       "_dom-DEykpGp8.js"
     ]
   },
-  "_view-DsOJnRmm.css": {
-    "file": "assets/view-DsOJnRmm.css",
-    "src": "_view-DsOJnRmm.css"
-  },
-  "_view-z6x3ORwr.js": {
-    "file": "assets/view-z6x3ORwr.js",
+  "_view-Cfav7OX5.js": {
+    "file": "assets/view-Cfav7OX5.js",
     "name": "view",
     "imports": [
       "_voiceover-CujG1-KX.js",
@@ -401,12 +397,16 @@
       "_prefs-kp-79C7l.js",
       "_diary-BLctmVPO.js",
       "_dom-DEykpGp8.js",
-      "_extra-t_njrhhJ.js",
-      "_words-list-BMZ_MWUK.js"
+      "_extra-PksIQM9l.js",
+      "_words-list-DGYlHnYR.js"
     ],
     "css": [
       "assets/view-DsOJnRmm.css"
     ]
+  },
+  "_view-DsOJnRmm.css": {
+    "file": "assets/view-DsOJnRmm.css",
+    "src": "_view-DsOJnRmm.css"
   },
   "_voice-messages-x4qf9IWF.js": {
     "file": "assets/voice-messages-x4qf9IWF.js",
@@ -479,11 +479,11 @@
       "assets/words-50-U1MJzhAh.webp"
     ]
   },
-  "_words-list-BMZ_MWUK.js": {
-    "file": "assets/words-list-BMZ_MWUK.js",
+  "_words-list-DGYlHnYR.js": {
+    "file": "assets/words-list-DGYlHnYR.js",
     "name": "words-list",
     "imports": [
-      "_extra-t_njrhhJ.js"
+      "_extra-PksIQM9l.js"
     ]
   },
   "city/astana.json": {
@@ -32312,7 +32312,7 @@
     "src": "content/stickers/words-50.webp"
   },
   "index.html": {
-    "file": "assets/game-CSZVHlPx.js",
+    "file": "assets/game-BHvuYhnw.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -32327,7 +32327,7 @@
       "_voice-messages-x4qf9IWF.js",
       "_dom-DEykpGp8.js",
       "_dialogue-Di8DZmxU.js",
-      "_extra-t_njrhhJ.js",
+      "_extra-PksIQM9l.js",
       "_prefs-kp-79C7l.js",
       "_ambience-BbjlAsVa.js",
       "_progression-CsCU-jwr.js",
@@ -32392,7 +32392,7 @@
       "src/ui/screens/voice.ts"
     ],
     "css": [
-      "assets/game-i6THhxE_.css"
+      "assets/game-CV1aTayx.css"
     ],
     "assets": [
       "assets/preview-oNbH2F3t.webp",
@@ -32530,7 +32530,7 @@
     ]
   },
   "src/ui/screens/extra/birge/play.ts": {
-    "file": "assets/play-DI0sEOPl.js",
+    "file": "assets/play-BXQ7T16q.js",
     "name": "play",
     "src": "src/ui/screens/extra/birge/play.ts",
     "isDynamicEntry": true,
@@ -32542,7 +32542,7 @@
       "_voiceover-CujG1-KX.js",
       "_phrase-controls-q9ObkJBL.js",
       "_dom-DEykpGp8.js",
-      "_extra-t_njrhhJ.js",
+      "_extra-PksIQM9l.js",
       "_voice-messages-x4qf9IWF.js",
       "_utterance-BaxZ-9gV.js",
       "_prefs-kp-79C7l.js",
@@ -32557,7 +32557,7 @@
     ]
   },
   "src/ui/screens/extra/birge/view.ts": {
-    "file": "assets/view-C9W7DE6t.js",
+    "file": "assets/view-D-xM3TC4.js",
     "name": "view",
     "src": "src/ui/screens/extra/birge/view.ts",
     "isDynamicEntry": true,
@@ -32585,12 +32585,12 @@
     ]
   },
   "src/ui/screens/extra/diary/view.ts": {
-    "file": "assets/view-BF9rXakI.js",
+    "file": "assets/view-BH4sw2ik.js",
     "name": "view",
     "src": "src/ui/screens/extra/diary/view.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_view-z6x3ORwr.js"
+      "_view-Cfav7OX5.js"
     ]
   },
   "src/ui/screens/extra/install/view.ts": {
@@ -32607,7 +32607,7 @@
     ]
   },
   "src/ui/screens/extra/parents/view.ts": {
-    "file": "assets/view-DEU2IzHU.js",
+    "file": "assets/view-CEqSLfZZ.js",
     "name": "view",
     "src": "src/ui/screens/extra/parents/view.ts",
     "isDynamicEntry": true,
@@ -32616,9 +32616,9 @@
       "_prefs-kp-79C7l.js",
       "_dom-DEykpGp8.js",
       "_profile-Dx5qpLUQ.js",
-      "_words-list-BMZ_MWUK.js",
+      "_words-list-DGYlHnYR.js",
       "_clock-pXIpuRBl.js",
-      "_extra-t_njrhhJ.js"
+      "_extra-PksIQM9l.js"
     ],
     "css": [
       "assets/view-C3yDc_ii.css"
@@ -32659,7 +32659,7 @@
     ]
   },
   "src/ui/screens/extra/review/view.ts": {
-    "file": "assets/view-CjqWNFbx.js",
+    "file": "assets/view-CK57L-DV.js",
     "name": "view",
     "src": "src/ui/screens/extra/review/view.ts",
     "isDynamicEntry": true,
@@ -32670,7 +32670,7 @@
       "_model-store-DkCAfyOm.js",
       "_engine-CiYn_sLR.js",
       "_dom-DEykpGp8.js",
-      "_extra-t_njrhhJ.js",
+      "_extra-PksIQM9l.js",
       "_utterance-BaxZ-9gV.js",
       "_voice-messages-x4qf9IWF.js",
       "_preload-helper-BLdHbfdN.js"
@@ -32687,7 +32687,7 @@
     ]
   },
   "src/ui/screens/extra/room/view.ts": {
-    "file": "assets/view-BjnQO9X4.js",
+    "file": "assets/view-CP5yt-t_.js",
     "name": "view",
     "src": "src/ui/screens/extra/room/view.ts",
     "isDynamicEntry": true,
@@ -32697,7 +32697,7 @@
       "_room-CsjPP4pA.js",
       "_look-Ek6gFhA4.js",
       "_budget-B-z-QnRc.js",
-      "_extra-t_njrhhJ.js",
+      "_extra-PksIQM9l.js",
       "_dom-DEykpGp8.js",
       "_profile-Dx5qpLUQ.js"
     ],
@@ -32720,7 +32720,7 @@
     ]
   },
   "src/ui/screens/extra/words/view.ts": {
-    "file": "assets/view-CCQv-Nr5.js",
+    "file": "assets/view-C0uc5naN.js",
     "name": "view",
     "src": "src/ui/screens/extra/words/view.ts",
     "isDynamicEntry": true,
@@ -32729,9 +32729,9 @@
       "_clock-pXIpuRBl.js",
       "_prefs-kp-79C7l.js",
       "_dom-DEykpGp8.js",
-      "_extra-t_njrhhJ.js",
+      "_extra-PksIQM9l.js",
       "_utterance-BaxZ-9gV.js",
-      "_words-list-BMZ_MWUK.js"
+      "_words-list-DGYlHnYR.js"
     ],
     "css": [
       "assets/view-CgscqwtG.css"
@@ -32751,7 +32751,7 @@
     ]
   },
   "src/ui/screens/world.ts": {
-    "file": "assets/world-h2aGLFa2.js",
+    "file": "assets/world-AUy4Dibl.js",
     "name": "world",
     "src": "src/ui/screens/world.ts",
     "isDynamicEntry": true,
@@ -32769,8 +32769,8 @@
       "_word-card-C8fsJ8xi.js",
       "_voice-messages-x4qf9IWF.js",
       "_utterance-BaxZ-9gV.js",
-      "_words-list-BMZ_MWUK.js",
-      "_view-z6x3ORwr.js",
+      "_words-list-DGYlHnYR.js",
+      "_view-Cfav7OX5.js",
       "_store-C4l27yKv.js",
       "_look-Bs5mYOJh.js",
       "_preload-helper-BLdHbfdN.js"

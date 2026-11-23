@@ -1,0 +1,1 @@
+export{t as render}from"./view-Cfav7OX5.js";
