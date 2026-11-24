@@ -4810,10 +4810,6 @@
     "file": "assets/74da0eeb1da2-Dis68y0U.mp3",
     "src": "content/locations/asxana/voice/74da0eeb1da2.mp3"
   },
-  "content/locations/asxana/voice/77b53585a709.mp3": {
-    "file": "assets/77b53585a709-vafExs2y.mp3",
-    "src": "content/locations/asxana/voice/77b53585a709.mp3"
-  },
   "content/locations/asxana/voice/77f9dc5abbe4.mp3": {
     "file": "assets/77f9dc5abbe4-D0UBeDVV.mp3",
     "src": "content/locations/asxana/voice/77f9dc5abbe4.mp3"
@@ -5034,6 +5030,10 @@
     "file": "assets/f2bfed38c0b5-CjOCJy14.mp3",
     "src": "content/locations/asxana/voice/f2bfed38c0b5.mp3"
   },
+  "content/locations/asxana/voice/f8ce2d1d25b8.mp3": {
+    "file": "assets/f8ce2d1d25b8-DG6iKUXk.mp3",
+    "src": "content/locations/asxana/voice/f8ce2d1d25b8.mp3"
+  },
   "content/locations/asxana/voice/fd806dd491cb.mp3": {
     "file": "assets/fd806dd491cb-DetXMC18.mp3",
     "src": "content/locations/asxana/voice/fd806dd491cb.mp3"
@@ -5142,10 +5142,6 @@
     "file": "assets/0d09c3ccc3c7-C6uOPaaQ.mp3",
     "src": "content/locations/aurukhana/voice/0d09c3ccc3c7.mp3"
   },
-  "content/locations/aurukhana/voice/0dd61de836a0.mp3": {
-    "file": "assets/0dd61de836a0-DRxmEoGs.mp3",
-    "src": "content/locations/aurukhana/voice/0dd61de836a0.mp3"
-  },
   "content/locations/aurukhana/voice/115c76a622b1.mp3": {
     "file": "assets/115c76a622b1-CA2RcNh-.mp3",
     "src": "content/locations/aurukhana/voice/115c76a622b1.mp3"
@@ -5165,10 +5161,6 @@
   "content/locations/aurukhana/voice/16afae81a6a6.mp3": {
     "file": "assets/16afae81a6a6-I6ydZEel.mp3",
     "src": "content/locations/asxana/voice/16afae81a6a6.mp3"
-  },
-  "content/locations/aurukhana/voice/17d6243bb449.mp3": {
-    "file": "assets/17d6243bb449-oW0ETZ6X.mp3",
-    "src": "content/locations/aurukhana/voice/17d6243bb449.mp3"
   },
   "content/locations/aurukhana/voice/1bb0fcc04cbd.mp3": {
     "file": "assets/1bb0fcc04cbd-r42HHHhc.mp3",
@@ -5222,6 +5214,10 @@
     "file": "assets/394e9b4f2a8a-BG-CGLjv.mp3",
     "src": "content/locations/aurukhana/voice/394e9b4f2a8a.mp3"
   },
+  "content/locations/aurukhana/voice/3a20c7aa4269.mp3": {
+    "file": "assets/3a20c7aa4269-Dnwiaur7.mp3",
+    "src": "content/locations/aurukhana/voice/3a20c7aa4269.mp3"
+  },
   "content/locations/aurukhana/voice/3c2c53a72c9e.mp3": {
     "file": "assets/3c2c53a72c9e-DCN1Kf_J.mp3",
     "src": "content/locations/aurukhana/voice/3c2c53a72c9e.mp3"
@@ -5261,6 +5257,10 @@
   "content/locations/aurukhana/voice/4a741cfec005.mp3": {
     "file": "assets/4a741cfec005-BIVgwN-G.mp3",
     "src": "content/locations/aurukhana/voice/4a741cfec005.mp3"
+  },
+  "content/locations/aurukhana/voice/52b9563ababb.mp3": {
+    "file": "assets/52b9563ababb-CODE7M5H.mp3",
+    "src": "content/locations/aurukhana/voice/52b9563ababb.mp3"
   },
   "content/locations/aurukhana/voice/548ed9f5400e.mp3": {
     "file": "assets/548ed9f5400e-C-m-FJAE.mp3",
@@ -5338,6 +5338,10 @@
     "file": "assets/86de01ae9368-94mSKl9l.mp3",
     "src": "content/locations/aurukhana/voice/86de01ae9368.mp3"
   },
+  "content/locations/aurukhana/voice/8a936bb6e771.mp3": {
+    "file": "assets/8a936bb6e771-BSqelUhV.mp3",
+    "src": "content/locations/aurukhana/voice/8a936bb6e771.mp3"
+  },
   "content/locations/aurukhana/voice/8ab30e05f8b3.mp3": {
     "file": "assets/8ab30e05f8b3-DSLdqD9O.mp3",
     "src": "content/locations/aurukhana/voice/8ab30e05f8b3.mp3"
@@ -5410,10 +5414,6 @@
     "file": "assets/abe85df12e52-D_TMeRoM.mp3",
     "src": "content/locations/aurukhana/voice/abe85df12e52.mp3"
   },
-  "content/locations/aurukhana/voice/ad185e838009.mp3": {
-    "file": "assets/ad185e838009-CrLNtt9n.mp3",
-    "src": "content/locations/aurukhana/voice/ad185e838009.mp3"
-  },
   "content/locations/aurukhana/voice/aed448ccfa07.mp3": {
     "file": "assets/aed448ccfa07-C7nLugpg.mp3",
     "src": "content/locations/aurukhana/voice/aed448ccfa07.mp3"
@@ -5474,9 +5474,9 @@
     "file": "assets/d5bc2d52687d-BUSGr_K9.mp3",
     "src": "content/locations/aurukhana/voice/d5bc2d52687d.mp3"
   },
-  "content/locations/aurukhana/voice/d65613d99f03.mp3": {
-    "file": "assets/d65613d99f03-B-uGnruI.mp3",
-    "src": "content/locations/aurukhana/voice/d65613d99f03.mp3"
+  "content/locations/aurukhana/voice/db317a51cc2e.mp3": {
+    "file": "assets/db317a51cc2e-DkCeJbBb.mp3",
+    "src": "content/locations/aurukhana/voice/db317a51cc2e.mp3"
   },
   "content/locations/aurukhana/voice/dba97a95755d.mp3": {
     "file": "assets/dba97a95755d-vbXv-Y3J.mp3",
@@ -5553,10 +5553,6 @@
   "content/locations/aurukhana/voice/fea236f92c0f.mp3": {
     "file": "assets/fea236f92c0f-CFWmDtNA.mp3",
     "src": "content/locations/aurukhana/voice/fea236f92c0f.mp3"
-  },
-  "content/locations/aurukhana/voice/ff6c97765357.mp3": {
-    "file": "assets/ff6c97765357-D6gWdrDQ.mp3",
-    "src": "content/locations/aurukhana/voice/ff6c97765357.mp3"
   },
   "content/locations/avtobus/assets/01-ayaldama.webp": {
     "file": "assets/01-ayaldama-BtV3H-n1.webp",
@@ -9214,6 +9210,10 @@
     "file": "assets/16b6ec5c9925-4lRcWzhO.mp3",
     "src": "content/locations/bazar/voice/16b6ec5c9925.mp3"
   },
+  "content/locations/bazar/voice/17fc7189ddbd.mp3": {
+    "file": "assets/17fc7189ddbd-K2RLJtIw.mp3",
+    "src": "content/locations/bazar/voice/17fc7189ddbd.mp3"
+  },
   "content/locations/bazar/voice/18bd33b27ef4.mp3": {
     "file": "assets/18bd33b27ef4-cVhuxy8J.mp3",
     "src": "content/locations/bazar/voice/18bd33b27ef4.mp3"
@@ -10400,7 +10400,7 @@
   },
   "content/locations/darihana/voice/17fc7189ddbd.mp3": {
     "file": "assets/17fc7189ddbd-K2RLJtIw.mp3",
-    "src": "content/locations/darihana/voice/17fc7189ddbd.mp3"
+    "src": "content/locations/bazar/voice/17fc7189ddbd.mp3"
   },
   "content/locations/darihana/voice/18d7233638e3.mp3": {
     "file": "assets/18d7233638e3-CqDJP-g-.mp3",
@@ -12918,10 +12918,6 @@
     "file": "assets/561275172c8e-CF2JJ75Y.mp3",
     "src": "content/locations/futbol-match/voice/561275172c8e.mp3"
   },
-  "content/locations/futbol-match/voice/57b28e61da4d.mp3": {
-    "file": "assets/57b28e61da4d-Dty5erkB.mp3",
-    "src": "content/locations/futbol-match/voice/57b28e61da4d.mp3"
-  },
   "content/locations/futbol-match/voice/5a340eac83ab.mp3": {
     "file": "assets/5a340eac83ab-DzLV3hYN.mp3",
     "src": "content/locations/futbol-match/voice/5a340eac83ab.mp3"
@@ -13129,10 +13125,6 @@
   "content/locations/futbol-match/voice/8e38dc42af2c.mp3": {
     "file": "assets/8e38dc42af2c-Ryv8_EMs.mp3",
     "src": "content/locations/futbol-match/voice/8e38dc42af2c.mp3"
-  },
-  "content/locations/futbol-match/voice/8f96f75fe68f.mp3": {
-    "file": "assets/8f96f75fe68f-CDyVUWhE.mp3",
-    "src": "content/locations/futbol-match/voice/8f96f75fe68f.mp3"
   },
   "content/locations/futbol-match/voice/905eab988a3b.mp3": {
     "file": "assets/905eab988a3b-CbLIMX3L.mp3",
@@ -13354,10 +13346,6 @@
     "file": "assets/d970963bbd09-Bw1XEoPb.mp3",
     "src": "content/locations/futbol-match/voice/d970963bbd09.mp3"
   },
-  "content/locations/futbol-match/voice/e0e4f8536c80.mp3": {
-    "file": "assets/e0e4f8536c80-Csn2miYk.mp3",
-    "src": "content/locations/futbol-match/voice/e0e4f8536c80.mp3"
-  },
   "content/locations/futbol-match/voice/e2a06c923ef4.mp3": {
     "file": "assets/e2a06c923ef4-BrptXMdS.mp3",
     "src": "content/locations/futbol-match/voice/e2a06c923ef4.mp3"
@@ -13469,6 +13457,10 @@
   "content/locations/futbol-match/voice/fe68931fb82d.mp3": {
     "file": "assets/fe68931fb82d-B6cFInme.mp3",
     "src": "content/locations/bayterek/voice/fe68931fb82d.mp3"
+  },
+  "content/locations/futbol-match/voice/ff4585a5c5f6.mp3": {
+    "file": "assets/ff4585a5c5f6-lGTDJDGf.mp3",
+    "src": "content/locations/futbol-match/voice/ff4585a5c5f6.mp3"
   },
   "content/locations/gul-dukeni/assets/01-vhod.webp": {
     "file": "assets/01-vhod-CGyOXn7S.webp",
@@ -14258,10 +14250,6 @@
     "file": "assets/769ff299d4b0-Cua1y5rB.mp3",
     "src": "content/locations/hokkei/voice/769ff299d4b0.mp3"
   },
-  "content/locations/hokkei/voice/77b53585a709.mp3": {
-    "file": "assets/77b53585a709-vafExs2y.mp3",
-    "src": "content/locations/asxana/voice/77b53585a709.mp3"
-  },
   "content/locations/hokkei/voice/78b991ceb67b.mp3": {
     "file": "assets/78b991ceb67b-VdmDEso9.mp3",
     "src": "content/locations/hokkei/voice/78b991ceb67b.mp3"
@@ -14420,7 +14408,7 @@
   },
   "content/locations/hokkei/voice/db317a51cc2e.mp3": {
     "file": "assets/db317a51cc2e-DkCeJbBb.mp3",
-    "src": "content/locations/hokkei/voice/db317a51cc2e.mp3"
+    "src": "content/locations/aurukhana/voice/db317a51cc2e.mp3"
   },
   "content/locations/hokkei/voice/deaf74cfa794.mp3": {
     "file": "assets/deaf74cfa794-CJCmu86n.mp3",
@@ -14485,6 +14473,10 @@
   "content/locations/hokkei/voice/f799eee02eda.mp3": {
     "file": "assets/f799eee02eda-DouEBFTk.mp3",
     "src": "content/locations/hokkei/voice/f799eee02eda.mp3"
+  },
+  "content/locations/hokkei/voice/f8ce2d1d25b8.mp3": {
+    "file": "assets/f8ce2d1d25b8-DG6iKUXk.mp3",
+    "src": "content/locations/asxana/voice/f8ce2d1d25b8.mp3"
   },
   "content/locations/hokkei/voice/fc2b06d33bdf.mp3": {
     "file": "assets/fc2b06d33bdf-FocrFz_K.mp3",
@@ -14738,10 +14730,6 @@
     "file": "assets/73f72ed241b6-CglTZjXU.mp3",
     "src": "content/locations/hqko/voice/73f72ed241b6.mp3"
   },
-  "content/locations/hqko/voice/77b53585a709.mp3": {
-    "file": "assets/77b53585a709-vafExs2y.mp3",
-    "src": "content/locations/asxana/voice/77b53585a709.mp3"
-  },
   "content/locations/hqko/voice/77e89818bdc1.mp3": {
     "file": "assets/77e89818bdc1-5_2q2hXR.mp3",
     "src": "content/locations/hqko/voice/77e89818bdc1.mp3"
@@ -14973,6 +14961,10 @@
   "content/locations/hqko/voice/f4e594e31848.mp3": {
     "file": "assets/f4e594e31848-Dx4907Fk.mp3",
     "src": "content/locations/hqko/voice/f4e594e31848.mp3"
+  },
+  "content/locations/hqko/voice/f8ce2d1d25b8.mp3": {
+    "file": "assets/f8ce2d1d25b8-DG6iKUXk.mp3",
+    "src": "content/locations/asxana/voice/f8ce2d1d25b8.mp3"
   },
   "content/locations/hqko/voice/fac57e64d806.mp3": {
     "file": "assets/fac57e64d806-BRLZupr4.mp3",
@@ -15578,10 +15570,6 @@
     "file": "assets/11ecc2f597a2-BfdQpV9Y.mp3",
     "src": "content/locations/kiim-dukeni/voice/11ecc2f597a2.mp3"
   },
-  "content/locations/kiim-dukeni/voice/125b6ee453d1.mp3": {
-    "file": "assets/125b6ee453d1-ZwKIdkQC.mp3",
-    "src": "content/locations/aurukhana/voice/125b6ee453d1.mp3"
-  },
   "content/locations/kiim-dukeni/voice/12e57860c6e7.mp3": {
     "file": "assets/12e57860c6e7-BWwcAG_V.mp3",
     "src": "content/locations/kiim-dukeni/voice/12e57860c6e7.mp3"
@@ -15629,6 +15617,10 @@
   "content/locations/kiim-dukeni/voice/3329736147f1.mp3": {
     "file": "assets/3329736147f1-Ddl3_gp7.mp3",
     "src": "content/locations/kiim-dukeni/voice/3329736147f1.mp3"
+  },
+  "content/locations/kiim-dukeni/voice/3343b3c0b0dc.mp3": {
+    "file": "assets/3343b3c0b0dc-CXttDqYL.mp3",
+    "src": "content/locations/kiim-dukeni/voice/3343b3c0b0dc.mp3"
   },
   "content/locations/kiim-dukeni/voice/3363185be65a.mp3": {
     "file": "assets/3363185be65a-B8dNIY_9.mp3",
@@ -16144,7 +16136,7 @@
   },
   "content/locations/kino/voice/17fc7189ddbd.mp3": {
     "file": "assets/17fc7189ddbd-K2RLJtIw.mp3",
-    "src": "content/locations/darihana/voice/17fc7189ddbd.mp3"
+    "src": "content/locations/bazar/voice/17fc7189ddbd.mp3"
   },
   "content/locations/kino/voice/186a052e8f5c.mp3": {
     "file": "assets/186a052e8f5c-DdCg0OWh.mp3",
@@ -17944,7 +17936,7 @@
   },
   "content/locations/kvartira/voice/17fc7189ddbd.mp3": {
     "file": "assets/17fc7189ddbd-K2RLJtIw.mp3",
-    "src": "content/locations/darihana/voice/17fc7189ddbd.mp3"
+    "src": "content/locations/bazar/voice/17fc7189ddbd.mp3"
   },
   "content/locations/kvartira/voice/180318b75811.mp3": {
     "file": "assets/180318b75811-C6JdOFut.mp3",
@@ -20886,10 +20878,6 @@
     "file": "assets/47ff4f9689ed-lKRByC7k.mp3",
     "src": "content/locations/mektep/voice/47ff4f9689ed.mp3"
   },
-  "content/locations/mektep/voice/485d1632f2f2.mp3": {
-    "file": "assets/485d1632f2f2-ukPQA4IY.mp3",
-    "src": "content/locations/mektep/voice/485d1632f2f2.mp3"
-  },
   "content/locations/mektep/voice/48917b317a0c.mp3": {
     "file": "assets/48917b317a0c-5FLFVAAD.mp3",
     "src": "content/locations/mektep/voice/48917b317a0c.mp3"
@@ -20909,10 +20897,6 @@
   "content/locations/mektep/voice/54061d1abaf1.mp3": {
     "file": "assets/54061d1abaf1-DWPqMhIE.mp3",
     "src": "content/locations/mektep/voice/54061d1abaf1.mp3"
-  },
-  "content/locations/mektep/voice/541cfd428cac.mp3": {
-    "file": "assets/541cfd428cac-eAizuIry.mp3",
-    "src": "content/locations/mektep/voice/541cfd428cac.mp3"
   },
   "content/locations/mektep/voice/54ba4d7166e7.mp3": {
     "file": "assets/54ba4d7166e7-Bi8Zb4xR.mp3",
@@ -20953,6 +20937,10 @@
   "content/locations/mektep/voice/66052d03f627.mp3": {
     "file": "assets/66052d03f627-ja6T13lI.mp3",
     "src": "content/locations/mektep/voice/66052d03f627.mp3"
+  },
+  "content/locations/mektep/voice/66b305c9ad5d.mp3": {
+    "file": "assets/66b305c9ad5d-7dl86QNU.mp3",
+    "src": "content/locations/balabaqsha/voice/66b305c9ad5d.mp3"
   },
   "content/locations/mektep/voice/6a78798484b3.mp3": {
     "file": "assets/6a78798484b3-Co-AIBhU.mp3",
@@ -22368,7 +22356,7 @@
   },
   "content/locations/muzei/voice/f8ce2d1d25b8.mp3": {
     "file": "assets/f8ce2d1d25b8-DG6iKUXk.mp3",
-    "src": "content/locations/muzei/voice/f8ce2d1d25b8.mp3"
+    "src": "content/locations/asxana/voice/f8ce2d1d25b8.mp3"
   },
   "content/locations/muzei/voice/f8fb25b6fedf.mp3": {
     "file": "assets/f8fb25b6fedf-2Ieethij.mp3",
@@ -22952,7 +22940,7 @@
   },
   "content/locations/okeanarium/voice/f8ce2d1d25b8.mp3": {
     "file": "assets/f8ce2d1d25b8-DG6iKUXk.mp3",
-    "src": "content/locations/muzei/voice/f8ce2d1d25b8.mp3"
+    "src": "content/locations/asxana/voice/f8ce2d1d25b8.mp3"
   },
   "content/locations/okeanarium/voice/f9542670fe38.mp3": {
     "file": "assets/f9542670fe38-d55TcAeE.mp3",
@@ -23076,7 +23064,7 @@
   },
   "content/locations/pochta/voice/17fc7189ddbd.mp3": {
     "file": "assets/17fc7189ddbd-K2RLJtIw.mp3",
-    "src": "content/locations/darihana/voice/17fc7189ddbd.mp3"
+    "src": "content/locations/bazar/voice/17fc7189ddbd.mp3"
   },
   "content/locations/pochta/voice/1dc76b21a9bc.mp3": {
     "file": "assets/1dc76b21a9bc-B6Z1uau3.mp3",
@@ -24670,10 +24658,6 @@
     "file": "assets/9c6c1e2a224b-geTdr64B.mp3",
     "src": "content/locations/sana/voice/9c6c1e2a224b.mp3"
   },
-  "content/locations/sana/voice/9cd401839b2e.mp3": {
-    "file": "assets/9cd401839b2e-DrZtFlIF.mp3",
-    "src": "content/locations/sana/voice/9cd401839b2e.mp3"
-  },
   "content/locations/sana/voice/9e8b8173c61b.mp3": {
     "file": "assets/9e8b8173c61b-xlWX7QPO.mp3",
     "src": "content/locations/sana/voice/9e8b8173c61b.mp3"
@@ -24681,10 +24665,6 @@
   "content/locations/sana/voice/9fcf26336588.mp3": {
     "file": "assets/9fcf26336588-bMYuOa5h.mp3",
     "src": "content/locations/sana/voice/9fcf26336588.mp3"
-  },
-  "content/locations/sana/voice/a1d9314adc62.mp3": {
-    "file": "assets/a1d9314adc62-D4iVSanl.mp3",
-    "src": "content/locations/sana/voice/a1d9314adc62.mp3"
   },
   "content/locations/sana/voice/a37c6505448d.mp3": {
     "file": "assets/a37c6505448d-CTRQRg__.mp3",
@@ -25660,7 +25640,7 @@
   },
   "content/locations/sauda-ortalygy/voice/f8ce2d1d25b8.mp3": {
     "file": "assets/f8ce2d1d25b8-DG6iKUXk.mp3",
-    "src": "content/locations/muzei/voice/f8ce2d1d25b8.mp3"
+    "src": "content/locations/asxana/voice/f8ce2d1d25b8.mp3"
   },
   "content/locations/sauda-ortalygy/voice/fa83ff4eacd5.mp3": {
     "file": "assets/fa83ff4eacd5-CdAPJtZA.mp3",
@@ -25808,7 +25788,7 @@
   },
   "content/locations/shashtaraz/voice/17fc7189ddbd.mp3": {
     "file": "assets/17fc7189ddbd-K2RLJtIw.mp3",
-    "src": "content/locations/darihana/voice/17fc7189ddbd.mp3"
+    "src": "content/locations/bazar/voice/17fc7189ddbd.mp3"
   },
   "content/locations/shashtaraz/voice/1ec920504902.mp3": {
     "file": "assets/1ec920504902-vOGTdp-C.mp3",
@@ -26336,7 +26316,7 @@
   },
   "content/locations/sirk/voice/3343b3c0b0dc.mp3": {
     "file": "assets/3343b3c0b0dc-CXttDqYL.mp3",
-    "src": "content/locations/sirk/voice/3343b3c0b0dc.mp3"
+    "src": "content/locations/kiim-dukeni/voice/3343b3c0b0dc.mp3"
   },
   "content/locations/sirk/voice/360adcfcfd82.mp3": {
     "file": "assets/360adcfcfd82-BkINsTmT.mp3",
@@ -26782,6 +26762,10 @@
     "file": "assets/0239526a718b-BprSdW2R.mp3",
     "src": "content/locations/aurukhana/voice/0239526a718b.mp3"
   },
+  "content/locations/sport-klub/voice/02ca295a358a.mp3": {
+    "file": "assets/02ca295a358a-CWJ4ZOb3.mp3",
+    "src": "content/locations/bank/voice/02ca295a358a.mp3"
+  },
   "content/locations/sport-klub/voice/03c7af79ee9f.mp3": {
     "file": "assets/03c7af79ee9f-Bp1j-U5H.mp3",
     "src": "content/locations/sport-klub/voice/03c7af79ee9f.mp3"
@@ -27085,10 +27069,6 @@
   "content/locations/sport-klub/voice/9e6e0b0de14e.mp3": {
     "file": "assets/9e6e0b0de14e-CME3fRFi.mp3",
     "src": "content/locations/sport-klub/voice/9e6e0b0de14e.mp3"
-  },
-  "content/locations/sport-klub/voice/9e7e2e49f700.mp3": {
-    "file": "assets/9e7e2e49f700-j3dcl7Qb.mp3",
-    "src": "content/locations/sport-klub/voice/9e7e2e49f700.mp3"
   },
   "content/locations/sport-klub/voice/9e845cf13f49.mp3": {
     "file": "assets/9e845cf13f49-DSPtP-FK.mp3",
@@ -28544,7 +28524,7 @@
   },
   "content/locations/teatr/voice/52b9563ababb.mp3": {
     "file": "assets/52b9563ababb-CODE7M5H.mp3",
-    "src": "content/locations/teatr/voice/52b9563ababb.mp3"
+    "src": "content/locations/aurukhana/voice/52b9563ababb.mp3"
   },
   "content/locations/teatr/voice/56acadeff972.mp3": {
     "file": "assets/56acadeff972-BrUX6RL7.mp3",
@@ -28605,10 +28585,6 @@
   "content/locations/teatr/voice/7782ceb7c350.mp3": {
     "file": "assets/7782ceb7c350-DzdBpFzF.mp3",
     "src": "content/locations/sport-klub/voice/7782ceb7c350.mp3"
-  },
-  "content/locations/teatr/voice/77b53585a709.mp3": {
-    "file": "assets/77b53585a709-vafExs2y.mp3",
-    "src": "content/locations/asxana/voice/77b53585a709.mp3"
   },
   "content/locations/teatr/voice/78faa1d4c2f2.mp3": {
     "file": "assets/78faa1d4c2f2-CG3A6sex.mp3",
@@ -28825,6 +28801,10 @@
   "content/locations/teatr/voice/f70cd446ca45.mp3": {
     "file": "assets/f70cd446ca45-BPlCVG8i.mp3",
     "src": "content/locations/teatr/voice/f70cd446ca45.mp3"
+  },
+  "content/locations/teatr/voice/f8ce2d1d25b8.mp3": {
+    "file": "assets/f8ce2d1d25b8-DG6iKUXk.mp3",
+    "src": "content/locations/asxana/voice/f8ce2d1d25b8.mp3"
   },
   "content/locations/teatr/voice/f8d800c222d9.mp3": {
     "file": "assets/f8d800c222d9-CIGF-JbZ.mp3",
@@ -29966,10 +29946,6 @@
     "file": "assets/0e7d6765d66c-Cx_rYXZy.mp3",
     "src": "content/locations/vet/voice/0e7d6765d66c.mp3"
   },
-  "content/locations/vet/voice/114f2938e28a.mp3": {
-    "file": "assets/114f2938e28a-_96iRTbF.mp3",
-    "src": "content/locations/vet/voice/114f2938e28a.mp3"
-  },
   "content/locations/vet/voice/125b6ee453d1.mp3": {
     "file": "assets/125b6ee453d1-ZwKIdkQC.mp3",
     "src": "content/locations/aurukhana/voice/125b6ee453d1.mp3"
@@ -30313,6 +30289,10 @@
   "content/locations/vet/voice/cecc8c650d93.mp3": {
     "file": "assets/cecc8c650d93-CVBcKJ4D.mp3",
     "src": "content/locations/vet/voice/cecc8c650d93.mp3"
+  },
+  "content/locations/vet/voice/ceef8376c498.mp3": {
+    "file": "assets/ceef8376c498-CdLHIaHg.mp3",
+    "src": "content/locations/botanika/voice/ceef8376c498.mp3"
   },
   "content/locations/vet/voice/d2dea1ef9d89.mp3": {
     "file": "assets/d2dea1ef9d89-CMcRGBPY.mp3",
@@ -31788,7 +31768,7 @@
     "src": "content/stickers/words-50.webp"
   },
   "index.html": {
-    "file": "assets/game-D_D8Y0M_.js",
+    "file": "assets/game-CSGC1E7O.js",
     "name": "game",
     "src": "index.html",
     "isEntry": true,
@@ -33494,7 +33474,7 @@
     ]
   },
   "virtual:kz-content/pack/aeroport": {
-    "file": "assets/aeroport-Bejsmu11.js",
+    "file": "assets/aeroport-CUClhW2K.js",
     "name": "aeroport",
     "src": "virtual:kz-content/pack/aeroport",
     "isDynamicEntry": true,
@@ -33519,11 +33499,11 @@
       "assets/17-posadochnyy-talon-lnzHb1A_.webp",
       "assets/18-spasibo-za-registraciyu-B-inuJ2U.webp",
       "assets/19-k-dosmotru-DAG4IUK_.webp",
-      "assets/aeroport-texts-1e862063e8d6.json"
+      "assets/aeroport-texts-fd678ed8c595.json"
     ]
   },
   "virtual:kz-content/pack/asxana": {
-    "file": "assets/asxana-CWIdV94L.js",
+    "file": "assets/asxana-XP30GaJD.js",
     "name": "asxana",
     "src": "virtual:kz-content/pack/asxana",
     "isDynamicEntry": true,
@@ -33546,11 +33526,11 @@
       "assets/16-net-soka-Cqs645l1.webp",
       "assets/17-prines-BiZeU-y0.webp",
       "assets/18-vse-pravilno-CGDFtoy0.webp",
-      "assets/asxana-texts-1d9f8ab302d8.json"
+      "assets/asxana-texts-0fa4b4718814.json"
     ]
   },
   "virtual:kz-content/pack/aurukhana": {
-    "file": "assets/aurukhana-DINTNQHl.js",
+    "file": "assets/aurukhana-CITxS53V.js",
     "name": "aurukhana",
     "src": "virtual:kz-content/pack/aurukhana",
     "isDynamicEntry": true,
@@ -33572,11 +33552,11 @@
       "assets/15-get-well-C8r7zBW0.webp",
       "assets/16-father-ThhXgMZq.webp",
       "assets/17-farewell-BrwDLfdu.webp",
-      "assets/aurukhana-texts-50799a3927b5.json"
+      "assets/aurukhana-texts-9f12da305c4a.json"
     ]
   },
   "virtual:kz-content/pack/avtobus": {
-    "file": "assets/avtobus-Cfzg3A7P.js",
+    "file": "assets/avtobus-DMT-hVU2.js",
     "name": "avtobus",
     "src": "virtual:kz-content/pack/avtobus",
     "isDynamicEntry": true,
@@ -33605,11 +33585,11 @@
       "assets/22-obyavlenie-ostanovki-CBwYb31s.webp",
       "assets/23-ostanovka-tsirk-DxiY1juN.webp",
       "assets/24-ostanovka-arena-DnFInv-B.webp",
-      "assets/avtobus-texts-2bc099c7b4f9.json"
+      "assets/avtobus-texts-3f2734c7d2b3.json"
     ]
   },
   "virtual:kz-content/pack/balabaqsha": {
-    "file": "assets/balabaqsha-Blf9jwvX.js",
+    "file": "assets/balabaqsha-y-cdcaVU.js",
     "name": "balabaqsha",
     "src": "virtual:kz-content/pack/balabaqsha",
     "isDynamicEntry": true,
@@ -33632,7 +33612,7 @@
       "assets/16-eshche-poigrayu-DWuDccwg.webp",
       "assets/17-gruppa-BKzpos5G.webp",
       "assets/18-rano-CoaEshtI.webp",
-      "assets/balabaqsha-texts-aa952d6bd9ff.json"
+      "assets/balabaqsha-texts-a2b64fa7a790.json"
     ]
   },
   "virtual:kz-content/pack/bank": {
@@ -33749,7 +33729,7 @@
     ]
   },
   "virtual:kz-content/pack/bazar": {
-    "file": "assets/bazar-BxeH8_5l.js",
+    "file": "assets/bazar-D0dW3pZd.js",
     "name": "bazar",
     "src": "virtual:kz-content/pack/bazar",
     "isDynamicEntry": true,
@@ -33773,11 +33753,11 @@
       "assets/17-paket-yablok-BtLzhYyR.webp",
       "assets/18-babushka-s-yablokami-BujqDwdx.webp",
       "assets/19-ryady-bazara-MQ00hUq6.webp",
-      "assets/bazar-texts-e6aac125a94f.json"
+      "assets/bazar-texts-55cd4a03918b.json"
     ]
   },
   "virtual:kz-content/pack/botanika": {
-    "file": "assets/botanika-CaJXJBgk.js",
+    "file": "assets/botanika-DFM74xei.js",
     "name": "botanika",
     "src": "virtual:kz-content/pack/botanika",
     "isDynamicEntry": true,
@@ -33804,11 +33784,11 @@
       "assets/20-eshche-raz-B-LlQKpw.webp",
       "assets/21-kafe-sada-BbtXKUKb.webp",
       "assets/22-net-deneg-morozhenoe-F7yLmgi9.webp",
-      "assets/botanika-texts-f796f8a73d60.json"
+      "assets/botanika-texts-d657b5bebdc5.json"
     ]
   },
   "virtual:kz-content/pack/darihana": {
-    "file": "assets/darihana-C_WTz6_2.js",
+    "file": "assets/darihana-Be85QX-o.js",
     "name": "darihana",
     "src": "virtual:kz-content/pack/darihana",
     "isDynamicEntry": true,
@@ -33833,11 +33813,11 @@
       "assets/18-cena-siropa-Q8h6HP2V.webp",
       "assets/19-oplata-siropa-Bjy8545Y.webp",
       "assets/20-s-siropom-CVa6rBip.webp",
-      "assets/darihana-texts-48758835c0ef.json"
+      "assets/darihana-texts-5e1849bb35e2.json"
     ]
   },
   "virtual:kz-content/pack/dvor": {
-    "file": "assets/dvor-BULdLfaK.js",
+    "file": "assets/dvor-_vrW-zz-.js",
     "name": "dvor",
     "src": "virtual:kz-content/pack/dvor",
     "isDynamicEntry": true,
@@ -33870,11 +33850,11 @@
       "assets/26-miska-dlya-kota-DqEKFLQZ.webp",
       "assets/27-ryzhiy-kot-AP6wblWr.webp",
       "assets/28-sosedka-blagodarit-ihjM9cab.webp",
-      "assets/dvor-texts-73510333f8fe.json"
+      "assets/dvor-texts-08cd67a1533c.json"
     ]
   },
   "virtual:kz-content/pack/emhana": {
-    "file": "assets/emhana-DE7-svGB.js",
+    "file": "assets/emhana-BRJLJ_VT.js",
     "name": "emhana",
     "src": "virtual:kz-content/pack/emhana",
     "isDynamicEntry": true,
@@ -33896,7 +33876,7 @@
       "assets/15-vtoroy-etazh-Bdz8QR2_.webp",
       "assets/16-talon-ByM8FWS5.webp",
       "assets/17-vyhod-s-talonom-BWJ5M1QN.webp",
-      "assets/emhana-texts-e72e4a3e5ce2.json"
+      "assets/emhana-texts-6e829289b9b6.json"
     ]
   },
   "virtual:kz-content/pack/expo": {
@@ -33927,7 +33907,7 @@
     ]
   },
   "virtual:kz-content/pack/futbol-match": {
-    "file": "assets/futbol-match-CFk9V2lu.js",
+    "file": "assets/futbol-match-BAsNddil.js",
     "name": "futbol-match",
     "src": "virtual:kz-content/pack/futbol-match",
     "isDynamicEntry": true,
@@ -33964,11 +33944,11 @@
       "assets/30-papa-u-kioska-71i63kWY.webp",
       "assets/31-novyy-sharf-B_9lLKlw.webp",
       "assets/32-vtoroy-taym-Cl8tT4wE.webp",
-      "assets/futbol-match-texts-ab5dc15f5698.json"
+      "assets/futbol-match-texts-e8c8f7bb36c3.json"
     ]
   },
   "virtual:kz-content/pack/gul-dukeni": {
-    "file": "assets/gul-dukeni-QKIJQsa8.js",
+    "file": "assets/gul-dukeni-BeoaIojZ.js",
     "name": "gul-dukeni",
     "src": "virtual:kz-content/pack/gul-dukeni",
     "isDynamicEntry": true,
@@ -33990,11 +33970,11 @@
       "assets/15-belye-zheltye-CQEd4WuI.webp",
       "assets/16-tri-shtuki-C0NXCX56.webp",
       "assets/17-bez-obertki-Bl-9GjTO.webp",
-      "assets/gul-dukeni-texts-3626e6203ecf.json"
+      "assets/gul-dukeni-texts-8644a9053a4e.json"
     ]
   },
   "virtual:kz-content/pack/hokkei": {
-    "file": "assets/hokkei-BQgsMQOQ.js",
+    "file": "assets/hokkei-BHWDLlU6.js",
     "name": "hokkei",
     "src": "virtual:kz-content/pack/hokkei",
     "isDynamicEntry": true,
@@ -34017,11 +33997,11 @@
       "assets/16-snova-na-tribunu-CDuUWYoe.webp",
       "assets/17-pobeda-D4a4tzyN.webp",
       "assets/18-vyhod-iz-areny-DU5CRPic.webp",
-      "assets/hokkei-texts-3b1761eb8c50.json"
+      "assets/hokkei-texts-d9ffdde13053.json"
     ]
   },
   "virtual:kz-content/pack/hqko": {
-    "file": "assets/hqko-CYAxjLZz.js",
+    "file": "assets/hqko-qEYNgaCX.js",
     "name": "hqko",
     "src": "virtual:kz-content/pack/hqko",
     "isDynamicEntry": true,
@@ -34042,7 +34022,7 @@
       "assets/14-zabyl-dokument-TW_QxYW6.webp",
       "assets/15-otec-prishel-CeAR5AtF.webp",
       "assets/16-snova-u-okna-CFLViKRF.webp",
-      "assets/hqko-texts-3beb01cb4884.json"
+      "assets/hqko-texts-62321c335499.json"
     ]
   },
   "virtual:kz-content/pack/kafe": {
@@ -34072,7 +34052,7 @@
     ]
   },
   "virtual:kz-content/pack/kiim-dukeni": {
-    "file": "assets/kiim-dukeni-AtvRS8fD.js",
+    "file": "assets/kiim-dukeni-ClmuN52W.js",
     "name": "kiim-dukeni",
     "src": "virtual:kz-content/pack/kiim-dukeni",
     "isDynamicEntry": true,
@@ -34099,11 +34079,11 @@
       "assets/20-cheaper-m9hs_BIS.webp",
       "assets/21-other-pair-hU5nuFEj.webp",
       "assets/22-shoes-farewell-CIbYRq-i.webp",
-      "assets/kiim-dukeni-texts-a8ac0906dab4.json"
+      "assets/kiim-dukeni-texts-303646b3b117.json"
     ]
   },
   "virtual:kz-content/pack/kino": {
-    "file": "assets/kino-B-ZqPdg2.js",
+    "file": "assets/kino-ZGqlt1Ud.js",
     "name": "kino",
     "src": "virtual:kz-content/pack/kino",
     "isDynamicEntry": true,
@@ -34126,7 +34106,7 @@
       "assets/16-popkorn-Bysxl2ey.webp",
       "assets/17-smotrim-film-CPbuUDtZ.webp",
       "assets/18-posle-filma-CtQo5mOo.webp",
-      "assets/kino-texts-5d5ff934891c.json"
+      "assets/kino-texts-26b840ae0a74.json"
     ]
   },
   "virtual:kz-content/pack/kitaphana": {
@@ -34162,7 +34142,7 @@
     ]
   },
   "virtual:kz-content/pack/kvartira": {
-    "file": "assets/kvartira-D_TvE-K9.js",
+    "file": "assets/kvartira-BKiDG6DC.js",
     "name": "kvartira",
     "src": "virtual:kz-content/pack/kvartira",
     "isDynamicEntry": true,
@@ -34312,7 +34292,7 @@
       "assets/hall-night-DQ_wm1Sd.webp",
       "assets/map-Bb315wNf.svg",
       "assets/player-CMsGc4B_.svg",
-      "assets/kvartira-texts-b20bda26878a.json"
+      "assets/kvartira-texts-fb9fa49ba8aa.json"
     ],
     "isHub": true
   },
@@ -34363,7 +34343,7 @@
     ]
   },
   "virtual:kz-content/pack/mektep": {
-    "file": "assets/mektep-AuFI_bef.js",
+    "file": "assets/mektep-CmuU-nVS.js",
     "name": "mektep",
     "src": "virtual:kz-content/pack/mektep",
     "isDynamicEntry": true,
@@ -34391,7 +34371,7 @@
       "assets/21-fizkultura-Dqj_RLUS.webp",
       "assets/22-spasibo-apai-2wE7Qrih.webp",
       "assets/23-u-vorot-shkoly-DsV7Vgjy.webp",
-      "assets/mektep-texts-15cc17d8dc82.json"
+      "assets/mektep-texts-529691a5ffbd.json"
     ]
   },
   "virtual:kz-content/pack/muz-aidyn": {
@@ -34510,7 +34490,7 @@
     ]
   },
   "virtual:kz-content/pack/saiabaq": {
-    "file": "assets/saiabaq-CLmgFpam.js",
+    "file": "assets/saiabaq-CIhX3iBh.js",
     "name": "saiabaq",
     "src": "virtual:kz-content/pack/saiabaq",
     "isDynamicEntry": true,
@@ -34543,11 +34523,11 @@
       "assets/26-vernut-syuda-DvLZeoDL.webp",
       "assets/27-poehali-DGVAZ1F-.webp",
       "assets/28-na-samokate-jIYM7W34.webp",
-      "assets/saiabaq-texts-cc98d07212da.json"
+      "assets/saiabaq-texts-2860c7a360cf.json"
     ]
   },
   "virtual:kz-content/pack/sana": {
-    "file": "assets/sana-Dw5dPnWx.js",
+    "file": "assets/sana-CDL1PAf_.js",
     "name": "sana",
     "src": "virtual:kz-content/pack/sana",
     "isDynamicEntry": true,
@@ -34571,11 +34551,11 @@
       "assets/17-kuda-povernut-CyOHmp6-.webp",
       "assets/18-ekran-i-robot-CxEgBVI4.webp",
       "assets/19-sosed-za-stolom-CwEZOI6x.webp",
-      "assets/sana-texts-d165ef94ba3b.json"
+      "assets/sana-texts-c81d9f369672.json"
     ]
   },
   "virtual:kz-content/pack/sauda-ortalygy": {
-    "file": "assets/sauda-ortalygy-C9iiMjWe.js",
+    "file": "assets/sauda-ortalygy-BcBhiCdB.js",
     "name": "sauda-ortalygy",
     "src": "virtual:kz-content/pack/sauda-ortalygy",
     "isDynamicEntry": true,
@@ -34611,11 +34591,11 @@
       "assets/29-kassa-odezhdy-CCjwSPBY.webp",
       "assets/30-net-deneg-kurtka-kVZBf3Q1.webp",
       "assets/31-paket-s-kurtkoy--5Bu7Zm0.webp",
-      "assets/sauda-ortalygy-texts-dd6c09cba92e.json"
+      "assets/sauda-ortalygy-texts-27e8d76e7b11.json"
     ]
   },
   "virtual:kz-content/pack/shashtaraz": {
-    "file": "assets/shashtaraz-Bo_jzdOd.js",
+    "file": "assets/shashtaraz-CJD_bRbD.js",
     "name": "shashtaraz",
     "src": "virtual:kz-content/pack/shashtaraz",
     "isDynamicEntry": true,
@@ -34642,7 +34622,7 @@
     ]
   },
   "virtual:kz-content/pack/sirk": {
-    "file": "assets/sirk-RMTP9IFS.js",
+    "file": "assets/sirk-P2DzJXEX.js",
     "name": "sirk",
     "src": "virtual:kz-content/pack/sirk",
     "isDynamicEntry": true,
@@ -34665,11 +34645,11 @@
       "assets/16-finale-DnIr0PB9.webp",
       "assets/17-short-Bm6xYH-1.webp",
       "assets/18-farewell-DQrF1RRW.webp",
-      "assets/sirk-texts-68ff59387754.json"
+      "assets/sirk-texts-866a52eff378.json"
     ]
   },
   "virtual:kz-content/pack/sport-klub": {
-    "file": "assets/sport-klub-BDBLg9vO.js",
+    "file": "assets/sport-klub-DCBHbxDl.js",
     "name": "sport-klub",
     "src": "virtual:kz-content/pack/sport-klub",
     "isDynamicEntry": true,
@@ -34693,11 +34673,11 @@
       "assets/17-shower-BQFQo7L0.webp",
       "assets/18-leave-CfOkDy9c.webp",
       "assets/19-farewell-eAH_t8uT.webp",
-      "assets/sport-klub-texts-3f950d2617f9.json"
+      "assets/sport-klub-texts-55e88c898605.json"
     ]
   },
   "virtual:kz-content/pack/stomatolog": {
-    "file": "assets/stomatolog-9mWqHoaM.js",
+    "file": "assets/stomatolog-Ba93a9Xl.js",
     "name": "stomatolog",
     "src": "virtual:kz-content/pack/stomatolog",
     "isDynamicEntry": true,
@@ -34723,7 +34703,7 @@
       "assets/19-molodec-CRD7aEwE.webp",
       "assets/20-nakleika-BG-QD-Se.webp",
       "assets/21-tomiris-raduetsya-DyIS0X1h.webp",
-      "assets/stomatolog-texts-502193a07de8.json"
+      "assets/stomatolog-texts-288339839cae.json"
     ]
   },
   "virtual:kz-content/pack/taksi": {
@@ -34765,7 +34745,7 @@
     ]
   },
   "virtual:kz-content/pack/teatr": {
-    "file": "assets/teatr-D3H9cJAC.js",
+    "file": "assets/teatr-AkoEq2W-.js",
     "name": "teatr",
     "src": "virtual:kz-content/pack/teatr",
     "isDynamicEntry": true,
@@ -34786,7 +34766,7 @@
       "assets/14-opozdali-CM3eyo93.webp",
       "assets/15-u-dverey-xVVBAR9c.webp",
       "assets/16-balkon-ScNrbUBV.webp",
-      "assets/teatr-texts-39a2e001b5b6.json"
+      "assets/teatr-texts-ffff728b9335.json"
     ]
   },
   "virtual:kz-content/pack/telefon-zhondeu": {
@@ -34818,7 +34798,7 @@
     ]
   },
   "virtual:kz-content/pack/velo-park": {
-    "file": "assets/velo-park-DB-5gbXA.js",
+    "file": "assets/velo-park-BPqda2Sw.js",
     "name": "velo-park",
     "src": "virtual:kz-content/pack/velo-park",
     "isDynamicEntry": true,
@@ -34843,11 +34823,11 @@
       "assets/18-snova-v-puti-pDX8yfoc.webp",
       "assets/19-lyudi-na-dorozhke-BgnrCE5y.webp",
       "assets/20-zvonok-na-rule-CIqGfzck.webp",
-      "assets/velo-park-texts-8b107c4febb9.json"
+      "assets/velo-park-texts-35e806978cef.json"
     ]
   },
   "virtual:kz-content/pack/vet": {
-    "file": "assets/vet-DFfndKAF.js",
+    "file": "assets/vet-Dt4lHZ2j.js",
     "name": "vet",
     "src": "virtual:kz-content/pack/vet",
     "isDynamicEntry": true,
@@ -34870,11 +34850,11 @@
       "assets/16-cat-ointment-hTR0NTXi.webp",
       "assets/17-cat-home-D-t2xXZ9.webp",
       "assets/18-farewell-B93X6gwd.webp",
-      "assets/vet-texts-93a600ca2c43.json"
+      "assets/vet-texts-53180fe13e17.json"
     ]
   },
   "virtual:kz-content/pack/vokzal": {
-    "file": "assets/vokzal-j9wEUZbx.js",
+    "file": "assets/vokzal-6GP8lgTt.js",
     "name": "vokzal",
     "src": "virtual:kz-content/pack/vokzal",
     "isDynamicEntry": true,
@@ -34903,7 +34883,7 @@
     ]
   },
   "virtual:kz-content/pack/zoo-dukeni": {
-    "file": "assets/zoo-dukeni-GjrsWBYL.js",
+    "file": "assets/zoo-dukeni-WlsNM43t.js",
     "name": "zoo-dukeni",
     "src": "virtual:kz-content/pack/zoo-dukeni",
     "isDynamicEntry": true,
@@ -34926,7 +34906,7 @@
       "assets/16-malenkii-akvarium-6oerXq2g.webp",
       "assets/17-kassa-rybka-DBPG4F7j.webp",
       "assets/18-homyaki-D-1P7Sg0.webp",
-      "assets/zoo-dukeni-texts-5beca9493d05.json"
+      "assets/zoo-dukeni-texts-b5301bc991a0.json"
     ]
   },
   "virtual:kz-content/sources": {
@@ -34947,7 +34927,7 @@
     ]
   },
   "voice-test.html": {
-    "file": "assets/voice-soSQn2B2.js",
+    "file": "assets/voice-BOpwxPDH.js",
     "name": "voice",
     "src": "voice-test.html",
     "isEntry": true,
