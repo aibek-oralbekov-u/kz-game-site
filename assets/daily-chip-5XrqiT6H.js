@@ -1,0 +1,1 @@
+import{n as e,o as t}from"./daily-BkxD4hAS.js";function n(n,r,i){let a=e(r,n,i);return{...a,flame:t(n.flame,a.date)}}function r(e,t){let r=n(e,t);return r.tasks.length?{text:`${r.flame.count} · ${r.done}/${r.tasks.length}`,icon:`icons/flame`}:void 0}export{n,r as t};
