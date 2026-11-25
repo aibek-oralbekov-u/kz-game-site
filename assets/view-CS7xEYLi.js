@@ -1,0 +1,1 @@
+export{t as render}from"./view-BtPjf0B6.js";
