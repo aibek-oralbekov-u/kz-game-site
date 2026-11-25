@@ -1,0 +1,36 @@
+{
+  "environment": "environment.webp",
+  "models": [
+    {"file": "room.glb", "position": [0, 0, 0], "rotation": 0},
+    {"file": "dining_table.glb", "position": [0, 0, 0], "rotation": 0, "height": 0.76},
+    {"file": "dining_chair_02.glb", "position": [0, 0, 0.95], "rotation": 3.141593, "height": 0.95},
+    {"file": "dining_chair_02.glb", "position": [1, 0, 0], "rotation": -1.570796, "height": 0.95},
+    {"file": "dining_chair_02.glb", "position": [-1, 0, 0], "rotation": 1.570796, "height": 0.95},
+    {"file": "painted_wooden_cabinet_02.glb", "position": [-1.85, 0, -2.1], "rotation": 0, "height": 0.86},
+    {"file": "painted_wooden_cabinet_02.glb", "position": [-0.6, 0, -2.1], "rotation": 0, "height": 0.86},
+    {"file": "electric_stove.glb", "position": [0.65, 0, -2.12], "rotation": 0, "height": 0.86},
+    {"file": "vintage_electric_kettle.glb", "position": [-1.85, 0.86, -2.1], "rotation": 0, "height": 0.24},
+    {"file": "tea_set_01.glb", "position": [-0.22, 0.77, -0.1], "rotation": 0, "height": 0.22},
+    {"file": "jug_01.glb", "position": [0.44, 0.77, -0.25], "rotation": 0, "height": 0.25},
+    {"file": "wooden_bowl_02.glb", "position": [-0.45, 0.77, 0.27], "rotation": 0, "height": 0.09},
+    {"file": "wooden_cutting_board.glb", "position": [0.38, 0.77, 0.28], "rotation": 0, "height": 0.035},
+    {"file": "food_apple_01.glb", "position": [-0.45, 0.86, 0.27], "rotation": 0, "height": 0.085},
+    {"file": "hamburger_buns.glb", "position": [0.38, 0.805, 0.28], "rotation": 0, "height": 0.08},
+    {"file": "hanging_industrial_lamp.glb", "position": [0, 2.3, 0], "rotation": 0, "height": 0.35}
+  ],
+  "lights": {"day": {"sky": "#e9f2ff", "ground": "#777367", "ambient": 2.2, "key": "#fff1d6", "intensity": 3, "exposure": 1.05}, "evening": {"sky": "#eab980", "ground": "#514335", "ambient": 1.2, "key": "#ffb86a", "intensity": 2, "exposure": 0.85}, "night": {"sky": "#778bbf", "ground": "#242536", "ambient": 0.55, "key": "#ffd6a0", "intensity": 1.1, "exposure": 0.65}},
+  "shots": {
+    "02-kuhnya": {"position": [2.6, 1.7, 2.4], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-2": {"position": [2.1, 1.5, 2.6], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-3": {"position": [1.7, 1.6, 2.8], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-4": {"position": [2.4, 1.5, 2.1], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-5": {"position": [1.5, 1.65, 2.6], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-6": {"position": [2.1, 1.55, 2.5], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-7": {"position": [1.8, 1.5, 2.7], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-8": {"position": [2.4, 1.65, 2.5], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-9": {"position": [1.6, 1.5, 2.5], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "02-kuhnya-10": {"position": [2, 1.6, 2.8], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "08-kuhnya-chai": {"position": [1.5, 1.55, 2.3], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []},
+    "08-kuhnya-chai-2": {"position": [1.7, 1.5, 2.4], "target": [0, 0.85, -0.55], "fov": 55, "parallax": {"degrees": 1, "period": 12}, "characters": []}
+  }
+}

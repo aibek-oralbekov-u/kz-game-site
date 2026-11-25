@@ -1,5 +1,5 @@
 const PREFIX = 'kz-game-shell-';
-const CACHE = `${PREFIX}69755e59a618`;
+const CACHE = `${PREFIX}71612cfa9dfb`;
 const RUNTIME_CACHE = 'kz-game-runtime';
 const META_CACHE = 'kz-game-meta';
 const CURRENT_MANIFEST = '/current-asset-manifest.json';
@@ -9,7 +9,7 @@ const sameOrigin = value => new URL(value, self.location.origin).origin === self
 // KZ-30c: install reads the reduced manifest (no mp3/webp); the full one is fetched after activation.
 const PRECACHE_MANIFEST = '/precache-manifest.json';
 const FULL_MANIFEST = '/asset-manifest.json';
-const MEDIA = /\.(?:mp3|webp)$/i;
+const MEDIA = /\.(?:mp3|webp|glb)$/i;
 // KZ-40e: background loops (public/ambience, names without a build hash) — runtime cache on first play; not listed in any
 // manifest, so the activation of the next build prunes them with the other unlisted media and they are fetched again.
 const ambience = path => path.startsWith('/ambience/') && /\.mp3$/i.test(path);
